@@ -1,5 +1,5 @@
 --Category(test start)start--,
-zealgains, Zeal Gains, krillin,
+zealgains, Zeal Gains,
 --Category(test start)end--,
 
 --Category(Mudhut)start--,
