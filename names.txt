@@ -3220,7 +3220,6 @@ yamamama, <-- flaming tank in pms for enforcing rules,
 
 
 --Category(Bot or Gold Farmer)start--,
-zezima, (Added: 2025-12-29), <-- reason: testing,
 --Category(Bot or Gold Farmer)end--,
 --Bot Limiter---,
 
