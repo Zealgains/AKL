@@ -3223,6 +3223,8 @@ yamamama, <-- flaming tank in pms for enforcing rules,
 
 --Category(Bot or Gold Farmer)start--,
 --Category(Bot or Gold Farmer)end--,
+--Category(Fragging Without Calling)start--,
+--Category(Fragging Without Calling)end--,
 --Bot Limiter---,
 
 --Category(test end)start--,
