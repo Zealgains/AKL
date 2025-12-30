@@ -3224,6 +3224,7 @@ yamamama, <-- flaming tank in pms for enforcing rules,
 --Category(Bot or Gold Farmer)start--,
 --Category(Bot or Gold Farmer)end--,
 --Category(Fragging Without Calling)start--,
+2h 2big, (Added: 2025-12-30), <-- reason: Fragging without calling even after being called out,
 --Category(Fragging Without Calling)end--,
 --Bot Limiter---,
 
