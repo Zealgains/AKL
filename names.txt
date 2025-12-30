@@ -1730,6 +1730,7 @@ Hiii Sir, -- possible leak for xueen,
 I X U X I, below40cmb and 500total--possibly leak for xueen,
 janky gim, ---possible leak for xueen,
 lolliy, ---possibly xueen or girthy alt,
+slumerican, (Added: 2025-12-30), <-- reason: leaking to AFC Quincy,
 --Category(Leak Accounts)end--,
 
 --Category(Removed from Banlist)start--,
