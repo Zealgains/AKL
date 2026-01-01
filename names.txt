@@ -3207,6 +3207,7 @@ lflumby21k, purple arena, Lfteam20k, lflumby20k, <--  violated last chance Ticke
 Not ace4lyfe, Ace4lyfe1, <-- bringing main to crash after flaming ranks,
 Not Help, <--- Suspected bot account, Under 500 total,
 nst nutmeg, <-- refused to join cc then flamed ranks,
+osrs diki, (Added: 2026-01-01), <-- reason: Crashing with Misfits,
 phatcahk, <-- Toxic player,
 platlevel, <-- pking cc intentionally after multiple warnings, leaving cc to pk, 
 Qwiidy, <---Suspect account off world, says he will come back once we have numbers,
