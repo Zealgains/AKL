@@ -3204,6 +3204,7 @@ JOY WORLD, im onlyraw, <- flaming cc after interrupting mid, banned in disc tick
 kn ilk, (Added: 2026-01-01), <-- reason: Crashing with misfits,
 l must kill, <-- vulgar behavior in chat, do not remove,
 lflumby21k, purple arena, Lfteam20k, lflumby20k, <--  violated last chance Ticket# 1908,
+Longjohnz, (Added: 2026-01-01), <-- reason: Crashing with misfits,
 Not ace4lyfe, Ace4lyfe1, <-- bringing main to crash after flaming ranks,
 Not Help, <--- Suspected bot account, Under 500 total,
 nst nutmeg, <-- refused to join cc then flamed ranks,
