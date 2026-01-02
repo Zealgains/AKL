@@ -18,3 +18,4 @@ v empathy v, (Added: 2025-12-29), <-- reason: , Pked in 2007, decided to start f
 zezima, (Added: 2025-12-29), <-- reason: testing, (Rm: 2025-12-29)
 Goosey100, (Added: 2025-12-30), <-- reason: Lurking - No response over multiple days - no zeal, (Rm: 2025-12-31)
 zeal cape, (Added: 2026-01-02), <-- reason: test, (Rm: 2026-01-02)
+draksoxx, (Added: 2026-01-01), <-- reason: Not listening to ranks after multiple warnings from Zeal Gains, Skill Cape, and Multiple others., (Rm: 2026-01-02)
