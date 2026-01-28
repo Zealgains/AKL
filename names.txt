@@ -3340,6 +3340,7 @@ yamamama, <-- flaming tank in pms for enforcing rules,
 
 
 --Category(Bot or Gold Farmer)start--,
+HAFIZ-KH, (Added: 2026-01-28), <-- reason: Gold Farmer,
 hilt Lover 1, (Added: 2026-01-28), <-- reason: Gold Farmer,
 Hybrid Owns, (Added: 2025-12-31), <-- reason: bot that places cads in game,
 OSMAN_KH, (Added: 2026-01-28), <-- reason: rwt gold famer,
