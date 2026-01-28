@@ -3343,6 +3343,7 @@ yamamama, <-- flaming tank in pms for enforcing rules,
 
 --Category(Bot or Gold Farmer)start--,
 Hybrid Owns, (Added: 2025-12-31), <-- reason: bot that places cads in game,
+OSMAN_KH, (Added: 2026-01-28), <-- reason: rwt gold famer,
 ZERKESYON, (Added: 2026-01-18), <-- reason: Gold Farmer (venezuelan),
 zezima, (Added: 2026-01-02), <-- reason: testing backups beyond 3,
 --Category(Bot or Gold Farmer)end--,
