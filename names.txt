@@ -3345,6 +3345,7 @@ WhatsAfter99, (Added: 2025-12-29), <-- reason: Trolling, disrespectful,
 wheres love, <- flaming ranks,
 yamamama, <-- flaming tank in pms for enforcing rules,
 zeal cape, (Added: 2026-02-08), <-- reason: noob,
+zg taxi, (Added: 2026-02-08), <-- reason: noob,
 --Category(other)end--,
 
 
