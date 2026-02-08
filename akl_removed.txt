@@ -34,3 +34,4 @@ xh0mie, (Added: 2026-02-05), <-- reason: messing up the games multiple times, (R
 zeal cape, (Added: 2026-02-07), <-- reason: noob, (Rm: 2026-02-07)
 ra pub, (Added: 2026-02-07), <-- reason: noob, (Rm: 2026-02-07)
 ra pub, (Added: 2026-02-08), <-- reason: noob, (Rm: 2026-02-08)
+zg taxi, (Added: 2026-02-08), <-- reason: noob, (Rm: 2026-02-08)
