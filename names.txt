@@ -3363,6 +3363,8 @@ ZIDE_SRF_TUM, (Added: 2026-01-28), <-- reason: Gold Farmer,
 Defize, (Added: 2025-12-30), <-- reason: Fragging without calling - then flaming / trolling ranks,
 san tapete, (Added: 2026-02-03), <-- reason: disrespectful to ranks not following rules,
 --Category(Fragging Without Calling)end--,
+--Category(Pullin Purps Clan)start--,
+--Category(Pullin Purps Clan)end--,
 --Bot Limiter---,
 
 --Category(test end)start--,
