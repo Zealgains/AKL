@@ -3366,6 +3366,7 @@ ZIDE_SRF_TUM, (Added: 2026-01-28), <-- reason: Gold Farmer,
 --Category(Fragging Without Calling)start--,
 2h 2big, (Added: 2025-12-30), <-- reason: Fragging without calling even after being called out,
 Defize, (Added: 2025-12-30), <-- reason: Fragging without calling - then flaming / trolling ranks,
+s 4 m s 0 m, (Added: 2026-02-11), <-- reason: trolling games, fragging no call, stealing ava aggro,
 san tapete, (Added: 2026-02-03), <-- reason: disrespectful to ranks not following rules,
 --Category(Fragging Without Calling)end--,
 
