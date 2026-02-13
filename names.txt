@@ -1854,6 +1854,7 @@ janky gim, ---possible leak for xueen,
 lolliy, ---possibly xueen or girthy alt,
 MadDewg, (Added: 2025-12-31), <-- reason: hopping in and out of cc while AFC Quincy was crashing,,
 slumerican, (Added: 2025-12-30), <-- reason: leaking to AFC Quincy,
+Swissiron69, (Added: 2026-02-13), <-- reason: Leaking world in 320,
 --Category(Leak Accounts)end--,
 
 --Category(Removed from Banlist)start--,
