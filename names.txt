@@ -1462,6 +1462,7 @@ Xvun,
 Chaplaiin, TankForJesus,
 Chaplaincy,
 craftin, (Added: 2026-02-18), <-- reason: crashing games with Jmie,
+cwaftin, (Added: 2026-02-18), <-- reason: Craftin's alt,
 FrostedTitty, (Added: Unknown Date), <-- reason: No reason,
 --Category(Cold Tts CC)end--,
 
