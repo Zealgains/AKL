@@ -1467,7 +1467,7 @@ FrostedTitty, (Added: Unknown Date), <-- reason: No reason,
 --Category(Cold Tts CC)end--,
 
 
---Category(Begging for GP/Items (submit screenshot))start--,
+--Category(Begging for GP/Items)start--,
 45cool2002,
 davil_matiii,
 Fight3r n01,
@@ -1476,10 +1476,10 @@ MAX SICARIO,
 sspider01,
 Teen Ground, (Added: 2026-01-07), <-- reason: Begging for GP Over multiple kicks/hours,
 yendaly, (Added: 2026-02-21), <-- reason: Begging for GP / Bonds,
---Category(Begging for GP/Items (submit screenshot))end--,
+--Category(Begging for GP/Items)end--,
 
 
---Category(Lurking / Zeal Inactivity (submit screenshot))start--,
+--Category(Lurking / Zeal Inactivity  )start--,
 13 gold 1233, (Added: 2026-02-21), <-- reason: constant lurking off world,
 30strong2204, <-- no stats to play sw,
 Axis_val,
@@ -1515,16 +1515,16 @@ skcus xegajj, (Added: 2026-02-03), <-- reason: lurking in cc with no response, 
 slipnsloth,
 Taepure1,
 ZiggyZoggy25,
---Category(Lurking / Zeal Inactivity (submit screenshot))end--,
+--Category(Lurking / Zeal Inactivity  )end--,
 
 
---Category(racist (submit screenshot))start--,
+--Category(racist)start--,
 dutchkickbox,
 I claw drunk, (Added: 2026-01-31), <-- reason: trolling / griefing games,
 obituary1989, (Added: 2026-02-14), <-- reason: racist,
 Smorfoes,
 uske fuva,
---Category(racist (submit screenshot))end--,
+--Category(racist)end--,
 
 
 --Category(Runewatch Flagged)start--,
@@ -1533,7 +1533,7 @@ virgin nun,
 --Category(Runewatch Flagged)end--,
 
 
---Category(Attacking cc Members (submit screenshot))start--,
+--Category(Attacking cc Members  )start--,
 -Bern seacat, <--crashing,
 0kym,
 1 inv andyz,
@@ -1664,7 +1664,7 @@ Yuenglingded,
 Zaramay_25,
 Zoo Cat,
 zrk3, <--Attacking cc members, flaming,
---Category(Attacking cc Members (submit screenshot))end--,
+--Category(Attacking cc Members  )end--,
 
 
 --Category(Trolling in FC ( submit screenshot))start--,
