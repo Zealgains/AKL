@@ -1475,6 +1475,7 @@ GIM IRON 01, (Added: 2026-02-10), <-- reason: Begging in CC,
 MAX SICARIO,
 sspider01,
 Teen Ground, (Added: 2026-01-07), <-- reason: Begging for GP Over multiple kicks/hours,
+yendaly, (Added: 2026-02-21), <-- reason: Begging for GP / Bonds,
 --Category(Begging for GP/Items (submit screenshot))end--,
 
 
