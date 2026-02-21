@@ -1480,6 +1480,7 @@ yendaly, (Added: 2026-02-21), <-- reason: Begging for GP / Bonds,
 
 
 --Category(Lurking / Zeal Inactivity (submit screenshot))start--,
+13 gold 1233, (Added: 2026-02-21), <-- reason: constant lurking off world,
 30strong2204, <-- no stats to play sw,
 Axis_val,
 Big Guy Hax,
