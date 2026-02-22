@@ -3760,6 +3760,7 @@ ZyneasFerb,
 --Category(Pullin Purps Clan)end--,
 
 --Category(Nex Souls)start--,
+ih1tliques, (Added: 2026-02-22), <-- reason: Crashing with Nex Souls,
 --Category(Nex Souls)end--,
 --Bot Limiter---,
 
