@@ -3765,6 +3765,7 @@ ZyneasFerb,
 --Category(Nex Souls)start--,
 ih1tliques, (Added: 2026-02-22), <-- reason: Crashing with Nex Souls,
 --Category(Nex Souls)end--,
+blackk sould, (Added: 2026-02-24), <-- reason: pking cc intentional - do not unban,
 --Bot Limiter---,
 
 --Category(test end)start--,
