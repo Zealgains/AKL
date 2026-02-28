@@ -47,3 +47,4 @@ gimsohard696, (Added: 2026-02-14), <-- reason: fragging without calling, (Rm: 20
 Craftin--tempremovefromaklrioters, (Rm: 2026-02-18)
 skcus xegajj, (Added: 2026-02-03), <-- reason: lurking in cc with no response, 38 combat 361 total, (Rm: 2026-02-22)
 test234, (Added: 2026-02-28), <-- reason: testing category fix, (Rm: 2026-02-28)
+suddyy, (Added: 2026-02-28), <-- reason: attacking anti, (Rm: 2026-02-28)
