@@ -3770,6 +3770,8 @@ blackk sould, (Added: 2026-02-24), <-- reason: pking cc intentional - do not unb
 leasti, (Added: 2026-02-25), <-- reason: Gold farmer / Pakistani - Trolling games with cades,
 2quickbun, (Added: 2026-02-28), <-- reason: flaming ranks,
 1mikeoxlong5, (Added: 2026-02-28), <-- reason: attacking fc members during anti,
+--Category(Wong Tongs (13 gold 1233's clan))start--,
+--Category(Wong Tongs (13 gold 1233's clan))end--,
 --Bot Limiter---,
 
 --Category(test end)start--,
