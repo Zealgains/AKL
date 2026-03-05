@@ -4094,7 +4094,6 @@ ziggs zeven,
 Zyrella,
 zyzz x2,
 --Category(Wong Tongs (13 gold 1233's clan))end--,
-maul n order, (Added: 2026-03-05), <-- reason: private chat on and multiple kicks from cc for lurking and off world,
 --Bot Limiter---,
 
 --Category(test end)start--,
