@@ -1480,7 +1480,7 @@ yendaly, (Added: 2026-02-21), <-- reason: Begging for GP / Bonds,
 --Category(Begging for GP/Items)end--,
 
 
---Category(Lurking / Zeal Inactivity  )start--,
+--Category(Lurking / Zeal Inactivity)start--,
 13 gold 1233, (Added: 2026-02-21), <-- reason: constant lurking off world,
 30strong2204, <-- no stats to play sw,
 Axis_val,
@@ -1515,7 +1515,7 @@ Sandra199,
 slipnsloth,
 Taepure1,
 ZiggyZoggy25,
---Category(Lurking / Zeal Inactivity  )end--,
+--Category(Lurking / Zeal Inactivity)end--,
 
 
 --Category(racist)start--,
@@ -4094,6 +4094,9 @@ ziggs zeven,
 Zyrella,
 zyzz x2,
 --Category(Wong Tongs (13 gold 1233's clan))end--,
+
+
+
 --Bot Limiter---,
 
 --Category(test end)start--,
