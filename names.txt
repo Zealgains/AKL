@@ -4096,6 +4096,7 @@ yamamama, <-- flaming tank in pms for enforcing rules,
 --Category(other)end--,
 
 diddy_0il, (Added: 2026-03-06), <-- reason: trolling fc,
+test123, (Added: 2026-03-09), <-- reason: testing trolling fc category,
 --Bot Limiter---,
 
 --Category(test end)start--,
