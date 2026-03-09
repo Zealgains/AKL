@@ -1678,7 +1678,7 @@ zrk3, <--Attacking cc members, flaming,
 --Category(Attacking cc Members)end--,
 
 
---Category(Trolling in FC )start--,
+--Category(Trolling in FC)start--,
 2quickbun, (Added: 2026-02-28), <-- reason: flaming ranks,
 again drigoo,
 Ali the Gay, (Added: 2026-01-21), <-- reason: Alt of Sixty N9ne,
@@ -1712,7 +1712,9 @@ sixty n9ne, (Added: 2026-01-21), <-- reason: Capping early and not following dir
 Skank Hunt43, (Added: 2026-01-26), <-- reason: trolling, talking back to ranks,
 slapyanuts,(alt of xfundedx),
 why rodrigo,
---Category(Trolling in FC )end--,
+diddy_0il, (Added: 2026-03-06), <-- reason: trolling fc,
+test123, (Added: 2026-03-09), <-- reason: testing trolling fc category,
+--Category(Trolling in FC)end--,
 
 
 --Category(Leagues Crashers)start--,
@@ -4095,8 +4097,6 @@ wheres love, <- flaming ranks,
 yamamama, <-- flaming tank in pms for enforcing rules,
 --Category(other)end--,
 
-diddy_0il, (Added: 2026-03-06), <-- reason: trolling fc,
-test123, (Added: 2026-03-09), <-- reason: testing trolling fc category,
 --Bot Limiter---,
 
 --Category(test end)start--,
