@@ -4128,6 +4128,10 @@ wheres love, <- flaming ranks,
 yamamama, <-- flaming tank in pms for enforcing rules,
 --Category(other)end--,
 
+
+--Category(Breaking General Rules)start--
+--Category(Breaking General Rules)end--
+
 --Bot Limiter---,
 
 --Category(test end)start--,
