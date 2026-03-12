@@ -4130,6 +4130,7 @@ yamamama, <-- flaming tank in pms for enforcing rules,
 
 
 --Category(Breaking General Rules)start--
+legatestiger, (Added: 2026-03-12), <-- reason: went rogue, capped graves- no response,
 --Category(Breaking General Rules)end--
 
 --Bot Limiter---,
