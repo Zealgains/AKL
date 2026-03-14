@@ -4090,7 +4090,7 @@ BoostCorp2, <-- who wouldnt stop hitting 5th ava cause 'he want point' after bei
 catier, <-- troll do not remove,
 compacte top, (Added: 2026-01-09), <-- reason: griefing corporeal beast during trip,
 Drameinar, <---hopped in and out of cc in f2p world,
-dummy_alt, (Added: 2026-03-14), <-- reason: crashing [Alt of: test_dummy_3],
+dummy_alt, (Added: 2026-03-14), <-- reason: crashing [Alt of: final_test_D],
 edaroo, best cllisto, <---interrupting mid caps and camping mid after 42,000 warnings,
 Fe Phrost, <-- flaming ranks and crashing ava intentionally,
 FT Arslan-1, <-- gold farmer attacking red ava,
