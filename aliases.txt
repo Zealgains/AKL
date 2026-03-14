@@ -19,3 +19,4 @@ PerryMudic: mud medic, perrymedic42
 Mudonmychest: r3du
 AFC Girthy: girthy dmm, rat ze
 Zuid Holland: ron roadman
+MUD Scooper: sc00pyd00p
