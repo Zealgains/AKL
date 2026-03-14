@@ -9,7 +9,6 @@ final_test_f: akl_testdum1, akl_testdum2, akl_testdum3, final_test_d, test_dummy
 afc q: admiralafcq
 mudervenos: dervenos
 redd lobster: afc quincy, vaxdmagikarp
-tzh yak: capn yak
 Kat Ze: mudhut cat
 MUD Secote: mudhutsecote
 Strett8: ninetysix
@@ -24,3 +23,4 @@ Shenoy: shenoyyy
 Sir NiMud: sir nimi
 Mr Lim: solo lim
 Amn Ral Thul: spirit drain
+DMM Yak: capn yak, tzh yak
