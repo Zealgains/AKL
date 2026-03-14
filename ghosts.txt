@@ -1,3 +1,7 @@
 --Category(Unable to add friend - unknown player)start--
 mudcrabkelly, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-14)
 --Category(Unable to add friend - unknown player)end--
+
+--Category(Spy account (no stats))start--
+oldschmates, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-14)
+--Category(Spy account (no stats))end--
