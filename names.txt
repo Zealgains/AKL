@@ -3205,7 +3205,7 @@ Zracer10,
 zur iel,
 --Category(Removed from Banlist)end--,
 
----Category(Clan SpaceGoats)start--,
+--Category(Clan SpaceGoats)start--,
 1-99ondrugs,
 25cabbage585,
 2h bong hits,
