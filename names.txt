@@ -3,7 +3,7 @@ zealgains, Zeal Gains,
 --Category(test start)end--,
 
 --Category(Attacking cc Members)start--,
--Bern seacat, (Added: Unknown Date), <-- reason: No reason provided.,
+-Bern seacat, (Added: Unknown Date), <-- reason: Crashing,
 0kym, (Added: Unknown Date), <-- reason: No reason provided.,
 1 inv andyz, (Added: Unknown Date), <-- reason: No reason provided.,
 1mikeoxlong5, (Added: 2026-02-28), <-- reason: attacking fc members during anti,
