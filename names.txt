@@ -1090,7 +1090,6 @@ Drameinar <---hopped in and out of cc in f2p world, (Added: Unknown Date), <-- r
 dummy_alt, (Added: 2026-03-14), <-- reason: crashing [Alt of: Final_test_F],
 edaroo best cllisto <---interrupting mid caps and camping mid after 42000 warnings, (Added: Unknown Date), <-- reason: No reason provided.,
 Fe Phrost <-- flaming ranks and crashing ava intentionally, (Added: Unknown Date), <-- reason: No reason provided.,
-Final_test_F, (Added: 2026-03-14), <-- reason: Testing Web,
 FT Arslan-1 <-- gold farmer attacking red ava, (Added: Unknown Date), <-- reason: No reason provided.,
 FT Arslan-2 <- bot, (Added: Unknown Date), <-- reason: No reason provided.,
 Hairy gock <---being afk multiple games in a row nearly finishing ava, (Added: Unknown Date), <-- reason: No reason provided.,
