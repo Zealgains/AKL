@@ -38,3 +38,4 @@ Lvl 9O: b s d
 Testuser456: testuser123
 Juicy Boots: juicy boots---removed temporarily check closed-2284
 Ultra Idiot: ultra idiot----hugh
+-Bern seacat: -bern seacat <--crashing
