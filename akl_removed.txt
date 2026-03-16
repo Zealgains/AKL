@@ -87,3 +87,4 @@ LaloGamerRsH, (Added: 2026-03-12), <-- reason: fragging without calling - killin
 zg leagues, (Added: 2026-03-15), <-- reason: noob, (Rm: 2026-03-15)
 zg leagues, (Added: 2026-03-16), <-- reason: testing wom fireoff, (Rm: 2026-03-16)
 Zials -----removed, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-03-16)
+Jadems1602, (Added: Unknown Date), <-- reason: afking mid constantly over days of warnings, (Rm: 2026-03-16)
