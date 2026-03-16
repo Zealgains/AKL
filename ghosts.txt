@@ -35,6 +35,7 @@ pittaco, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Ta
 rascaldamage, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-16)
 RoT Manked, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-16)
 RoT no pvp, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-16)
+RoT Ryan, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-16)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
