@@ -62,6 +62,7 @@ AZ fe AZ w, <-- reason: Unable to add friend - unknown player, (By: Skill Cape |
 be poist1ve, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 kn ilk, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 l must kill, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
+Mthr-Fc-Krz, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
