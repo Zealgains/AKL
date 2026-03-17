@@ -117,6 +117,7 @@ Crusader x x, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im fo
 CU7T, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 Damonchies, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 DesolateOrb, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-17)
+DigitalMoney, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
