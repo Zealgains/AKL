@@ -68,6 +68,7 @@ ColaVintage, <-- reason: Unable to add friend - unknown player, (By: Skill Cape 
 depredencium, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 HXCDadbod, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 Kocainez, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
+Mage X Gmaul, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
