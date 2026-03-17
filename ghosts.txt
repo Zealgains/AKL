@@ -135,3 +135,7 @@ NjoshyZ, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetf
 dsp102gggggg, <-- reason: not typing that right now, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 batchlung, <-- reason: Alt of Batchlung, (By: Skill Cape | Tag me im forgetful on 2026-03-17)
 --Category(Other)end--
+
+--Category(Banned / Stats Wiped)start--
+Pabbi King, <-- reason: Banned / Stats Wiped, (By: The Bleach on 2026-03-17)
+--Category(Banned / Stats Wiped)end--
