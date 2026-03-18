@@ -145,6 +145,7 @@ zoak I, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetfu
 45acpEDC, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-18)
 Casreor, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-18)
 CornyBoy69, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-18)
+cox owns, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-18)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
