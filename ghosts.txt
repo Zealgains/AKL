@@ -190,6 +190,7 @@ AJ Style 363, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im fo
 AJA JIN KAD, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 ALT G0I3, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 Angel xD, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-19)
+ARCANGEL Z, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
