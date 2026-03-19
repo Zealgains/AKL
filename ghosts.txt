@@ -86,6 +86,7 @@ dutchkickbox, <-- reason: Unable to add friend - unknown player, (By: Skill Cape
 alejandra ff, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 alejandra fs, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 Altezzyy, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-19)
+Arcturus-09, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
@@ -190,7 +191,6 @@ AJ Style 363, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im fo
 AJA JIN KAD, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 ALT G0I3, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 Angel xD, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-19)
-ARCANGEL Z, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-19)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
