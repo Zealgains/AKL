@@ -107,6 +107,7 @@ Deelapidate, <-- reason: Unable to add friend - unknown player, (By: Skill Cape 
 DEXEDRlNE, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-19)
 DIABLOOO00, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-19)
 Dig or Roll, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-19)
+dill zidi ha, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-19)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
