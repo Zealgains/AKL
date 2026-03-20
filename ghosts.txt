@@ -109,6 +109,7 @@ DIABLOOO00, <-- reason: Unable to add friend - unknown player, (By: Less Please 
 Dig or Roll, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-19)
 dill zidi ha, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-19)
 Ebonynostink, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-20)
+El Tanko Joe, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-20)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
