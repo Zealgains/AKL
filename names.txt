@@ -4208,7 +4208,6 @@ zyzz x2, (Added: Unknown Date), <-- reason: No reason provided.,
 
 
 --Category(SW Alliance (fred init))start--,
-testflush, (Added: 2026-03-20), <-- reason: flushing,
 --Category(SW Alliance (fred init))end--,
 
 --Bot Limiter---,
