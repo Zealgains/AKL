@@ -123,6 +123,7 @@ GH0ST_TIME, <-- reason: Unable to add friend - unknown player, (By: Less Please 
 Guardian Neo, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-20)
 heavy yields, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-20)
 Heide bluht, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-20)
+heldricz, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-20)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
