@@ -153,6 +153,7 @@ leopardi m, <-- reason: Unable to add friend - unknown player, (By: Skill Cape |
 lm a Trap, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 lMm3, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 love hers, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
+Lvl 47 Bully, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
