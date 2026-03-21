@@ -163,6 +163,7 @@ MANI G, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag
 MANZOR SHAH, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 maria lado, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 max 1 in, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
+Max EliteRS, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
