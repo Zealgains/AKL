@@ -165,6 +165,7 @@ maria lado, <-- reason: Unable to add friend - unknown player, (By: Skill Cape |
 max 1 in, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 Max EliteRS, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 med level sw, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
+Mera Pyaar, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
