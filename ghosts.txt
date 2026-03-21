@@ -345,6 +345,7 @@ LOVE LIFEE, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forg
 lvl 89, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 LvL T, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 M AHMAD 1, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-21)
+M ZAHEER MAX, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-21)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
