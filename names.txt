@@ -596,6 +596,7 @@ Defize, (Added: 2025-12-30), <-- reason: Fragging without calling - then flaming
 LastTryUIM, (Added: 2026-03-12), <-- reason: fragging without calling after many warnings [Proof: evidence/LastTryUIM/LastTryUIM_20260312_1743.png],
 s 4 m s 0 m, (Added: 2026-02-11), <-- reason: trolling games, fragging no call, stealing ava aggro,
 san tapete, (Added: 2026-02-03), <-- reason: disrespectful to ranks not following rules,
+therelghost, (Added: 2026-03-22), <-- reason: Fragging without calling,
 --Category(Fragging Without Calling)end--,
 
 --Category(Leagues Crashers)start--,
