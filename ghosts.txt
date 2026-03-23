@@ -437,6 +437,7 @@ resess DMM, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-23)
 Riddle Raz, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-23)
 River One, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-23)
 Rng WS Quen, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-23)
+Romeo_007, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-23)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
