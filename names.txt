@@ -601,6 +601,7 @@ LastTryUIM, (Added: 2026-03-12), <-- reason: fragging without calling after many
 s 4 m s 0 m, (Added: 2026-02-11), <-- reason: trolling games, fragging no call, stealing ava aggro,
 san tapete, (Added: 2026-02-03), <-- reason: disrespectful to ranks not following rules,
 therelghost, (Added: 2026-03-22), <-- reason: Fragging without calling,
+yogi yoda, (Added: 2026-03-24), <-- reason: fragging with no call and talking back to ranks,
 --Category(Fragging Without Calling)end--,
 
 --Category(Leagues Crashers)start--,
