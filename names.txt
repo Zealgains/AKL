@@ -3911,6 +3911,7 @@ SkillsLvLOne, (Added: 2026-03-15), <-- reason: Running off and fucking up the ga
 slapyanuts, (Added: Unknown Date), <-- reason: alt of xfundedx).,
 unit Kraaves, (Added: Unknown Date), <-- reason: No reason provided.,
 why rodrigo, (Added: Unknown Date), <-- reason: No reason provided.,
+zottegast99, (Added: 2026-03-24), <-- reason: Alt of "Dikketeef99" [Alt of: Dikketeef99],
 --Category(Trolling in FC)end--,
 
 --Category(Wong Tongs (13 gold 1233's clan))start--,
