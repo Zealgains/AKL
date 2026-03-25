@@ -226,6 +226,7 @@ Starc Died, <-- reason: Unable to add friend - unknown player, (By: Less Please 
 sw and afk, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-25)
 SW BBC, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-25)
 SWRicK, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-25)
+Tarheeels, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-25)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
