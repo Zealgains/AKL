@@ -463,6 +463,7 @@ SAUCE H0T, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-23)
 Seeendal aaa, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-24)
 Slicediper, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
 Spirit Aura, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
+Splash Freez, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
