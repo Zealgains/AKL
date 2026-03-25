@@ -481,6 +481,7 @@ SW Rat, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetfu
 t0a pure, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-25)
 TAHIR70, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
 TaNhaaii, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
+TEAM DlAMOND, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
