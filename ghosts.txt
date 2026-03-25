@@ -470,6 +470,7 @@ Sr Joker_XX, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
 sr titanag-1, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
 SShelon, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
 Stackn Sats, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
+STEELSCREW, <-- reason: Spy account (no stats), (By: Less Please on 2026-03-25)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
