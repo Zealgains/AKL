@@ -526,6 +526,7 @@ W2P, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful o
 Wannna Do it, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-26)
 War of war, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-26)
 warriorladyy, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-26)
+WAZA0MFGG, <-- reason: Spy account (no stats), (By: Skill Cape | Tag me im forgetful on 2026-03-26)
 --Category(Spy account (no stats))end--
 
 --Category(Other)start--
