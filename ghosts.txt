@@ -251,6 +251,7 @@ V A D E I2, <-- reason: Unable to add friend - unknown player, (By: Skill Cape |
 vylsses, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-26)
 W-SAM-W, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-26)
 WatrMelnChkn, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-26)
+WeedLazz, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-26)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
