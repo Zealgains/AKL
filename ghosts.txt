@@ -267,6 +267,7 @@ z3rk f0rc3, <-- reason: Unable to add friend - unknown player, (By: Less Please 
 22SkillCapes, <-- reason: Unable to add friend - unknown player, (By: The Bleach (╥﹏╥) on 2026-03-27)
 zandnegerke, <-- reason: Unable to add friend - unknown player, (By: The Bleach (╥﹏╥) on 2026-03-27)
 19 Run Pete, <-- reason: Unable to add friend - unknown player, (By: The Bleach (╥﹏╥) on 2026-03-27)
+1TickDezNuts, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-27)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
