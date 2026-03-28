@@ -274,6 +274,7 @@ AVOY P, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2
 BGS V ALL GL, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
 Big Team Dip, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
 BILALzRAJPUT, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
+Blood4Lead, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
