@@ -287,6 +287,7 @@ converses115, <-- reason: Unable to add friend - unknown player, (By: Less Pleas
 CowBowBoy, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
 Crunch tank, <-- reason: Unable to add friend - unknown player, (By: The Bleach (╥﹏╥) on 2026-03-28)
 dev astate, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
+DMT Trans, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
