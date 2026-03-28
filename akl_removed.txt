@@ -101,3 +101,4 @@ HoWheatBread, (Added: 2026-03-22), <-- reason: leak account [Alt of: L am Main],
 Novatrix WeedLazz, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-03-22)
 Zeal Cape, (Added: 2026-03-25), <-- reason: test, (Rm: 2026-03-25)
 ZG Key, (Added: 2026-03-25), <-- reason: test, (Rm: 2026-03-25)
+HeGotAFatty, (Added: 2026-03-23), <-- reason: fragging without calling. warned three times., (Rm: 2026-03-28)
