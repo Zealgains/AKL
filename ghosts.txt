@@ -284,6 +284,7 @@ Chosen rank, <-- reason: Unable to add friend - unknown player, (By: Skill Cape 
 Cm11keg, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
 cold cafe, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
 converses115, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-03-28)
+CowBowBoy, <-- reason: Unable to add friend - unknown player, (By: Skill Cape | Tag me im forgetful on 2026-03-28)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
