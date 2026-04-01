@@ -606,6 +606,7 @@ celli, (Added: 2026-03-10), <-- reason: running from spawn and refuses to follow
 Defize, (Added: 2025-12-30), <-- reason: Fragging without calling - then flaming / trolling ranks,
 Fiivo, (Added: 2026-03-23), <-- reason: Fragging without calling and saying "taxi sucks gg",
 gainwards, (Added: 2026-03-28), <-- reason: fragging no call,
+GrnRngr12, (Added: 2026-04-01), <-- reason: Fragging without calling [Proof: evidence/grnrngr12/grnrngr12_20260401_010003.png],
 LAST WISH YO, (Added: 2026-03-26), <-- reason: fragging no call,
 LastTryUIM, (Added: 2026-03-12), <-- reason: fragging without calling after many warnings [Proof: evidence/LastTryUIM/LastTryUIM_20260312_1743.png],
 prairiek1ng, (Added: 2026-03-29), <-- reason: fragging with no call talking back to rank,
