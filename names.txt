@@ -775,7 +775,6 @@ Zg Victims, (Added: Unknown Date), <-- reason: No reason provided.,
 
 --Category(Leak Accounts)start--,
 60d, (Added: Unknown Date), <-- reason: possible leak for xueen.,
-7ime, (Added: 2026-02-11), <-- reason: hopping in and out of cc,
 deetss, (Added: 2026-03-22), <-- reason: leaking world to Lts a main from 320 [Proof: evidence/deetss/deetss_20260322_164842.png],
 Hiii Sir, (Added: Unknown Date), <-- reason: possible leak for xueen,
 HoWheatBread, (Added: 2026-03-22), <-- reason: leaking from The Ham Clan to Lts a Main,
