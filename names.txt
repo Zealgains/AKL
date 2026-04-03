@@ -120,6 +120,7 @@ RektByShroom, (Added: 2026-01-19), <-- reason: Crashing - attacking taxi intenti
 Relay Coil, (Added: Unknown Date), <-- reason: attacking cc while ranks aren't looking.,
 Ripped RNG, (Added: Unknown Date), <-- reason: attacking cc while ranks aren't looking.,
 RIZI_KING_OP, (Added: Unknown Date), <-- reason: <--Attacking CC Members.,
+rng monkey, (Added: 2026-04-03), <-- reason: Very intentional crash - attacking and targetting Taxi and low hpers,
 roake96, (Added: Unknown Date), <-- reason: <--attacking cc closed-1412.,
 Roketssan, (Added: Unknown Date), <-- reason: attacking cc multiple times.,
 RpFromLV, (Added: Unknown Date), <-- reason: Attacking CC.,
