@@ -4861,6 +4861,10 @@ xx biggz xx, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing
 yukmouth 13, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
 zwug, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
 --Category(The Ham Clan)end--,
+
+--Category(Moonclan (Rng Monkey & HCIM Oxy's clan))start--,
+--Category(Moonclan (Rng Monkey & HCIM Oxy's clan))end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
