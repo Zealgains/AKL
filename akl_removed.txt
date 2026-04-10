@@ -111,3 +111,4 @@ MUZWIDNOHUZZ, (Added: 2026-03-31), <-- reason: fragging without calling / gold f
 7ime, (Added: 2026-02-11), <-- reason: hopping in and out of cc, (Rm: 2026-04-02)
 IwillChance, (Added: 2026-04-03), <-- reason: In Moonclan (mass ban for being in moon clan), (Rm: 2026-04-05)
 ANDROlD 18, (Added: 2026-04-09), <-- reason: w 320 chat channel, (Rm: 2026-04-09)
+ANDROlD 18, (Added: 2026-04-10), <-- reason: w 320 chat channel, (Rm: 2026-04-10)
