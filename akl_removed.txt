@@ -112,3 +112,4 @@ MUZWIDNOHUZZ, (Added: 2026-03-31), <-- reason: fragging without calling / gold f
 IwillChance, (Added: 2026-04-03), <-- reason: In Moonclan (mass ban for being in moon clan), (Rm: 2026-04-05)
 ANDROlD 18, (Added: 2026-04-09), <-- reason: w 320 chat channel, (Rm: 2026-04-09)
 ANDROlD 18, (Added: 2026-04-10), <-- reason: w 320 chat channel, (Rm: 2026-04-10)
+you buy gold, (Added: 2026-04-10), <-- reason: w 320 chat channel, (Rm: 2026-04-10)
