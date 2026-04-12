@@ -5432,6 +5432,7 @@ zocore9, (Added: 2026-04-07), <-- reason: W 320 chat channel,
 Zol135Dan9, (Added: 2026-04-10), <-- reason: w 320 chat channel,
 --Category(w 320 / Moisty)end--,
 
+Brutalcmd03, (Added: 2026-04-12), <-- reason: not high enough levels to play soul wars [Proof: evidence/brutalcmd03/brutalcmd03_20260412_153655.png],
 --Bot Limiter---,
 
 --Category(test end)start--,
