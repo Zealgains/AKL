@@ -840,6 +840,7 @@ slipnsloth, (Added: Unknown Date), <-- reason: No reason provided.,
 Taepure1, (Added: Unknown Date), <-- reason: No reason provided.,
 Yugx, (Added: 2026-03-22), <-- reason: lurking in cc while GTA5 Tryhard is following [Proof: evidence/yugx/yugx_20260322_032301.png],
 ZiggyZoggy25, (Added: Unknown Date), <-- reason: No reason provided.,
+Brutalcmd03, (Added: 2026-04-12), <-- reason: not high enough levels to play soul wars [Proof: evidence/brutalcmd03/brutalcmd03_20260412_153655.png],
 --Category(Lurking / Zeal Inactivity)end--,
 
 --Category(Mudhut)start--,
@@ -5432,7 +5433,6 @@ zocore9, (Added: 2026-04-07), <-- reason: W 320 chat channel,
 Zol135Dan9, (Added: 2026-04-10), <-- reason: w 320 chat channel,
 --Category(w 320 / Moisty)end--,
 
-Brutalcmd03, (Added: 2026-04-12), <-- reason: not high enough levels to play soul wars [Proof: evidence/brutalcmd03/brutalcmd03_20260412_153655.png],
 --Bot Limiter---,
 
 --Category(test end)start--,
