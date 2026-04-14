@@ -117,3 +117,4 @@ Arts Book, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-04-
 a gmauls, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-04-11)
 test123, (Added: 2026-04-12), <-- reason: testing123, (Rm: 2026-04-12)
 mrlilschlong, (Added: 2026-04-14), <-- reason: private chat on leaking worlds, (Rm: 2026-04-14)
+Dr pooman, (Added: 2026-04-14), <-- reason: joining cc and not coming to games multiple times, (Rm: 2026-04-14)
