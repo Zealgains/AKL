@@ -108,6 +108,7 @@ n64 pure, (Added: Unknown Date), <-- reason: *attacking and crashing taxi games*
 Old Kirby, (Added: Unknown Date), <-- reason: No reason provided.,
 Pagiman1, (Added: Unknown Date), <-- reason: *hopped to crash taxi games*.,
 Panda_99, (Added: Unknown Date), <-- reason: No reason provided.,
+parsian, (Added: 2026-04-14), <-- reason: crashing,
 Pickl Juic, (Added: Unknown Date), <-- reason: <----disruptive flaming in cc towards other members.,
 Pidi Josef, (Added: Unknown Date), <-- reason: No reason provided.,
 prima herb, (Added: 2026-03-09), <-- reason: attacking anti after warning [Proof: evidence/prima_herb/prima_herb_20260310_2223.png],
