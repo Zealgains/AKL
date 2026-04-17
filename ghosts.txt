@@ -303,6 +303,7 @@ G MAUL SLAP, <-- reason: Unable to add friend - unknown player, (By: The Bleach 
 Gibachi, <-- reason: Unable to add friend - unknown player, (By: The Bleach (╥﹏╥) on 2026-04-16)
 GLT0YOURDADD, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-04-17)
 Gold lynel, <-- reason: Unable to add friend - unknown player, (By: Less Please on 2026-04-17)
+Hadide, <-- reason: Unable to add friend - unknown player, (By: The Bleach (╥﹏╥) on 2026-04-17)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
