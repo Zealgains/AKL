@@ -125,3 +125,4 @@ KUROBOSHI, (Added: 2026-04-17), <-- reason: fraggin without calling, after warni
 Kookn, (Added: 2026-04-18), <-- reason: leaking world to rush yo ava [Alt of: rush yo ava], (Rm: 2026-04-18)
 Fukn Monkey, (Added: 2026-04-18), <-- reason: hopping in and out of cc, (Rm: 2026-04-19)
 ANDROlD 18, (Added: 2026-04-19), <-- reason: in w 320 chat channel, (Rm: 2026-04-19)
+2fat2run, (Added: 2026-04-19), <-- reason: killing antis, (Rm: 2026-04-20)
