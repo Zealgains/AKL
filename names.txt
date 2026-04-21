@@ -796,7 +796,6 @@ Zg Victims, (Added: Unknown Date), <-- reason: No reason provided.,
 
 --Category(Leak Accounts)start--,
 60d, (Added: Unknown Date), <-- reason: possible leak for xueen.,
-BigH0nker, (Added: 2026-04-21), <-- reason: Private chat on and did not turn off after warning [Proof: evidence/bigh0nker/bigh0nker_20260421_193854.png],
 deetss, (Added: 2026-03-22), <-- reason: leaking world to Lts a main from 320 [Proof: evidence/deetss/deetss_20260322_164842.png],
 Hiii Sir, (Added: Unknown Date), <-- reason: possible leak for xueen,
 HoWheatBread, (Added: 2026-03-22), <-- reason: leaking from The Ham Clan to Lts a Main,
