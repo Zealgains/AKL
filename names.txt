@@ -813,6 +813,7 @@ picklecucks, (Added: 2026-04-11), <-- reason: possible leak for pickle king,
 rare diarios, (Added: 2026-02-11), <-- reason: leaking to misfits no response in cc after multiple joins,
 satanisgod, (Added: 2026-03-07), <-- reason: Alt of Diddy_0il,
 slumerican, (Added: 2025-12-30), <-- reason: leaking to AFC Quincy,
+the 0p, (Added: 2026-04-24), <-- reason: alt to x chief x abuse of discord services,
 --Category(Leak Accounts)end--,
 
 --Category(Lurking / Zeal Inactivity)start--,
