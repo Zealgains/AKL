@@ -130,3 +130,4 @@ BigH0nker, (Added: 2026-04-21), <-- reason: Private chat on and did not turn off
 Duju, (Added: 2026-04-22), <-- reason: Attacking cc after warnings, (Rm: 2026-04-22)
 Deje, (Added: 2026-04-22), <-- reason: Suspected leak of DuJu [Alt of: DuJu], (Rm: 2026-04-22)
 ANDROlD 18, (Added: 2026-04-26), <-- reason: in w 320 cc, (Rm: 2026-04-26)
+harralander, (Added: 2026-04-26), <-- reason: fragging without calling and no response, (Rm: 2026-04-26)
