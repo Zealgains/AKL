@@ -129,3 +129,4 @@ ANDROlD 18, (Added: 2026-04-19), <-- reason: in w 320 chat channel, (Rm: 2026-04
 BigH0nker, (Added: 2026-04-21), <-- reason: Private chat on and did not turn off after warning [Proof: evidence/bigh0nker/bigh0nker_20260421_193854.png], (Rm: 2026-04-21)
 Duju, (Added: 2026-04-22), <-- reason: Attacking cc after warnings, (Rm: 2026-04-22)
 Deje, (Added: 2026-04-22), <-- reason: Suspected leak of DuJu [Alt of: DuJu], (Rm: 2026-04-22)
+ANDROlD 18, (Added: 2026-04-26), <-- reason: in w 320 cc, (Rm: 2026-04-26)
