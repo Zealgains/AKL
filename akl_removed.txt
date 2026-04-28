@@ -132,3 +132,4 @@ Deje, (Added: 2026-04-22), <-- reason: Suspected leak of DuJu [Alt of: DuJu], (R
 ANDROlD 18, (Added: 2026-04-26), <-- reason: in w 320 cc, (Rm: 2026-04-26)
 harralander, (Added: 2026-04-26), <-- reason: fragging without calling and no response, (Rm: 2026-04-26)
 vola bait, (Added: 2026-04-24), <-- reason: Attacking Anti during crashing, (Rm: 2026-04-28)
+Twins, (Added: 2026-04-28), <-- reason: Lurking in cc and multiple kicks for being off world, (Rm: 2026-04-28)
