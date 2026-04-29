@@ -179,6 +179,7 @@ yendaly, (Added: 2026-02-21), <-- reason: Begging for GP / Bonds,
 
 --Category(Bot or Gold Farmer)start--,
 1kc abortion, (Added: 2026-02-23), <-- reason: Possible bot,
+Ali fighterr, (Added: 2026-04-29), <-- reason: Gold farmer,
 cricket50, (Added: 2026-04-02), <-- reason: fragging no call not responding to requests to return to taxi,
 deiroonas, (Added: 2026-04-03), <-- reason: goldfarmer/bot - Fragging without calling,
 Dios te amaa, (Added: 2026-03-27), <-- reason: Gold Farmer - Fragging without calling,
