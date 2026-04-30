@@ -136,3 +136,4 @@ Twins, (Added: 2026-04-28), <-- reason: Lurking in cc and multiple kicks for bei
 N j k, (Added: 2026-04-29), <-- reason: Fragging without calling, (Rm: 2026-04-29)
 ZealSeal, (Added: 2026-04-29), <-- reason: Multiple issues with not following through with roles and getting people disconnected, (Rm: 2026-04-29)
 Lawbster, (Added: 2026-04-29), <-- reason: Multiple issues with not following through with roles and getting people disconnected [Alt of: ZealSeal], (Rm: 2026-04-29)
+Low Elo, (Added: 2026-04-30), <-- reason: Leaking worlds to yogi yoda, (Rm: 2026-04-30)
