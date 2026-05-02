@@ -672,4 +672,5 @@ G          L, <-- reason: Banned / Stats Wiped, (By: Less Please on 2026-03-20)
 Fin 420, <-- reason: Banned / Stats Wiped, (By: The Bleach (╥﹏╥) on 2026-03-29)
 obsidian ore, <-- reason: Banned / Stats Wiped, (By: 𝘈𝘕𝘋𝘙𝘖𝘭𝘋 18 on 2026-05-02)
 Off Training, <-- reason: Banned / Stats Wiped, (By: 𝘈𝘕𝘋𝘙𝘖𝘭𝘋 18 on 2026-05-02)
+oregrunda, <-- reason: Banned / Stats Wiped, (By: 𝘈𝘕𝘋𝘙𝘖𝘭𝘋 18 on 2026-05-02)
 --Category(Banned / Stats Wiped)end--
