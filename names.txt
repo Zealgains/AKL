@@ -5694,6 +5694,7 @@ ZxBrando, (Added: 2026-04-18), <-- reason: Part of True North Collective,
 T y 6, (Added: 2026-05-06), <-- reason: Kicked multiple times for off world then disrespected and attacked ranks [Proof: evidence/t_y_6/t_y_6_20260506_195059.png],
 
 --Category(Disrespecting Ranks)start--,
+teeny biceps, (Added: 2026-05-07), <-- reason: Repeatedly attacking wolves despite warnings and being disrespectful to ranks,
 --Category(Disrespecting Ranks)end--,
 
 --Bot Limiter---,
