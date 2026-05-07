@@ -886,7 +886,6 @@ SmithinGirl, (Added: 2026-05-02), <-- reason: Not high enough stats to play soul
 Spork3d, (Added: 2026-05-06), <-- reason: Kicked for off world no response several times. Would just come back right after kick expires, never talks, never goes to correct world. Might be a bot/scout. IMO it's a good idea to ban, and have them appeal in case they wanna join games.,
 Taepure1, (Added: Unknown Date), <-- reason: No reason provided.,
 Yugx, (Added: 2026-03-22), <-- reason: lurking in cc while GTA5 Tryhard is following [Proof: evidence/yugx/yugx_20260322_032301.png],
-Zeken, (Added: 2026-05-07), <-- reason: Kicked from cc multiple times for lurking off world,
 ZiggyZoggy25, (Added: Unknown Date), <-- reason: No reason provided.,
 --Category(Lurking / Zeal Inactivity)end--,
 
