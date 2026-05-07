@@ -838,6 +838,7 @@ rare diarios, (Added: 2026-02-11), <-- reason: leaking to misfits no response in
 satanisgod, (Added: 2026-03-07), <-- reason: Alt of Diddy_0il,
 Scuffed Coin, (Added: 2026-05-04), <-- reason: Leak of ZealSeal [Alt of: zealseal] [Proof: evidence/scuffed_coin/scuffed_coin_20260504_022126.png],
 Scuffed Tick, (Added: 2026-05-02), <-- reason: ZealSeal Leak account [Alt of: Zealseal],
+Sea of Zeal, (Added: 2026-05-07), <-- reason: zealseal leak account [Alt of: ZealSeal] [Proof: evidence/sea_of_zeal/sea_of_zeal_20260507_184337.png],
 sitquil, (Added: 2026-05-07), <-- reason: bypassing ban lists in discord and in game [Alt of: ZealSeal] [Proof: evidence/sitquil/sitquil_20260507_184055.png],
 slumerican, (Added: 2025-12-30), <-- reason: leaking to AFC Quincy,
 the 0p, (Added: 2026-04-24), <-- reason: alt to x chief x abuse of discord services,
