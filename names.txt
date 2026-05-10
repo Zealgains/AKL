@@ -855,7 +855,7 @@ slumerican, (Added: 2025-12-30), <-- reason: leaking to AFC Quincy,
 Suikertuin, (Added: 2026-05-10), <-- reason: leaking world while crashers present,
 the 0p, (Added: 2026-04-24), <-- reason: alt to x chief x abuse of discord services,
 Thegaminglol, (Added: 2026-05-02), <-- reason: Leaking to Imtiaz-tiger who is a suspected gold farmer [Alt of: Imtiaz-tiger],
-wind spells, (Added: 2026-05-10), <-- reason: leak world 320,
+wind spells, (Added: 2026-05-10), <-- reason: leak world 320 [Proof: evidence/wind_spells/wind_spells_20260510_165237.png],
 Zureal, (Added: 2026-04-26), <-- reason: Potential Leak,
 --Category(Leak Accounts)end--,
 
