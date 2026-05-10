@@ -852,6 +852,7 @@ Scuffed Tick, (Added: 2026-05-02), <-- reason: ZealSeal Leak account [Alt of: Ze
 Sea of Zeal, (Added: 2026-05-07), <-- reason: zealseal leak account [Alt of: ZealSeal] [Proof: evidence/sea_of_zeal/sea_of_zeal_20260507_184337.png],
 sitquil, (Added: 2026-05-07), <-- reason: bypassing ban lists in discord and in game [Alt of: ZealSeal] [Proof: evidence/sitquil/sitquil_20260507_184055.png],
 slumerican, (Added: 2025-12-30), <-- reason: leaking to AFC Quincy,
+Suikertuin, (Added: 2026-05-10), <-- reason: leaking world while crashers present,
 the 0p, (Added: 2026-04-24), <-- reason: alt to x chief x abuse of discord services,
 Thegaminglol, (Added: 2026-05-02), <-- reason: Leaking to Imtiaz-tiger who is a suspected gold farmer [Alt of: Imtiaz-tiger],
 Yard, (Added: 2026-05-10), <-- reason: possible leak to misfits standing around hopping in and out of cc,
