@@ -155,3 +155,4 @@ Yard, (Added: 2026-05-10), <-- reason: possible leak to misfits standing around 
 Made you Moo, (Added: 2026-05-10), <-- reason: leak account while misfits crashing [Alt of: pimp julce], (Rm: 2026-05-10)
 Snorlaxtives, (Added: 2026-05-10), <-- reason: running off and attacking ava while crashers causing issues, (Rm: 2026-05-10)
 me on me, (Added: 2026-05-11), <-- reason: Noob [Alt of: androld 18], (Rm: 2026-05-11)
+androld 18, (Added: 2026-05-11), <-- reason: noob, (Rm: 2026-05-11)
