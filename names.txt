@@ -5782,6 +5782,10 @@ Zyrella, (Added: Unknown Date), <-- reason: No reason provided.,
 zyzz x2, (Added: Unknown Date), <-- reason: No reason provided.,
 --Category(Wong Tongs (13 gold 1233's clan))end--,
 
+
+--Category("Zonaites Clan" Mass ban)start--,
+--Category("Zonaites Clan" Mass ban)end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
