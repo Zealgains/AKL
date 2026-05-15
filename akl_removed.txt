@@ -134,3 +134,4 @@ HamSmackerr, (Added: 2026-05-15), <-- reason: Fragging without calling, (Rm: 202
 HamSmackerr, (Added: 2026-05-15), <-- reason: Fragging without calling, (Rm: 2026-05-15)
 sakkhad, (Added: 2026-05-14), <-- reason: gold farmer not listening to anything, (Rm: 2026-05-15)
 sakkhad, (Added: 2026-05-14), <-- reason: gold farmer not listening to anything, (Rm: 2026-05-15)
+chase highs, (Added: 2026-05-14), <-- reason: fragging without calling [Alt of: en-lil], (Rm: 2026-05-15)
