@@ -852,7 +852,6 @@ Zg Victims, (Added: Unknown Date), <-- reason: No reason provided.,
 --Category(Leagues Crashers)end--,
 
 --Category(Leak Accounts)start--,
-0x00, (Added: 2026-05-14), <-- reason: leak account for w 320,
 60d, (Added: Unknown Date), <-- reason: possible leak for xueen.,
 BACKDOWN 07, (Added: 2026-05-02), <-- reason: leak account for zealseal [Alt of: ZealSeal] [Proof: evidence/backdown_07/backdown_07_20260502_012312.png],
 dark 2h kill, (Added: 2026-05-13), <-- reason: private chat on leaking worlds,
