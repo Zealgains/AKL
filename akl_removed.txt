@@ -133,3 +133,4 @@ hakancx, (Added: 2026-05-13), <-- reason: leaking world to 320, crashing, (Rm: 2
 HamSmackerr, (Added: 2026-05-15), <-- reason: Fragging without calling, (Rm: 2026-05-15)
 HamSmackerr, (Added: 2026-05-15), <-- reason: Fragging without calling, (Rm: 2026-05-15)
 sakkhad, (Added: 2026-05-14), <-- reason: gold farmer not listening to anything, (Rm: 2026-05-15)
+sakkhad, (Added: 2026-05-14), <-- reason: gold farmer not listening to anything, (Rm: 2026-05-15)
