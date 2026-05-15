@@ -130,3 +130,4 @@ Rozlyn, (Added: 2026-05-15), <-- reason: leak account for 7abibi, (Rm: 2026-05-1
 Bullyen, (Added: 2026-05-12), <-- reason: Lurking off world - no ingame chat history - potential spy [Proof: evidence/bullyen/bullyen_20260512_192334.png], (Rm: 2026-05-15)
 hakancx, (Added: 2026-05-13), <-- reason: leaking world to 320, crashing, (Rm: 2026-05-15)
 0x00, (Added: 2026-05-14), <-- reason: leak account for w 320, (Rm: 2026-05-15)
+HamSmackerr, (Added: 2026-05-15), <-- reason: Fragging without calling, (Rm: 2026-05-15)
