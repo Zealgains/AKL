@@ -1614,7 +1614,7 @@ Ratt Trap, (Added: Unknown Date), <-- reason: No reason provided.,
 Rixa, (Added: Unknown Date), <-- reason: No reason provided.,
 sapphire Br, (Added: Unknown Date), <-- reason: No reason provided.,
 sit lil guy, (Added: Unknown Date), <-- reason: No reason provided.,
-Xvun, (Added: Unknown Date), <-- reason: No reason provided.,
+Xvun, (Added: 2026-05-16), <-- reason: attacking cc leaking world to 320,
 --Category(NBK Rat)end--,
 
 --Category(Nex Souls)start--,
