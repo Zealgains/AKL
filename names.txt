@@ -1634,6 +1634,7 @@ sit lil guy, (Added: Unknown Date), <-- reason: No reason provided.,
 TismMaxxin, (Added: 2026-05-17), <-- reason: In Nbk rat chat channel,
 Wolfondleit, (Added: 2026-05-17), <-- reason: In Nbk rat chat channel,
 Xvun, (Added: 2026-05-16), <-- reason: attacking cc leaking world to 320,
+Zizuo, (Added: 2026-05-18), <-- reason: Intended to grief, appeared after going to red portal,
 --Category(NBK Rat)end--,
 
 --Category(Nex Souls)start--,
