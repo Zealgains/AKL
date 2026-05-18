@@ -252,6 +252,7 @@ ZIDE_SRF_TUM, (Added: 2026-01-28), <-- reason: Gold Farmer,
 
 --Category(Breaking General Rules)start--,
 deadgamelmao, (Added: 2026-03-25), <-- reason: crashing after kick [Proof: evidence/deadgamelmao/deadgamelmao_20260325_193033.png],
+Hamsmackerr, (Added: 2026-05-18), <-- reason: stepping out with no intention to taxi, pulling ava aggro, can't read pelican,
 legatestiger, (Added: 2026-03-12), <-- reason: went rogue, capped graves- no response,
 lts a pure, (Added: 2026-03-22), <-- reason: not following rules, threaten to crash, disrespect ranks,
 SniffinsHc, (Added: 2026-04-12), <-- reason: Not joining fc. Threating to crash,
