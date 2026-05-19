@@ -6059,6 +6059,10 @@ Z U K Y O U, (Added: 2026-05-17), <-- reason: In Clan noir with ivi 7 / NBK Rat,
 Ziol, (Added: 2026-05-17), <-- reason: In Clan with ivi 7 and NBK Rat,
 --Category(Clan Noir)end--,
 
+
+--Category(Unclan - Crasher 1 dFence's clan)start--,
+--Category(Unclan - Crasher 1 dFence's clan)end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
