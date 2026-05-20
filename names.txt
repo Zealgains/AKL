@@ -6091,7 +6091,7 @@ Ziol, (Added: 2026-05-17), <-- reason: In Clan with ivi 7 and NBK Rat,
 --Category(Clan Noir)end--,
 
 
-IMRulerStick, (Added: 2026-05-20), <-- reason: Leaking cc in main chat after not reading anything - banned from disc / cc,
+IMRulerStick, (Added: 2026-05-20), <-- reason: Leaking cc in main chat after not reading anything - banned from disc / cc [Proof: evidence/imrulerstick/imrulerstick_20260520_193403.png],
 --Bot Limiter---,
 
 --Category(test end)start--,
