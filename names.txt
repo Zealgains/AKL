@@ -914,6 +914,7 @@ Suikertuin, (Added: 2026-05-10), <-- reason: leaking world while crashers presen
 the 0p, (Added: 2026-04-24), <-- reason: alt to x chief x abuse of discord services,
 Thegaminglol, (Added: 2026-05-02), <-- reason: Leaking to Imtiaz-tiger who is a suspected gold farmer [Alt of: Imtiaz-tiger],
 TheRNGJunky, (Added: 2026-05-12), <-- reason: Alt of 0xZeroTrust who's been crashing us for a bit,
+waddapdawg, (Added: 2026-05-20), <-- reason: hopping in and out of cc on f2p world,
 wind spells, (Added: 2026-05-10), <-- reason: leak world 320 [Proof: evidence/wind_spells/wind_spells_20260510_165237.png],
 Windmill Me, (Added: 2026-05-17), <-- reason: Leak Account [Proof: evidence/windmill_me/windmill_me_20260517_233139.png],
 Zeziema, (Added: 2026-05-17), <-- reason: f2p account with too low total/cb level to even join games. Possible leak,
