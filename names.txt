@@ -5117,7 +5117,6 @@ zwug, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - e
 2quickbun, (Added: 2026-02-28), <-- reason: flaming ranks,
 again drigoo, (Added: Unknown Date), <-- reason: No reason provided.,
 Ali the Gay, (Added: 2026-01-21), <-- reason: Alt of Sixty N9ne,
-BreyosBTW, (Added: 2026-05-28), <-- reason: Fragging without calling then agroing while once again running out of spawn to go frag (while being told to stop by cc) [Proof: evidence/breyosbtw/breyosbtw_20260528_192516.png],
 by8y, (Added: 2026-04-01), <-- reason: Fragging without calling - after multiple chances and unban by krill,
 Camel seller, (Added: 2026-01-21), <-- reason: ALT Of Sixty N9ne,
 cmon rodrigo, (Added: Unknown Date), <-- reason: No reason provided.,
