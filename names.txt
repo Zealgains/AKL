@@ -713,6 +713,7 @@ prairiek1ng, (Added: 2026-03-29), <-- reason: fragging with no call talking back
 s 4 m s 0 m, (Added: 2026-02-11), <-- reason: trolling games, fragging no call, stealing ava aggro,
 Sadikk, (Added: 2026-04-30), <-- reason: fragging without calling and not listening to ranks,
 san tapete, (Added: 2026-02-03), <-- reason: disrespectful to ranks not following rules,
+tegengif, (Added: 2026-05-28), <-- reason: constantly fragging without calling. Despite efforts to talk to them in both his native language and English.,
 therelghost, (Added: 2026-03-22), <-- reason: Fragging without calling,
 uartig, (Added: 2026-04-26), <-- reason: Fragging without calling,
 warmair1565, (Added: 2026-05-24), <-- reason: fragging without calling,
