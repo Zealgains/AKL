@@ -696,6 +696,7 @@ Abrete Mano, (Added: 2026-05-13), <-- reason: fragging without calling and attac
 CALL ME HORG, (Added: 2026-02-28), <-- reason: crashing fc,
 celli, (Added: 2026-03-10), <-- reason: running from spawn and refuses to follow rules [Proof: evidence/celli/celli_20260310_2222.png],
 Defize, (Added: 2025-12-30), <-- reason: Fragging without calling - then flaming / trolling ranks,
+drago 1890, (Added: 2026-05-30), <-- reason: Fragging without calling,
 Fiivo, (Added: 2026-03-23), <-- reason: Fragging without calling and saying "taxi sucks gg",
 fr0znsolid, (Added: 2026-05-29), <-- reason: Fragging without calling  3 games in a row [Proof: evidence/fr0znsolid/fr0znsolid_20260529_221339.png],
 gainwards, (Added: 2026-03-28), <-- reason: fragging no call,
