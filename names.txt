@@ -679,6 +679,7 @@ Ze Own, (Added: Unknown Date), <-- reason: No reason provided.,
 --Category(dismantle cc)end--,
 
 --Category(Disrespecting Ranks)start--,
+Blessed IM, (Added: 2026-06-01), <-- reason: disrespecting ranks, told star ranks to stop spamming rules, attacking cc, fragging without calling [Proof: evidence/blessed_im/blessed_im_20260601_041123.png],
 faceonboard, (Added: 2026-05-23), <-- reason: trolling, homophobia, rude [Proof: evidence/faceonboard/faceonboard_20260523_164126.png],
 IronVIron, (Added: 2026-05-31), <-- reason: Not following rules & disrespectful,
 LmfaoUez, (Added: 2026-05-23), <-- reason: joining fc from a f2p world just to tell a rank they shouldn't power hungry cos theyre rank (after said rank, me frail, told fc to shut up during frag calls),
