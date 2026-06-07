@@ -234,6 +234,7 @@ deiroonas, (Added: 2026-04-03), <-- reason: goldfarmer/bot - Fragging without ca
 Dios te amaa, (Added: 2026-03-27), <-- reason: Gold Farmer - Fragging without calling,
 godzila king, (Added: 2026-03-23), <-- reason: gold farmer,
 HAFIZ-KH, (Added: 2026-01-28), <-- reason: Gold Farmer,
+hello love00, (Added: 2026-06-07), <-- reason: steps out, runs taxi. Just skips caps, runs half the taxi straight to ava. Doesn't respond to anything, bot like behaviour,
 hilt Lover 1, (Added: 2026-01-28), <-- reason: Gold Farmer,
 Hybrid Owns, (Added: 2025-12-31), <-- reason: bot that places cads in game,
 IMAMA01, (Added: 2026-02-23), <-- reason: Bot or Gold Farmer,
