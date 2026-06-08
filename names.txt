@@ -888,6 +888,7 @@ Zg Victims, (Added: Unknown Date), <-- reason: No reason provided.,
 
 --Category(Leak Accounts)start--,
 0x00, (Added: 2026-05-14), <-- reason: leak account for w 320,
+2376Total, (Added: 2026-06-08), <-- reason: Leaking chat then calling me an ass hat [Proof: evidence/2376total/2376total_20260608_224503.png],
 60d, (Added: Unknown Date), <-- reason: possible leak for xueen.,
 99Zyns, (Added: 2026-06-03), <-- reason: lurking in cc in free to play multiple times,
 AffPro, (Added: 2026-05-16), <-- reason: Hopping in and out of cc on f2p world,
