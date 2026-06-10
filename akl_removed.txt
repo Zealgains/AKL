@@ -138,3 +138,4 @@ chase highs, (Added: 2026-05-14), <-- reason: fragging without calling [Alt of: 
 zeal cape, (Added: 2026-05-15), <-- reason: test, (Rm: 2026-05-15)
 sakkhad, (Added: 2026-05-14), <-- reason: gold farmer not listening to anything, (Rm: 2026-05-15)
 androld l7, (Added: 2026-05-18), <-- reason: noob, (Rm: 2026-05-18)
+BausMooNs, (Added: 2026-06-10), <-- reason: Fragging without calling after being kicked for having PM ON, (Rm: 2026-06-10)
