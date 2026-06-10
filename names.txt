@@ -6173,6 +6173,10 @@ Ziol, (Added: 2026-05-17), <-- reason: In Clan with ivi 7 and NBK Rat,
 
 
 IMRulerStick, (Added: 2026-05-20), <-- reason: Leaking cc in main chat after not reading anything - banned from disc / cc [Proof: evidence/imrulerstick/imrulerstick_20260520_193403.png],
+
+--Category(M2L Hawksbay's clan)start--,
+--Category(M2L Hawksbay's clan)end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
