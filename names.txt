@@ -1704,6 +1704,7 @@ hfhytdjrieh, (Added: 2026-03-23), <-- reason: Not old enough to play osrs agains
 Hinzey2, (Added: 2026-01-01), <-- reason: Crashing with Misfits,
 Hunchak, (Added: 2026-01-01), <-- reason: Crashing with Misfits,
 i wack u, (Added: 2026-01-01), <-- reason: Crashing with misfits,
+IMRulerStick, (Added: 2026-05-20), <-- reason: Leaking cc in main chat after not reading anything - banned from disc / cc [Proof: evidence/imrulerstick/imrulerstick_20260520_193403.png],
 irontransfix, (Added: 2026-03-19), <-- reason: reporting fc for "win trading" [Proof: evidence/irontransfix/irontransfix_20260319_204434.png],
 Its Tzhaar, (Added: 2026-01-01), <-- reason: Crashing with Misfits,
 Jascn, (Added: Unknown Date), <-- reason: No reason provided.,
@@ -6169,9 +6170,6 @@ Yiotis, (Added: 2026-05-17), <-- reason: In Clan with ivi 7 and NBK Rat,
 Z U K Y O U, (Added: 2026-05-17), <-- reason: In Clan noir with ivi 7 / NBK Rat,
 Ziol, (Added: 2026-05-17), <-- reason: In Clan with ivi 7 and NBK Rat,
 --Category(Clan Noir)end--,
-
-
-IMRulerStick, (Added: 2026-05-20), <-- reason: Leaking cc in main chat after not reading anything - banned from disc / cc [Proof: evidence/imrulerstick/imrulerstick_20260520_193403.png],
 
 --Category(M2L Hawksbay's clan)start--,
 141 kid, (Added: 2026-06-10), <-- reason: Hawksbay - crashing - mass clan ban,
