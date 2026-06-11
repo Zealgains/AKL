@@ -355,6 +355,7 @@ seek jesus 7, <-- reason: Unable to add friend - unknown player, (By: 𝘈𝘕�
 m acd, <-- reason: Unable to add friend - unknown player, (By: 𝘈𝘕𝘋𝘙𝘖𝘭𝘋 18 on 2026-06-11)
 Mix Heladito, <-- reason: Unable to add friend - unknown player, (By: 𝘈𝘕𝘋𝘙𝘖𝘭𝘋 18 on 2026-06-11)
 nori bmud, <-- reason: Unable to add friend - unknown player, (By: 𝘈𝘕𝘋𝘙𝘖𝘭𝘋 18 on 2026-06-11)
+not bound, <-- reason: Unable to add friend - unknown player, (By: 𝘈𝘕𝘋𝘙𝘖𝘭𝘋 18 on 2026-06-11)
 --Category(Unable to add friend - unknown player)end--
 
 --Category(Spy account (no stats))start--
