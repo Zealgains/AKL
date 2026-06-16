@@ -6462,7 +6462,7 @@ zyzz x2, (Added: Unknown Date), <-- reason: No reason provided.,
 --Category(Wong Tongs (13 gold 1233's clan))end--,
 
 
---Category(Ascended - AFG 420's clan)start--,
+--Category(Ascended - DFG 420's clan)start--,
 101doomsday, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
 32flycloak, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
 480vwarrior, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
@@ -6530,6 +6530,7 @@ dershh, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 thre
 descheney, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
 Detjo, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
 dezzerhk, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
+DFG 420, (Added: 2026-06-15), <-- reason: Toxic cry baby who mistaken skill cape for someone else and proceeded to crash and flame skill [Proof: evidence/dfg_420/dfg_420_20260615_234131.png],
 dfh 420, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
 Diegodrax, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
 DirtyHolt, (Added: 2026-06-15), <-- reason: Bulk add - ascended clan - DFG 420 threatening to bring clan to crash,
