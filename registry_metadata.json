@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-17T05:37:32.969820",
-  "total_entries": 6377,
+  "exported_at": "2026-06-17T13:59:35.134390",
+  "total_entries": 6378,
   "entries": [
     {
       "id": 2,
@@ -10018,6 +10018,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6379,
+      "username": "lumknifekey",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-06-17",
+      "timestamp_added": "2026-06-17 13:54:30",
+      "added_by": "412117490424872971",
+      "reason": "warned for fragging w.o calling, disrespectful response to ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/lumknifekey/lumknifekey_20260617_135430.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-06-17 13:54:31",
+          "filename": "lumknifekey_20260617_135430.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
