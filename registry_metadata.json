@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-17T13:59:35.134390",
+  "exported_at": "2026-06-17T21:57:19.192101",
   "total_entries": 6378,
   "entries": [
     {
@@ -927,7 +927,14 @@
       "reason": "from 320 to crash games",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/femi_pk/femi_pk_20260617_215214.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-17 21:52:16",
+          "filename": "femi_pk_20260617_215214.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -987,7 +994,14 @@
       "reason": "From 320 to crash with femi pk",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/gangobango1/gangobango1_20260617_215303.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-17 21:53:04",
+          "filename": "gangobango1_20260617_215303.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -2382,7 +2396,14 @@
       "reason": "From 320 to crash cc",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/presst0play/presst0play_20260617_215327.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-17 21:53:28",
+          "filename": "presst0play_20260617_215327.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
