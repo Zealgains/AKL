@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-17T04:21:13.156606",
+  "exported_at": "2026-06-17T05:37:32.969820",
   "total_entries": 6377,
   "entries": [
     {
@@ -3331,21 +3331,6 @@
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
-    },
-    {
-      "id": 224,
-      "username": "zeal cape",
-      "category": "Attacking cc Members",
-      "date_added": "2026-06-17",
-      "timestamp_added": "2026-06-17 03:49:40",
-      "added_by": null,
-      "reason": "noob",
-      "is_dupe": false,
-      "alt_of": null,
-      "evidence": [],
-      "removed_at": "2026-06-17 04:18:11",
-      "removed_by": "412117490424872971",
-      "status": "REMOVED"
     },
     {
       "id": 225,
@@ -28966,6 +28951,21 @@
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
+    },
+    {
+      "id": 6378,
+      "username": "zeal cape",
+      "category": "Other",
+      "date_added": "2026-06-17",
+      "timestamp_added": "2026-06-17 05:32:30",
+      "added_by": "412117490424872971",
+      "reason": "noob",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": "2026-06-17 05:33:31",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 2135,
