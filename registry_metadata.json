@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-18T20:53:41.484900",
-  "total_entries": 6381,
+  "exported_at": "2026-06-18T22:09:37.311844",
+  "total_entries": 6382,
   "entries": [
     {
       "id": 2,
@@ -13200,6 +13200,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "leaking world to Lts a main from 320",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6434,
+      "username": "dougsdown",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-18",
+      "timestamp_added": "2026-06-18 22:04:34",
+      "added_by": "412117490424872971",
+      "reason": "leak account for playsforfun",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
