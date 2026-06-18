@@ -158,6 +158,7 @@ Pickl Juic, (Added: Unknown Date), <-- reason: <----disruptive flaming in cc tow
 PICKLESHITS, (Added: 2026-05-10), <-- reason: Crashing with misfits,
 Pidi Josef, (Added: Unknown Date), <-- reason: No reason provided.,
 pimp juice, (Added: 2026-05-10), <-- reason: crashing,
+PlaysForFun, (Added: 2026-06-18), <-- reason: pking cc after fragging without calling,
 plckeshitz, (Added: 2026-05-11), <-- reason: crashing with misfits,
 plckleshits, (Added: 2026-05-11), <-- reason: crashing,
 Poon Chaser, (Added: 2026-06-12), <-- reason: crashing games,
