@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-18T13:41:12.249850",
-  "total_entries": 6380,
+  "exported_at": "2026-06-18T20:01:44.481354",
+  "total_entries": 6381,
   "entries": [
     {
       "id": 2,
@@ -2334,6 +2334,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6433,
+      "username": "PlaysForFun",
+      "category": "Attacking cc Members",
+      "date_added": "2026-06-18",
+      "timestamp_added": "2026-06-18 19:56:41",
+      "added_by": "209956201377562624",
+      "reason": "pking cc after fragging without calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
