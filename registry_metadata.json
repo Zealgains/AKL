@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-18T01:37:19.183419",
-  "total_entries": 6379,
+  "exported_at": "2026-06-18T13:41:12.249850",
+  "total_entries": 6380,
   "entries": [
     {
       "id": 2,
@@ -3571,6 +3571,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "goldfarmer/bot - Fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6432,
+      "username": "Dimelogee",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-06-18",
+      "timestamp_added": "2026-06-18 13:36:09",
+      "added_by": "412117490424872971",
+      "reason": "Suspected bot (stepping out wrong + following wrong person consistently)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
