@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-18T20:01:44.481354",
+  "exported_at": "2026-06-18T20:53:41.484900",
   "total_entries": 6381,
   "entries": [
     {
@@ -2351,7 +2351,14 @@
       "reason": "pking cc after fragging without calling",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/playsforfun/playsforfun_20260618_204836.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-18 20:48:38",
+          "filename": "playsforfun_20260618_204836.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
