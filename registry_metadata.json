@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-19T05:05:30.358574",
-  "total_entries": 6419,
+  "exported_at": "2026-06-19T05:33:41.404662",
+  "total_entries": 6420,
   "entries": [
     {
       "id": 2,
@@ -29090,6 +29090,21 @@
       "evidence": [],
       "removed_at": "2026-06-17 05:33:31",
       "removed_by": "412117490424872971",
+      "status": "REMOVED"
+    },
+    {
+      "id": 6472,
+      "username": "zeal cape",
+      "category": "Other",
+      "date_added": "2026-06-19",
+      "timestamp_added": "2026-06-19 05:28:36",
+      "added_by": "209956201377562624",
+      "reason": "Testing a bunch of shit i forget now because it keeps breaking",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": "2026-06-19 05:28:50",
+      "removed_by": "209956201377562624",
       "status": "REMOVED"
     },
     {
