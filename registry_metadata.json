@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-19T05:33:41.404662",
-  "total_entries": 6420,
+  "exported_at": "2026-06-19T21:08:49.851652",
+  "total_entries": 6421,
   "entries": [
     {
       "id": 2,
@@ -4103,6 +4103,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crashing after kick",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6473,
+      "username": "Derk a",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-19",
+      "timestamp_added": "2026-06-19 21:03:41",
+      "added_by": "209956201377562624",
+      "reason": "Not dding in full crystal after many warnings",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
