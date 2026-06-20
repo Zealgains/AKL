@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-20T02:52:35.175201",
-  "total_entries": 6422,
+  "exported_at": "2026-06-20T16:58:28.939723",
+  "total_entries": 6423,
   "entries": [
     {
       "id": 2,
@@ -10143,6 +10143,21 @@
           "filename": "lumknifekey_20260617_135430.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6475,
+      "username": "Mauls\u00a0Iron\u00a0M",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-06-20",
+      "timestamp_added": "2026-06-20 16:53:25",
+      "added_by": "209956201377562624",
+      "reason": "Stepping out without being taxi, disrespectful to ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
