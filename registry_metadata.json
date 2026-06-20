@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-20T20:22:22.987297",
-  "total_entries": 6424,
+  "exported_at": "2026-06-20T22:48:04.106710",
+  "total_entries": 6427,
   "entries": [
     {
       "id": 2,
@@ -10126,6 +10126,28 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6477,
+      "username": "l jak l",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-06-20",
+      "timestamp_added": "2026-06-20 22:42:58",
+      "added_by": "209956201377562624",
+      "reason": "crying pelican toxic troll, flaming the entire cc for multiple days in public chat, needs a gag banned on disc / zg",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/l_jak_l/l_jak_l_20260620_224256.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-20 22:43:00",
+          "filename": "l_jak_l_20260620_224256.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 873,
       "username": "LmfaoUez",
       "category": "Disrespecting Ranks",
@@ -13538,6 +13560,28 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6478,
+      "username": "Knowmad",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-20",
+      "timestamp_added": "2026-06-20 22:44:45",
+      "added_by": "209956201377562624",
+      "reason": "Leaking private chat in main cc",
+      "is_dupe": false,
+      "alt_of": "Not Noogie",
+      "evidence": [
+        {
+          "path": "evidence/knowmad/knowmad_20260620_224609.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-20 22:46:10",
+          "filename": "knowmad_20260620_224609.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 1097,
       "username": "Kookn",
       "category": "Leak Accounts",
@@ -13683,6 +13727,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6479,
+      "username": "not noogie",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-20",
+      "timestamp_added": "2026-06-20 22:45:25",
+      "added_by": "209956201377562624",
+      "reason": "Leaking private chat in main cc",
+      "is_dupe": false,
+      "alt_of": "knowmad",
+      "evidence": [
+        {
+          "path": "evidence/not_noogie/not_noogie_20260620_224635.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-20 22:46:36",
+          "filename": "not_noogie_20260620_224635.png"
+        },
+        {
+          "path": "evidence/not_noogie/not_noogie_20260620_224708.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-20 22:47:09",
+          "filename": "not_noogie_20260620_224708.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
