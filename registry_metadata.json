@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-20T22:48:04.106710",
-  "total_entries": 6427,
+  "exported_at": "2026-06-20T23:06:47.920181",
+  "total_entries": 6428,
   "entries": [
     {
       "id": 2,
@@ -4268,6 +4268,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "running off in taxi games, told me to suk him off when i froze him and told him to get in line with others. (he was attempting to join taxi, but i had already told him previous game to not run off and instead follow the player who steps out... short fuse on both our parts. if he makes a ticket id give him another chance",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6480,
+      "username": "noogie",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-20",
+      "timestamp_added": "2026-06-20 23:01:43",
+      "added_by": "209956201377562624",
+      "reason": "alt of not noogie and knowmad",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -10141,6 +10156,12 @@
           "uploaded_by": "209956201377562624",
           "uploaded_at": "2026-06-20 22:43:00",
           "filename": "l_jak_l_20260620_224256.png"
+        },
+        {
+          "path": "evidence/l_jak_l/l_jak_l_20260620_230205.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-20 23:02:06",
+          "filename": "l_jak_l_20260620_230205.png"
         }
       ],
       "removed_at": null,
