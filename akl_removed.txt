@@ -171,3 +171,4 @@ syncpushgit, (Added: 2026-06-18), <-- reason: syncing github with sql, (Rm: 2026
 Freddy Ownz, (Added: 2026-06-19), <-- reason: Ran directly to avatar, which pulled avatar away from DD. Did not ask for rules., (Rm: 2026-06-19)
 zeal cape, (Added: 2026-06-19), <-- reason: Testing a bunch of shit i forget now because it keeps breaking, (Rm: 2026-06-19)
 Derk a, (Added: 2026-06-19), <-- reason: Not dding in full crystal after many warnings, (Rm: 2026-06-19)
+BM, (Added: 2026-06-20), <-- reason: Disrespecting ranks and running around rogue after warning, (Rm: 2026-06-20)
