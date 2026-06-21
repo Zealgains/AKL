@@ -249,6 +249,7 @@ cricket50, (Added: 2026-04-02), <-- reason: fragging no call not responding to r
 deiroonas, (Added: 2026-04-03), <-- reason: goldfarmer/bot - Fragging without calling,
 Dimelogee, (Added: 2026-06-18), <-- reason: Suspected bot (stepping out wrong + following wrong person consistently),
 Dios te amaa, (Added: 2026-03-27), <-- reason: Gold Farmer - Fragging without calling,
+GMHerald, (Added: 2026-06-21), <-- reason: Doesn't join fc or respond,
 godzila king, (Added: 2026-03-23), <-- reason: gold farmer,
 HAFIZ-KH, (Added: 2026-01-28), <-- reason: Gold Farmer,
 hello love00, (Added: 2026-06-07), <-- reason: steps out, runs taxi. Just skips caps, runs half the taxi straight to ava. Doesn't respond to anything, bot like behaviour,
