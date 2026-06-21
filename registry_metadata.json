@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-20T23:06:47.920181",
-  "total_entries": 6428,
+  "exported_at": "2026-06-21T15:20:10.698890",
+  "total_entries": 6429,
   "entries": [
     {
       "id": 2,
@@ -3623,6 +3623,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Gold Farmer - Fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6481,
+      "username": "GMHerald",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-06-21",
+      "timestamp_added": "2026-06-21 15:15:07",
+      "added_by": "412117490424872971",
+      "reason": "Doesn't join fc or respond",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
