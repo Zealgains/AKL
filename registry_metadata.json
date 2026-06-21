@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-21T15:20:10.698890",
-  "total_entries": 6429,
+  "exported_at": "2026-06-21T19:55:33.491110",
+  "total_entries": 6430,
   "entries": [
     {
       "id": 2,
@@ -4253,6 +4253,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "went rogue, capped graves- no response",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6482,
+      "username": "Lord Xeth",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-21",
+      "timestamp_added": "2026-06-21 19:50:30",
+      "added_by": "209956201377562624",
+      "reason": "Fragging without calling - capping grave early - breaking all rules",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
