@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-21T19:55:33.491110",
-  "total_entries": 6430,
+  "exported_at": "2026-06-22T00:37:46.397496",
+  "total_entries": 6431,
   "entries": [
     {
       "id": 2,
@@ -29214,6 +29214,28 @@
       "removed_at": "2026-06-18 01:32:16",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 6483,
+      "username": "w0rst 1 y3t",
+      "category": "Other",
+      "date_added": "2026-06-22",
+      "timestamp_added": "2026-06-22 00:32:44",
+      "added_by": "209956201377562624",
+      "reason": "in 320 - suspicious comments about crashing - preventative removal",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/w0rst_1_y3t/w0rst_1_y3t_20260622_003243.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-22 00:32:44",
+          "filename": "w0rst_1_y3t_20260622_003243.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 2132,
