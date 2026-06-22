@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-22T03:08:27.827984",
-  "total_entries": 6431,
+  "exported_at": "2026-06-22T18:14:54.852089",
+  "total_entries": 6432,
   "entries": [
     {
       "id": 2,
@@ -10888,6 +10888,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6484,
+      "username": "xIQx",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-06-22",
+      "timestamp_added": "2026-06-22 18:09:52",
+      "added_by": "209956201377562624",
+      "reason": "stepped up as taxi - ran off to frag without calling - dumped after warning",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
