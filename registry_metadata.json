@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-22T18:14:54.852089",
+  "exported_at": "2026-06-22T18:25:40.351110",
   "total_entries": 6432,
   "entries": [
     {
@@ -10905,7 +10905,14 @@
       "reason": "stepped up as taxi - ran off to frag without calling - dumped after warning",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/xiqx/xiqx_20260622_182036.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-22 18:20:37",
+          "filename": "xiqx_20260622_182036.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
