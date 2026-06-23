@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-23T04:59:31.928139",
-  "total_entries": 6436,
+  "exported_at": "2026-06-23T05:36:33.527781",
+  "total_entries": 6437,
   "entries": [
     {
       "id": 2,
@@ -13834,6 +13834,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "leaking world to Femi Pk",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6489,
+      "username": "no1s dad",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-23",
+      "timestamp_added": "2026-06-23 05:31:31",
+      "added_by": "412117490424872971",
+      "reason": "joining cc multiple times on f2p over weeks",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
