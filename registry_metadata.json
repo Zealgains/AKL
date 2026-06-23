@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-22T23:15:17.914964",
-  "total_entries": 6434,
+  "exported_at": "2026-06-23T00:11:05.032209",
+  "total_entries": 6435,
   "entries": [
     {
       "id": 2,
@@ -89634,6 +89634,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Racist name",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6487,
+      "username": "neonotsi",
+      "category": "racist",
+      "date_added": "2026-06-23",
+      "timestamp_added": "2026-06-23 00:06:02",
+      "added_by": "412117490424872971",
+      "reason": "racist name",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
