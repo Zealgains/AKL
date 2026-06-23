@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-23T01:40:57.012757",
-  "total_entries": 6435,
+  "exported_at": "2026-06-23T04:59:31.928139",
+  "total_entries": 6436,
   "entries": [
     {
       "id": 2,
@@ -14164,6 +14164,21 @@
       "reason": "Leak Account",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6488,
+      "username": "zevige",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-23",
+      "timestamp_added": "2026-06-23 04:54:29",
+      "added_by": "412117490424872971",
+      "reason": "leak account for zealseal",
+      "is_dupe": false,
+      "alt_of": "ZealSeal",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
