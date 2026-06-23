@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-23T00:11:05.032209",
+  "exported_at": "2026-06-23T01:40:57.012757",
   "total_entries": 6435,
   "entries": [
     {
@@ -13990,21 +13990,6 @@
       "status": "ACTIVE"
     },
     {
-      "id": 1115,
-      "username": "Sea of Zeal",
-      "category": "Leak Accounts",
-      "date_added": "2026-05-07",
-      "timestamp_added": "2026-06-17 03:49:40",
-      "added_by": null,
-      "reason": "zealseal leak account",
-      "is_dupe": false,
-      "alt_of": "ZealSeal",
-      "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
-    },
-    {
       "id": 1116,
       "username": "sitquil",
       "category": "Leak Accounts",
@@ -14044,6 +14029,21 @@
       "reason": "hopping in and out of cc on f2p world",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 1115,
+      "username": "StrangeDole",
+      "category": "Leak Accounts",
+      "date_added": "2026-05-07",
+      "timestamp_added": "2026-06-17 03:49:40",
+      "added_by": null,
+      "reason": "zealseal leak account",
+      "is_dupe": false,
+      "alt_of": "ZealSeal",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
