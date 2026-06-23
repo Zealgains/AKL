@@ -1174,6 +1174,7 @@ tracesworder, (Added: 2026-06-06), <-- reason: as requested by kril. Probably a 
 waddapdawg, (Added: 2026-05-20), <-- reason: hopping in and out of cc on f2p world,
 wind spells, (Added: 2026-05-10), <-- reason: leak world 320 [Proof: evidence/wind_spells/wind_spells_20260510_165237.png],
 Windmill Me, (Added: 2026-05-17), <-- reason: Leak Account [Proof: evidence/windmill_me/windmill_me_20260517_233139.png],
+zevige, (Added: 2026-06-23), <-- reason: leak account for zealseal [Alt of: ZealSeal],
 Zeziema, (Added: 2026-05-17), <-- reason: f2p account with too low total/cb level to even join games. Possible leak,
 Zureal, (Added: 2026-04-26), <-- reason: Potential Leak,
 --Category(Leak Accounts)end--,
