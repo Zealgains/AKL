@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-23T17:21:08.820893",
-  "total_entries": 6440,
+  "exported_at": "2026-06-23T18:06:54.735450",
+  "total_entries": 6441,
   "entries": [
     {
       "id": 2,
@@ -13865,6 +13865,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6493,
+      "username": "mursii03",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-23",
+      "timestamp_added": "2026-06-23 18:01:52",
+      "added_by": "209956201377562624",
+      "reason": "Gold farmer / account builder who was playing on PMSO for a 7 m m - they can appeal on disc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/mursii03/mursii03_20260623_180151.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-23 18:01:52",
+          "filename": "mursii03_20260623_180151.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
