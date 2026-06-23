@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-23T20:27:06.579856",
+  "exported_at": "2026-06-23T23:20:13.844580",
   "total_entries": 6441,
   "entries": [
     {
@@ -4411,9 +4411,9 @@
           "filename": "pmso_20260623_171604.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-06-23 23:15:11",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 281,
