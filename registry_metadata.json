@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-23T23:20:13.844580",
+  "exported_at": "2026-06-24T05:39:05.645290",
   "total_entries": 6441,
   "entries": [
     {
@@ -90826,7 +90826,14 @@
       "reason": "in w320 friends chat",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/big_fan_omar/big_fan_omar_20260624_053401.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-24 05:34:02",
+          "filename": "big_fan_omar_20260624_053401.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
