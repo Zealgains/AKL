@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-24T05:39:05.645290",
-  "total_entries": 6441,
+  "exported_at": "2026-06-24T06:46:41.810180",
+  "total_entries": 6442,
   "entries": [
     {
       "id": 2,
@@ -10878,6 +10878,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "disrespectful to ranks not following rules",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6494,
+      "username": "SantaClawz",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-06-24",
+      "timestamp_added": "2026-06-24 06:41:33",
+      "added_by": "209956201377562624",
+      "reason": "Fragging without calling - capping grave ahead of taxi - not responding",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
