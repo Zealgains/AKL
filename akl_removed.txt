@@ -179,3 +179,4 @@ SantaClawz, (Added: 2026-06-24), <-- reason: Fragging without calling - capping 
 oSangsta, (Added: 2026-06-25), <-- reason: pm on, (Rm: 2026-06-25)
 Tonk meme, (Added: 2026-06-25), <-- reason: pm on, (Rm: 2026-06-25)
 Gustysweep, (Added: 2026-06-25), <-- reason: pm on, (Rm: 2026-06-25)
+3500, (Added: 2026-06-25), <-- reason: Said the world in public chat after hop, (Rm: 2026-06-25)
