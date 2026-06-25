@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-25T18:25:15.764593",
-  "total_entries": 6445,
+  "exported_at": "2026-06-25T20:39:02.363294",
+  "total_entries": 6447,
   "entries": [
     {
       "id": 2,
@@ -13368,6 +13368,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6498,
+      "username": "3500",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-25",
+      "timestamp_added": "2026-06-25 20:34:00",
+      "added_by": "209956201377562624",
+      "reason": "Said the world in public chat after hop",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 1071,
       "username": "60d",
       "category": "Leak Accounts",
@@ -13465,6 +13480,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "leak acc for en-lil (crasher)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6499,
+      "username": "CosmicCurse8",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-25",
+      "timestamp_added": "2026-06-25 20:36:46",
+      "added_by": "412117490424872971",
+      "reason": "Leak on world 320 no response",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
