@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-24T06:56:08.242910",
-  "total_entries": 6442,
+  "exported_at": "2026-06-25T18:10:05.977213",
+  "total_entries": 6445,
   "entries": [
     {
       "id": 2,
@@ -4216,6 +4216,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6495,
+      "username": "Gustysweep",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-25",
+      "timestamp_added": "2026-06-25 18:05:03",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 275,
       "username": "Hamsmackerr",
       "category": "Breaking General Rules",
@@ -4373,6 +4388,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6496,
+      "username": "oSangsta",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-25",
+      "timestamp_added": "2026-06-25 18:05:21",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": "2026-06-25 18:07:27",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
+    },
+    {
       "id": 6491,
       "username": "Papi\u00a0305",
       "category": "Breaking General Rules",
@@ -4423,6 +4453,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Not joining fc. Threating to crash",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6497,
+      "username": "Tonk meme",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-25",
+      "timestamp_added": "2026-06-25 18:05:32",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
