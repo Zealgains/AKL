@@ -282,6 +282,8 @@ ZIDE_SRF_TUM, (Added: 2026-01-28), <-- reason: Gold Farmer,
 --Category(Bot or Gold Farmer)end--,
 
 --Category(Breaking General Rules)start--,
+0Andy, (Added: 2026-06-25), <-- reason: pm on,
+0O02, (Added: 2026-06-25), <-- reason: pm on,
 Co n no r, (Added: 2026-06-15), <-- reason: pking,
 deadgamelmao, (Added: 2026-03-25), <-- reason: crashing after kick [Proof: evidence/deadgamelmao/deadgamelmao_20260325_193033.png],
 FourtyAttack, (Added: 2026-05-20), <-- reason: First disrespecting ranks yesterday 'Not understanding rules then trying to follow them is griefing got it' about us banning a griefer. Then today he goes calling people gay virgins in fc. [Proof: evidence/fourtyattack/fourtyattack_20260520_135202.png],
