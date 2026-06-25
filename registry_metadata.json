@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-25T20:39:02.363294",
-  "total_entries": 6447,
+  "exported_at": "2026-06-25T20:59:30.620362",
+  "total_entries": 6449,
   "entries": [
     {
       "id": 2,
@@ -4103,6 +4103,36 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Gold Farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6501,
+      "username": "0Andy",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-25",
+      "timestamp_added": "2026-06-25 20:54:44",
+      "added_by": "209956201377562624",
+      "reason": "pm on",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6500,
+      "username": "0O02",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-25",
+      "timestamp_added": "2026-06-25 20:54:25",
+      "added_by": "209956201377562624",
+      "reason": "pm on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
