@@ -176,3 +176,4 @@ GMHerald, (Added: 2026-06-21), <-- reason: Doesn't join fc or respond, (Rm: 2026
 Erto6363, (Added: 2026-06-22), <-- reason: Spam trading members and begging again - was warned before, (Rm: 2026-06-23)
 pmso, (Added: 2026-06-23), <-- reason: Repeatedly breaking rules [Proof: evidence/pmso/pmso_20260623_171604.png], (Rm: 2026-06-23)
 SantaClawz, (Added: 2026-06-24), <-- reason: Fragging without calling - capping grave ahead of taxi - not responding, (Rm: 2026-06-24)
+oSangsta, (Added: 2026-06-25), <-- reason: pm on, (Rm: 2026-06-25)
