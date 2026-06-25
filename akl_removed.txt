@@ -178,3 +178,4 @@ pmso, (Added: 2026-06-23), <-- reason: Repeatedly breaking rules [Proof: evidenc
 SantaClawz, (Added: 2026-06-24), <-- reason: Fragging without calling - capping grave ahead of taxi - not responding, (Rm: 2026-06-24)
 oSangsta, (Added: 2026-06-25), <-- reason: pm on, (Rm: 2026-06-25)
 Tonk meme, (Added: 2026-06-25), <-- reason: pm on, (Rm: 2026-06-25)
+Gustysweep, (Added: 2026-06-25), <-- reason: pm on, (Rm: 2026-06-25)
