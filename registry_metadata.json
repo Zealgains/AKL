@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-26T12:36:47.333452",
-  "total_entries": 6450,
+  "exported_at": "2026-06-26T16:46:48.415979",
+  "total_entries": 6451,
   "entries": [
     {
       "id": 2,
@@ -10668,6 +10668,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6503,
+      "username": "Dutch lmf0a",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-06-26",
+      "timestamp_added": "2026-06-26 16:41:46",
+      "added_by": "209956201377562624",
+      "reason": "Fragging without calling then flaming me for killing him",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
