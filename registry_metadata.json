@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-26T19:39:11.145286",
-  "total_entries": 6453,
+  "exported_at": "2026-06-26T19:54:35.112353",
+  "total_entries": 6454,
   "entries": [
     {
       "id": 2,
@@ -4276,6 +4276,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6506,
+      "username": "IExhaustedI",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-26",
+      "timestamp_added": "2026-06-26 19:49:33",
+      "added_by": "209956201377562624",
+      "reason": "PM ON",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6502,
       "username": "IR0N SPEECH",
       "category": "Breaking General Rules",
@@ -4531,9 +4546,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-06-26 19:49:47",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 6497,
