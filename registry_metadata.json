@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-25T21:12:34.193688",
-  "total_entries": 6449,
+  "exported_at": "2026-06-26T12:31:13.377798",
+  "total_entries": 6450,
   "entries": [
     {
       "id": 2,
@@ -4268,6 +4268,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "stepping out with no intention to taxi, pulling ava aggro, can't read pelican",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6502,
+      "username": "IR0N SPEECH",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-26",
+      "timestamp_added": "2026-06-26 12:26:11",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
