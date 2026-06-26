@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-26T19:54:35.112353",
-  "total_entries": 6454,
+  "exported_at": "2026-06-26T22:08:57.021210",
+  "total_entries": 6455,
   "entries": [
     {
       "id": 2,
@@ -4268,6 +4268,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "stepping out with no intention to taxi, pulling ava aggro, can't read pelican",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6507,
+      "username": "I Kova I",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-26",
+      "timestamp_added": "2026-06-26 22:03:54",
+      "added_by": "209956201377562624",
+      "reason": "pm on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
