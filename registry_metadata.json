@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-26T17:14:43.953471",
-  "total_entries": 6451,
+  "exported_at": "2026-06-26T19:39:11.145286",
+  "total_entries": 6453,
   "entries": [
     {
       "id": 2,
@@ -4491,6 +4491,21 @@
       "status": "REMOVED"
     },
     {
+      "id": 6504,
+      "username": "pmso",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-26",
+      "timestamp_added": "2026-06-26 19:34:08",
+      "added_by": "209956201377562624",
+      "reason": "pm on",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 281,
       "username": "SniffinsHc",
       "category": "Breaking General Rules",
@@ -4498,6 +4513,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Not joining fc. Threating to crash",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6505,
+      "username": "Spuug Lama",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-26",
+      "timestamp_added": "2026-06-26 19:34:32",
+      "added_by": "209956201377562624",
+      "reason": "pm on, and pking anti",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
