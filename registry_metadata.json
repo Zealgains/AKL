@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-27T22:43:38.840382",
-  "total_entries": 6651,
+  "exported_at": "2026-06-27T23:03:42.435444",
+  "total_entries": 6652,
   "entries": [
     {
       "id": 2,
@@ -32398,6 +32398,21 @@
       "timestamp_added": "2026-06-27 19:54:06",
       "added_by": "412117490424872971",
       "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6704,
+      "username": "ink butter",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 22:58:40",
+      "added_by": "412117490424872971",
+      "reason": "otf clan (leak)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
