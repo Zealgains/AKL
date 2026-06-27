@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-27T19:59:08.475635",
-  "total_entries": 6637,
+  "exported_at": "2026-06-27T20:18:30.709794",
+  "total_entries": 6641,
   "entries": [
     {
       "id": 2,
@@ -32256,6 +32256,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6690,
+      "username": "Helm of Init",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 20:13:28",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6689,
       "username": "heptisipsl",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -32316,6 +32331,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6693,
+      "username": "k u t",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 20:13:28",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6681,
       "username": "MaceTeam Log",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -32353,6 +32383,36 @@
       "timestamp_added": "2026-06-27 16:20:07",
       "added_by": "412117490424872971",
       "reason": "In Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6692,
+      "username": "nought z",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 20:13:28",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6691,
+      "username": "O T F",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 20:13:28",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
