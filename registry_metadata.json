@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-27T20:51:12.589521",
-  "total_entries": 6644,
+  "exported_at": "2026-06-27T20:58:34.513409",
+  "total_entries": 6646,
   "entries": [
     {
       "id": 2,
@@ -2183,6 +2183,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6698,
+      "username": "Must Slay",
+      "category": "Attacking cc Members",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 20:54:06",
+      "added_by": "209956201377562624",
+      "reason": "Attacking cc while we have crashers",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -16671,6 +16686,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "leaking to misfits no response in cc after multiple joins",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6697,
+      "username": "RCG_Yoda",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 20:53:32",
+      "added_by": "209956201377562624",
+      "reason": "Must Slay alt",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
