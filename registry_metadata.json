@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-27T15:21:24.318957",
-  "total_entries": 6610,
+  "exported_at": "2026-06-27T15:35:28.832065",
+  "total_entries": 6612,
   "entries": [
     {
       "id": 2,
@@ -388,6 +388,50 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6663,
+      "username": "BaMBaMHo0",
+      "category": "Attacking cc Members",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 15:32:15",
+      "added_by": "412117490424872971",
+      "reason": "Threatening to crash and attack cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/bambamho0/bambamho0_20260627_153215.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-06-27 15:32:15",
+          "filename": "bambamho0_20260627_153215.png"
+        }
+      ],
+      "removed_at": "2026-06-27 15:32:53",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
+    },
+    {
+      "id": 6664,
+      "username": "BaMBaMHoO",
+      "category": "Attacking cc Members",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 15:33:57",
+      "added_by": "412117490424872971",
+      "reason": "Threatening to crash and attack cc (Part of OTF)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/bambamhoo/bambamhoo_20260627_153357.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-06-27 15:33:57",
+          "filename": "bambamhoo_20260627_153357.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -45151,7 +45195,14 @@
       "reason": "No reason provided.",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/a_s_k/a_s_k_20260627_153025.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-06-27 15:30:26",
+          "filename": "a_s_k_20260627_153025.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
