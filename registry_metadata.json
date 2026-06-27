@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-27T22:20:16.213834",
-  "total_entries": 6647,
+  "exported_at": "2026-06-27T22:43:38.840382",
+  "total_entries": 6651,
   "entries": [
     {
       "id": 2,
@@ -4255,9 +4255,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-06-27 22:41:44",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 271,
@@ -32256,11 +32256,41 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6700,
+      "username": "derenssg11",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 22:38:36",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6688,
       "username": "eternalRag",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
       "date_added": "2026-06-27",
       "timestamp_added": "2026-06-27 19:54:06",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6701,
+      "username": "Fear Outlaws",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 22:38:36",
       "added_by": "412117490424872971",
       "reason": "in Outlaws chat-channel",
       "is_dupe": false,
@@ -32466,6 +32496,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6702,
+      "username": "Medstation",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 22:38:36",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6677,
       "username": "New Heater",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -32576,6 +32621,21 @@
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
       "date_added": "2026-06-27",
       "timestamp_added": "2026-06-27 19:54:06",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6703,
+      "username": "z 7K",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 22:38:36",
       "added_by": "412117490424872971",
       "reason": "in Outlaws chat-channel",
       "is_dupe": false,
