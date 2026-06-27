@@ -192,3 +192,4 @@ obbyfication, (Added: 2026-06-27), <-- reason: showed up to private games with n
 Buusytron, (Added: 2026-06-27), <-- reason: Fragging without calling, then attacking antis (during OTF crash), (Rm: 2026-06-27)
 Must Slay, (Added: 2026-06-27), <-- reason: Attacking cc while we have crashers, (Rm: 2026-06-27)
 Must Sleigh, (Added: 2026-06-27), <-- reason: must slay alt direspecting ranks, (Rm: 2026-06-27)
+RCG_Yoda, (Added: 2026-06-27), <-- reason: Must Slay alt, (Rm: 2026-06-27)
