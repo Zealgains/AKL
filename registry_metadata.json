@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-27T16:22:32.758848",
+  "exported_at": "2026-06-27T16:29:02.522382",
   "total_entries": 6629,
   "entries": [
     {
@@ -16569,9 +16569,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-06-27 16:24:00",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 1107,
