@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-27T20:58:34.513409",
-  "total_entries": 6646,
+  "exported_at": "2026-06-27T22:20:16.213834",
+  "total_entries": 6647,
   "entries": [
     {
       "id": 2,
@@ -4243,6 +4243,21 @@
       "removed_at": "2026-06-20 02:47:23",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 6699,
+      "username": "Buusytron",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 22:15:14",
+      "added_by": "412117490424872971",
+      "reason": "Fragging without calling, then attacking antis (during OTF crash)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 271,
