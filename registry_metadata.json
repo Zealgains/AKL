@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-27T23:43:00.615629",
-  "total_entries": 6652,
+  "exported_at": "2026-06-28T00:31:04.611228",
+  "total_entries": 6653,
   "entries": [
     {
       "id": 2,
@@ -10700,6 +10700,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6705,
+      "username": "ZLumbyXpress",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-06-28",
+      "timestamp_added": "2026-06-28 00:26:02",
+      "added_by": "209956201377562624",
+      "reason": "Flaming cc and ranks after being told to stop",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/zlumbyxpress/zlumbyxpress_20260628_002731.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-28 00:27:32",
+          "filename": "zlumbyxpress_20260628_002731.png"
+        },
+        {
+          "path": "evidence/zlumbyxpress/zlumbyxpress_20260628_002835.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-06-28 00:28:36",
+          "filename": "zlumbyxpress_20260628_002835.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
