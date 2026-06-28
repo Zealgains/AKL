@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-28T06:07:41.773586",
-  "total_entries": 6653,
+  "exported_at": "2026-06-28T20:53:03.453202",
+  "total_entries": 6654,
   "entries": [
     {
       "id": 2,
@@ -4722,6 +4722,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "disruptive",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6706,
+      "username": "Yorkeis",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-28",
+      "timestamp_added": "2026-06-28 20:48:01",
+      "added_by": "209956201377562624",
+      "reason": "pm on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
