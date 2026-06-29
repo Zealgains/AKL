@@ -194,3 +194,4 @@ Must Slay, (Added: 2026-06-27), <-- reason: Attacking cc while we have crashers,
 Must Sleigh, (Added: 2026-06-27), <-- reason: must slay alt direspecting ranks, (Rm: 2026-06-27)
 RCG_Yoda, (Added: 2026-06-27), <-- reason: Must Slay alt, (Rm: 2026-06-27)
 musty slayer, (Added: 2026-06-27), <-- reason: disrespecting ranks, (Rm: 2026-06-27)
+rune thirst, (Added: 2026-06-29), <-- reason: Hopping in and out of cc while honestly nvm crashing [Alt of: Honestly Nvm], (Rm: 2026-06-29)
