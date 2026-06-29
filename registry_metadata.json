@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-29T01:40:29.033384",
-  "total_entries": 6657,
+  "exported_at": "2026-06-29T01:59:55.238229",
+  "total_entries": 6660,
   "entries": [
     {
       "id": 2,
@@ -16380,6 +16380,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6710,
+      "username": "Itz Jus tree",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 01:54:52",
+      "added_by": "412117490424872971",
+      "reason": "Hopping in and out of cc while honestly nvm crashing",
+      "is_dupe": false,
+      "alt_of": "Honestly Nvm",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 1093,
       "username": "Jadeth",
       "category": "Leak Accounts",
@@ -16797,6 +16812,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6711,
+      "username": "rune thirst",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 01:55:16",
+      "added_by": "412117490424872971",
+      "reason": "Hopping in and out of cc while honestly nvm crashing",
+      "is_dupe": false,
+      "alt_of": "Honestly Nvm",
+      "evidence": [],
+      "removed_at": "2026-06-29 01:56:16",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
+    },
+    {
       "id": 1112,
       "username": "satanisgod",
       "category": "Leak Accounts",
@@ -17031,6 +17061,21 @@
       "reason": "Lurking in cc off world no response while honestly nvm following",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6712,
+      "username": "xTundrah",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 01:57:02",
+      "added_by": "412117490424872971",
+      "reason": "Hopping in and out of cc while honestly nvm following",
+      "is_dupe": false,
+      "alt_of": "Honestly Nvm",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
