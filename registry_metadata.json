@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-28T20:53:03.453202",
-  "total_entries": 6654,
+  "exported_at": "2026-06-29T01:40:29.033384",
+  "total_entries": 6657,
   "entries": [
     {
       "id": 2,
@@ -16290,6 +16290,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6707,
+      "username": "Gurneys",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 01:35:26",
+      "added_by": "412117490424872971",
+      "reason": "leak account for Honestly Nvm",
+      "is_dupe": false,
+      "alt_of": "Honestly Nvm",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 1088,
       "username": "Hiii Sir",
       "category": "Leak Accounts",
@@ -16767,6 +16782,21 @@
       "status": "REMOVED"
     },
     {
+      "id": 6708,
+      "username": "rM daeH",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 01:35:50",
+      "added_by": "412117490424872971",
+      "reason": "leak account for Honestly Nvm",
+      "is_dupe": false,
+      "alt_of": "Honestly Nvm",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 1112,
       "username": "satanisgod",
       "category": "Leak Accounts",
@@ -16984,6 +17014,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Leak Account",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6709,
+      "username": "XI\u00a0CHI\u00a0LO\u00a0F",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 01:36:52",
+      "added_by": "412117490424872971",
+      "reason": "Lurking in cc off world no response while honestly nvm following",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
