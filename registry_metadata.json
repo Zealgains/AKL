@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-29T18:04:43.404797",
-  "total_entries": 6978,
+  "exported_at": "2026-06-29T18:10:34.068596",
+  "total_entries": 6979,
   "entries": [
     {
       "id": 2,
@@ -15967,6 +15967,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7031,
+      "username": "01 f2p pk",
+      "category": "Leak Accounts",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 18:05:31",
+      "added_by": "412117490424872971",
+      "reason": "f2p w.o sw stats checking fc right after we go pvt cuz dealing with crashers",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
