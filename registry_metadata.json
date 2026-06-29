@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-29T02:20:53.158012",
-  "total_entries": 6788,
+  "exported_at": "2026-06-29T16:38:07.132013",
+  "total_entries": 6789,
   "entries": [
     {
       "id": 2,
@@ -3427,6 +3427,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crashing with misfits",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6841,
+      "username": "z0ft",
+      "category": "Attacking cc Members",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 16:33:04",
+      "added_by": "412117490424872971",
+      "reason": "crashing",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
