@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-29T17:06:16.670867",
-  "total_entries": 6893,
+  "exported_at": "2026-06-29T17:14:59.892081",
+  "total_entries": 6894,
   "entries": [
     {
       "id": 2,
@@ -4282,6 +4282,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "pking",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6946,
+      "username": "DCd Again",
+      "category": "Breaking General Rules",
+      "date_added": "2026-06-29",
+      "timestamp_added": "2026-06-29 17:09:57",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
