@@ -1283,6 +1283,7 @@ Zg Victims, (Added: Unknown Date), <-- reason: No reason provided.,
 --Category(Leagues Crashers)end--,
 
 --Category(Leak Accounts)start--,
+01 f2p pk, (Added: 2026-06-29), <-- reason: f2p w.o sw stats checking fc right after we go pvt cuz dealing with crashers,
 0x00, (Added: 2026-05-14), <-- reason: leak account for w 320,
 13000000, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 13annana, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is Crashing,
