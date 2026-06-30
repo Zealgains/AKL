@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-30T16:32:13.231118",
-  "total_entries": 7047,
+  "exported_at": "2026-06-30T20:44:45.883804",
+  "total_entries": 7048,
   "entries": [
     {
       "id": 2,
@@ -11325,6 +11325,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Absolute pelican of a human being, do not unban, breaking all rules",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7100,
+      "username": "Thanatos1",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-06-30",
+      "timestamp_added": "2026-06-30 20:39:43",
+      "added_by": "412117490424872971",
+      "reason": "running off from taxi, fragging w.o calling, disrespecting rank",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
