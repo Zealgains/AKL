@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-01T02:02:02.145811",
-  "total_entries": 7102,
+  "exported_at": "2026-07-01T05:06:36.197825",
+  "total_entries": 7103,
   "entries": [
     {
       "id": 2,
@@ -4012,6 +4012,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Suspected bot / gold farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7155,
+      "username": "Mild Stiffy",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-01",
+      "timestamp_added": "2026-07-01 05:01:33",
+      "added_by": "412117490424872971",
+      "reason": "fragging without calling, acting like a bot",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
