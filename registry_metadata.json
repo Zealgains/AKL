@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T05:06:36.197825",
+  "exported_at": "2026-07-01T05:44:03.202837",
   "total_entries": 7103,
   "entries": [
     {
@@ -10803,9 +10803,9 @@
           "filename": "zlumbyxpress_20260628_002835.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-07-01 05:39:00",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 879,
