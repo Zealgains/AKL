@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-01T05:44:03.202837",
-  "total_entries": 7103,
+  "exported_at": "2026-07-01T14:41:17.319196",
+  "total_entries": 7105,
   "entries": [
     {
       "id": 2,
@@ -1163,6 +1163,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7157,
+      "username": "HairyEyeBall",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-01",
+      "timestamp_added": "2026-07-01 14:36:23",
+      "added_by": "412117490424872971",
+      "reason": "fragging w.o calling, pking at mid, disrespecting",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -4258,6 +4273,21 @@
       "removed_at": "2026-06-27 17:17:09",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 7156,
+      "username": "Aimbot v2",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-01",
+      "timestamp_added": "2026-07-01 14:36:14",
+      "added_by": "412117490424872971",
+      "reason": "stepping out w.o being taxi, griefing at ava",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 6474,
