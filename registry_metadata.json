@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-02T21:29:44.161897",
-  "total_entries": 7108,
+  "exported_at": "2026-07-02T21:51:18.435528",
+  "total_entries": 7109,
   "entries": [
     {
       "id": 2,
@@ -4357,6 +4357,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crashing after kick",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7161,
+      "username": "Deperssion",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-02",
+      "timestamp_added": "2026-07-02 21:46:16",
+      "added_by": "412117490424872971",
+      "reason": "Private chat on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
