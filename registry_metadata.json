@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-02T20:34:39.759528",
-  "total_entries": 7107,
+  "exported_at": "2026-07-02T21:29:44.161897",
+  "total_entries": 7108,
   "entries": [
     {
       "id": 2,
@@ -16359,6 +16359,21 @@
       "reason": "In Zezima CC while Honestly Nvm is crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7160,
+      "username": "9 v 9",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-02",
+      "timestamp_added": "2026-07-02 21:24:41",
+      "added_by": "412117490424872971",
+      "reason": "Logged out of games at the same time Really Ryan did while he was crashing",
+      "is_dupe": false,
+      "alt_of": "Really Ryan",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
