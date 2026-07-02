@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-02T17:56:21.917642",
-  "total_entries": 7106,
+  "exported_at": "2026-07-02T20:34:39.759528",
+  "total_entries": 7107,
   "entries": [
     {
       "id": 2,
@@ -16704,6 +16704,21 @@
       "reason": "in Zezima CC while Honestly Nvm is crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7159,
+      "username": "B C S",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-02",
+      "timestamp_added": "2026-07-02 20:29:37",
+      "added_by": "412117490424872971",
+      "reason": "Leaking world to Honestly Nvm",
+      "is_dupe": false,
+      "alt_of": "Honestly Nvm",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
