@@ -1328,6 +1328,7 @@ AustinaChan, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is
 Awholehole, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 AxeUnleashed, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 B A R S Y, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
+B C S, (Added: 2026-07-02), <-- reason: Leaking world to Honestly Nvm [Alt of: Honestly Nvm],
 Baby Bear, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 babyyoyo, (Added: 2026-05-15), <-- reason: hopping in and out of cc on world 320,
 BACKDOWN 07, (Added: 2026-05-02), <-- reason: leak account for zealseal [Alt of: ZealSeal] [Proof: evidence/backdown_07/backdown_07_20260502_012312.png],
