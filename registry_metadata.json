@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-03T16:34:03.463770",
-  "total_entries": 7109,
+  "exported_at": "2026-07-03T17:19:33.044909",
+  "total_entries": 7111,
   "entries": [
     {
       "id": 2,
@@ -18465,6 +18465,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 7162,
+      "username": "Girthyautism",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-03",
+      "timestamp_added": "2026-07-03 17:14:30",
+      "added_by": "412117490424872971",
+      "reason": "Girthy Cat alt",
+      "is_dupe": false,
+      "alt_of": "Girthy Cat",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6923,
       "username": "glass idiot",
       "category": "Leak Accounts",
@@ -19102,6 +19117,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Joined and left cc to find world",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7163,
+      "username": "Ittaqillah",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-03",
+      "timestamp_added": "2026-07-03 17:18:07",
+      "added_by": "412117490424872971",
+      "reason": "hopping in and out of cc on f2p account",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
