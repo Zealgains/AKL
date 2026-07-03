@@ -203,3 +203,4 @@ pumpers, (Added: 2026-07-02), <-- reason: Joining private cc without being in di
 Deperssion, (Added: 2026-07-02), <-- reason: Private chat on, (Rm: 2026-07-02)
 Hamsmackerr, (Added: 2026-05-18), <-- reason: stepping out with no intention to taxi, pulling ava aggro, can't read pelican, (Rm: 2026-07-03)
 Tawhied, (Added: 2026-05-08), <-- reason: Fragging without calling, attacking taxi and fraggers, (Rm: 2026-07-03)
+Zeal Cape, (Added: 2026-07-03), <-- reason: Noob, (Rm: 2026-07-03)
