@@ -202,3 +202,4 @@ ZLumbyXpress, (Added: 2026-06-28), <-- reason: Flaming cc and ranks after being 
 pumpers, (Added: 2026-07-02), <-- reason: Joining private cc without being in discord, (Rm: 2026-07-02)
 Deperssion, (Added: 2026-07-02), <-- reason: Private chat on, (Rm: 2026-07-02)
 Hamsmackerr, (Added: 2026-05-18), <-- reason: stepping out with no intention to taxi, pulling ava aggro, can't read pelican, (Rm: 2026-07-03)
+Tawhied, (Added: 2026-05-08), <-- reason: Fragging without calling, attacking taxi and fraggers, (Rm: 2026-07-03)
