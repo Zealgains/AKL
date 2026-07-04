@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-04T08:16:55.108699",
-  "total_entries": 7114,
+  "exported_at": "2026-07-04T08:51:32.086499",
+  "total_entries": 7115,
   "entries": [
     {
       "id": 2,
@@ -38573,6 +38573,21 @@
       "removed_at": "2026-06-17 04:17:55",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 7167,
+      "username": "me on me",
+      "category": "Other",
+      "date_added": "2026-07-04",
+      "timestamp_added": "2026-07-04 08:46:29",
+      "added_by": "412117490424872971",
+      "reason": "noob",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 2112,
