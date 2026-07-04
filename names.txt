@@ -1652,6 +1652,7 @@ Rune Ascent, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Z
 Rune J, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 Ryvo, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 S C l M, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
+S T A T T Y, (Added: 2026-07-04), <-- reason: possible leak account on 318 while IVI 7 / Thee Misfits / NBK Rat trying to find world,
 SailingStorm, (Added: 2026-06-29), <-- reason: in Mod Mark CC while Honestly Nvm is crashing,
 Saint Bloody, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 Saint Peepee, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
