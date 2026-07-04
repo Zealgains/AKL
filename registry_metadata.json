@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-04T00:18:47.327685",
-  "total_entries": 7112,
+  "exported_at": "2026-07-04T04:00:04.226672",
+  "total_entries": 7113,
   "entries": [
     {
       "id": 2,
@@ -4318,6 +4318,21 @@
       "removed_at": "2026-06-27 22:41:44",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 7165,
+      "username": "CorbyTheLad",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-04",
+      "timestamp_added": "2026-07-04 03:55:01",
+      "added_by": "209956201377562624",
+      "reason": "no response, runs off at start, breaks dd",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 271,
