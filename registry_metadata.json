@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-04T04:00:04.226672",
+  "exported_at": "2026-07-04T07:47:23.726132",
   "total_entries": 7113,
   "entries": [
     {
@@ -4326,10 +4326,23 @@
       "date_added": "2026-07-04",
       "timestamp_added": "2026-07-04 03:55:01",
       "added_by": "209956201377562624",
-      "reason": "no response, runs off at start, breaks dd",
+      "reason": "no response, runs off at start, breaks dd - not account owner on account, using pakistani account builder - pakistani account builder appealed + denied",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/corbythelad/corbythelad_20260704_074232.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-04 07:42:33",
+          "filename": "corbythelad_20260704_074232.png"
+        },
+        {
+          "path": "evidence/corbythelad/corbythelad_20260704_074312.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-04 07:43:13",
+          "filename": "corbythelad_20260704_074312.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
