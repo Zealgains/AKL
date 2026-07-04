@@ -205,3 +205,4 @@ Hamsmackerr, (Added: 2026-05-18), <-- reason: stepping out with no intention to 
 Tawhied, (Added: 2026-05-08), <-- reason: Fragging without calling, attacking taxi and fraggers, (Rm: 2026-07-03)
 Zeal Cape, (Added: 2026-07-03), <-- reason: Noob, (Rm: 2026-07-03)
 UrDadsBoyFrn, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-07-04)
+UrDadsBoyFrd, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-07-04)
