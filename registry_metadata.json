@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-04T14:57:03.059214",
-  "total_entries": 7118,
+  "exported_at": "2026-07-04T15:38:49.896738",
+  "total_entries": 7119,
   "entries": [
     {
       "id": 2,
@@ -4355,6 +4355,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "pking",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7171,
+      "username": "d99",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-04",
+      "timestamp_added": "2026-07-04 15:33:47",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
