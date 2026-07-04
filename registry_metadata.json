@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-04T14:38:20.691899",
-  "total_entries": 7117,
+  "exported_at": "2026-07-04T14:57:03.059214",
+  "total_entries": 7118,
   "entries": [
     {
       "id": 2,
@@ -37952,6 +37952,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crash threats with bfer.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7170,
+      "username": "Androld l7",
+      "category": "Other",
+      "date_added": "2026-07-04",
+      "timestamp_added": "2026-07-04 14:52:00",
+      "added_by": "412117490424872971",
+      "reason": "noob",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
