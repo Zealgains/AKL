@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-04T17:20:25.790723",
-  "total_entries": 7120,
+  "exported_at": "2026-07-04T20:21:33.072232",
+  "total_entries": 7121,
   "entries": [
     {
       "id": 2,
@@ -22339,6 +22339,21 @@
       "reason": "hopping in and out of cc on f2p world",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7173,
+      "username": "Smells Ass",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-04",
+      "timestamp_added": "2026-07-04 20:16:30",
+      "added_by": "412117490424872971",
+      "reason": "leaking world to IVI 7",
+      "is_dupe": false,
+      "alt_of": "IVI 7",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
