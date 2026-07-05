@@ -215,3 +215,4 @@ Thomatoes, (Added: 2026-07-04), <-- reason: repeatedly off world no response, (R
 9 v 9, (Added: 2026-07-02), <-- reason: Logged out of games at the same time Really Ryan did while he was crashing [Alt of: Really Ryan], (Rm: 2026-07-05)
 Smells Ass, (Added: 2026-07-04), <-- reason: leaking world to IVI 7 [Alt of: IVI 7], (Rm: 2026-07-05)
 BattleBeaver, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel, (Rm: 2026-07-05)
+Sir AkiCloud, (Added: 2026-07-05), <-- reason: fragging without calling, running off, no response, may be a bot, (Rm: 2026-07-05)
