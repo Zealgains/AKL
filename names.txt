@@ -1337,7 +1337,6 @@ Bad Mane, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is cr
 Baker Bros, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 BallDrain, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Bartrahm, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
-BattleBeaver, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 BBC UK, (Added: 2026-06-29), <-- reason: in Mod Mark CC while Honestly Nvm is crashing,
 Bdp, (Added: 2026-06-29), <-- reason: in Mod Mark CC while Honestly Nvm is crashing,
 Beaglemancer, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
