@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-05T00:53:37.732379",
-  "total_entries": 7122,
+  "exported_at": "2026-07-05T03:26:52.236275",
+  "total_entries": 7123,
   "entries": [
     {
       "id": 2,
@@ -19785,6 +19785,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7175,
+      "username": "Lady Servil",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-05",
+      "timestamp_added": "2026-07-05 03:21:49",
+      "added_by": "209956201377562624",
+      "reason": "Leak account - do not remove",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/lady_servil/lady_servil_20260705_032149.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-05 03:21:49",
+          "filename": "lady_servil_20260705_032149.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
