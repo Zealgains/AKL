@@ -1691,7 +1691,6 @@ slayermass1, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is
 slumerican, (Added: 2025-12-30), <-- reason: leaking to AFC Quincy,
 Sm0kedOut941, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Smash Town, (Added: 2026-05-16), <-- reason: hopping in and out of cc on f2p world,
-Smells Ass, (Added: 2026-07-04), <-- reason: leaking world to IVI 7 [Alt of: IVI 7],
 SnugLikeABug, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 snyper343, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 Solbady, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
