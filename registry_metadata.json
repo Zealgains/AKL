@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-05T15:22:41.217339",
-  "total_entries": 7130,
+  "exported_at": "2026-07-05T16:07:13.384297",
+  "total_entries": 7131,
   "entries": [
     {
       "id": 2,
@@ -11488,6 +11488,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7184,
+      "username": "Sir AkiCloud",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-07-05",
+      "timestamp_added": "2026-07-05 16:02:11",
+      "added_by": "412117490424872971",
+      "reason": "fragging without calling, running off, no response, may be a bot",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
