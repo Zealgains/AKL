@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-05T16:35:00.792480",
-  "total_entries": 7132,
+  "exported_at": "2026-07-05T17:02:39.714949",
+  "total_entries": 7133,
   "entries": [
     {
       "id": 2,
@@ -24459,6 +24459,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Too low stats to play soulwars",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7186,
+      "username": "Minun95",
+      "category": "Lurking / Zeal Inactivity",
+      "date_added": "2026-07-05",
+      "timestamp_added": "2026-07-05 16:57:37",
+      "added_by": "412117490424872971",
+      "reason": "lurking in cc on f2p world no response",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
