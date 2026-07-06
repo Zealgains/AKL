@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-06T03:48:35.531901",
-  "total_entries": 7134,
+  "exported_at": "2026-07-06T12:52:40.158991",
+  "total_entries": 7135,
   "entries": [
     {
       "id": 2,
@@ -1334,6 +1334,21 @@
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
+    },
+    {
+      "id": 7188,
+      "username": "Homelessbaln",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-06",
+      "timestamp_added": "2026-07-06 12:47:37",
+      "added_by": "412117490424872971",
+      "reason": "Refusing to join cc/pking members",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": "2026-07-06 12:48:18",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 86,
