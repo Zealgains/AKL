@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-06T12:52:40.158991",
-  "total_entries": 7135,
+  "exported_at": "2026-07-06T12:59:02.417209",
+  "total_entries": 7136,
   "entries": [
     {
       "id": 2,
@@ -4732,6 +4732,21 @@
       "reason": "not following rules, threaten to crash, disrespect ranks",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7189,
+      "username": "Morton 126",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-06",
+      "timestamp_added": "2026-07-06 12:53:59",
+      "added_by": "412117490424872971",
+      "reason": "Alt of RWT and account seller griefing dd",
+      "is_dupe": false,
+      "alt_of": "Corbythelad",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
