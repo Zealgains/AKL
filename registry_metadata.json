@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-06T12:59:02.417209",
-  "total_entries": 7136,
+  "exported_at": "2026-07-06T15:35:00.148953",
+  "total_entries": 7138,
   "entries": [
     {
       "id": 2,
@@ -19003,6 +19003,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 7191,
+      "username": "homelessbaln",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-06",
+      "timestamp_added": "2026-07-06 15:30:40",
+      "added_by": "412117490424872971",
+      "reason": "showing up in private games with no application in",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 1089,
       "username": "HoWheatBread",
       "category": "Leak Accounts",
@@ -23064,6 +23079,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7190,
+      "username": "TimRidell",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-06",
+      "timestamp_added": "2026-07-06 15:29:57",
+      "added_by": "412117490424872971",
+      "reason": "in private games, no application in",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
