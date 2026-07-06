@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-05T20:07:04.917182",
-  "total_entries": 7133,
+  "exported_at": "2026-07-06T03:48:35.531901",
+  "total_entries": 7134,
   "entries": [
     {
       "id": 2,
@@ -3232,6 +3232,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crashing with misfits",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7187,
+      "username": "u victim",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-06",
+      "timestamp_added": "2026-07-06 03:43:33",
+      "added_by": "209956201377562624",
+      "reason": "alt of i h u r t u",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
