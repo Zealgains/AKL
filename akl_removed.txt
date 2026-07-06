@@ -218,3 +218,4 @@ BattleBeaver, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in 
 Sir AkiCloud, (Added: 2026-07-05), <-- reason: fragging without calling, running off, no response, may be a bot, (Rm: 2026-07-05)
 Lady Servil, (Added: 2026-07-05), <-- reason: Leak account - do not remove [Proof: evidence/lady_servil/lady_servil_20260705_032149.png], (Rm: 2026-07-05)
 preventables, (Added: 2026-07-05), <-- reason: Instantly left cc after being called out off world while crashers are active, (Rm: 2026-07-05)
+Homelessbaln, (Added: 2026-07-06), <-- reason: Refusing to join cc/pking members, (Rm: 2026-07-06)
