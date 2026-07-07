@@ -1733,7 +1733,6 @@ TheRNGJunky, (Added: 2026-05-12), <-- reason: Alt of 0xZeroTrust who's been cras
 ThiccDih, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 Thrath, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 thugger szn, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
-TimRidell, (Added: 2026-07-06), <-- reason: in private games, no application in,
 TinkMojo, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 tiszyy, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Tmpx1, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
