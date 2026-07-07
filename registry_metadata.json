@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-07T14:37:31.067599",
-  "total_entries": 7139,
+  "exported_at": "2026-07-07T20:00:54.385593",
+  "total_entries": 7140,
   "entries": [
     {
       "id": 2,
@@ -74085,6 +74085,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7193,
+      "username": "hd0",
+      "category": "Rido Soul Wars CC",
+      "date_added": "2026-07-07",
+      "timestamp_added": "2026-07-07 19:55:51",
+      "added_by": "412117490424872971",
+      "reason": "Speccing out taxi, 'zealgansssss sends his regards'",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
