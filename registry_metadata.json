@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-07T20:53:36.865633",
-  "total_entries": 7632,
+  "exported_at": "2026-07-07T23:37:33.974742",
+  "total_entries": 7634,
   "entries": [
     {
       "id": 2,
@@ -18965,6 +18965,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 7686,
+      "username": "hd0 left tit",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-07",
+      "timestamp_added": "2026-07-07 23:32:31",
+      "added_by": "412117490424872971",
+      "reason": "HD0 Leak account",
+      "is_dupe": false,
+      "alt_of": "HD0",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 7078,
       "username": "Headquarter",
       "category": "Leak Accounts",
@@ -23071,6 +23086,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Alt of 0xZeroTrust who's been crashing us for a bit",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7687,
+      "username": "TheZevil",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-07",
+      "timestamp_added": "2026-07-07 23:33:49",
+      "added_by": "412117490424872971",
+      "reason": "Joined cc off world no response while HD0 Following games",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
