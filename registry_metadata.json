@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-07T04:12:58.713714",
-  "total_entries": 7138,
+  "exported_at": "2026-07-07T13:11:25.465797",
+  "total_entries": 7139,
   "entries": [
     {
       "id": 2,
@@ -4951,6 +4951,21 @@
       "removed_at": "2026-06-25 18:11:47",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 7192,
+      "username": "wet hands",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-07",
+      "timestamp_added": "2026-07-07 13:06:23",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 282,
