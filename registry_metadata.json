@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-07T20:00:54.385593",
+  "exported_at": "2026-07-07T20:09:42.320375",
   "total_entries": 7140,
   "entries": [
     {
@@ -74102,7 +74102,14 @@
       "reason": "Speccing out taxi, 'zealgansssss sends his regards'",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/hd0/hd0_20260707_200438.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-07 20:04:39",
+          "filename": "hd0_20260707_200438.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
