@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T01:36:57.907603",
-  "total_entries": 7636,
+  "exported_at": "2026-07-08T02:01:39.453544",
+  "total_entries": 7638,
   "entries": [
     {
       "id": 2,
@@ -16948,6 +16948,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 7690,
+      "username": "b1lb0bongN",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 01:56:36",
+      "added_by": "412117490424872971",
+      "reason": "joined cc and left with no response",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6944,
       "username": "Baby Bear",
       "category": "Leak Accounts",
@@ -18344,6 +18359,21 @@
       "reason": "in Zezima CC while Honestly Nvm is crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7691,
+      "username": "eyeslikerain",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 01:58:42",
+      "added_by": "412117490424872971",
+      "reason": "leak for hd0",
+      "is_dupe": false,
+      "alt_of": "hd0",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
