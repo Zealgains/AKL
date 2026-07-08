@@ -1435,6 +1435,7 @@ Faydour HC, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Ze
 Fe ttyWap, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 Fe Xans, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 fightmilk401, (Added: 2026-06-29), <-- reason: in Mod Mark CC while Honestly Nvm is crashing,
+FN Jim, (Added: 2026-07-08), <-- reason: HD0's alt [Alt of: FN Jim],
 Focus On IRL, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 for allah, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 frankpizza22, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
