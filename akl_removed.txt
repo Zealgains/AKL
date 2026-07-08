@@ -221,3 +221,4 @@ preventables, (Added: 2026-07-05), <-- reason: Instantly left cc after being cal
 Homelessbaln, (Added: 2026-07-06), <-- reason: Refusing to join cc/pking members, (Rm: 2026-07-06)
 homelessbaln, (Added: 2026-07-06), <-- reason: showing up in private games with no application in, (Rm: 2026-07-06)
 TimRidell, (Added: 2026-07-06), <-- reason: in private games, no application in, (Rm: 2026-07-07)
+Akimsay GG, (Added: 2026-07-08), <-- reason: joined and left chat quickly on f2p world, (Rm: 2026-07-08)
