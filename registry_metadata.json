@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T00:35:49.497192",
-  "total_entries": 7635,
+  "exported_at": "2026-07-08T01:36:57.907603",
+  "total_entries": 7636,
   "entries": [
     {
       "id": 2,
@@ -18449,6 +18449,21 @@
       "reason": "in Mod Mark CC while Honestly Nvm is crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7689,
+      "username": "FN Jim",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 01:31:55",
+      "added_by": "412117490424872971",
+      "reason": "HD0's alt",
+      "is_dupe": false,
+      "alt_of": "FN Jim",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
