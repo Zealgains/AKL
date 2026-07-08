@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T02:01:39.453544",
-  "total_entries": 7638,
+  "exported_at": "2026-07-08T02:06:55.668941",
+  "total_entries": 7639,
   "entries": [
     {
       "id": 2,
@@ -4252,6 +4252,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "callistobot- dumping frags without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7692,
+      "username": "ULQUIORRA\u00a004",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 02:01:53",
+      "added_by": "412117490424872971",
+      "reason": "bot or gold farmer lurking in cc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
