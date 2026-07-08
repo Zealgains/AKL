@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T04:03:41.961928",
-  "total_entries": 7642,
+  "exported_at": "2026-07-08T06:02:53.064347",
+  "total_entries": 7643,
   "entries": [
     {
       "id": 2,
@@ -20132,6 +20132,28 @@
       "removed_at": "2026-07-05 20:02:02",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 7697,
+      "username": "Lady Servil",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 05:57:50",
+      "added_by": "412117490424872971",
+      "reason": "Rido Taghi alt",
+      "is_dupe": false,
+      "alt_of": "Rido Taghi",
+      "evidence": [
+        {
+          "path": "evidence/lady_servil/lady_servil_20260708_060025.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-08 06:00:27",
+          "filename": "lady_servil_20260708_060025.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 6724,
