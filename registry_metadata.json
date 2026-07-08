@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-07T23:37:33.974742",
-  "total_entries": 7634,
+  "exported_at": "2026-07-08T00:35:49.497192",
+  "total_entries": 7635,
   "entries": [
     {
       "id": 2,
@@ -18642,6 +18642,21 @@
       "timestamp_added": "2026-07-01 01:56:58",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7688,
+      "username": "giek",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 00:30:47",
+      "added_by": "412117490424872971",
+      "reason": "leaking to hd0",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
