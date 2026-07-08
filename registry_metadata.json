@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T11:38:58.174517",
-  "total_entries": 7744,
+  "exported_at": "2026-07-08T13:21:07.259191",
+  "total_entries": 7745,
   "entries": [
     {
       "id": 2,
@@ -4571,6 +4571,21 @@
       "removed_at": "2026-06-19 05:05:16",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 7799,
+      "username": "GoldScorpio",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 13:16:04",
+      "added_by": "412117490424872971",
+      "reason": "PM on",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 274,
