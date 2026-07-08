@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T02:30:33.680054",
-  "total_entries": 7640,
+  "exported_at": "2026-07-08T02:52:27.381660",
+  "total_entries": 7642,
   "entries": [
     {
       "id": 2,
@@ -16700,6 +16700,36 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7694,
+      "username": "Akimsay GG",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 02:47:25",
+      "added_by": "412117490424872971",
+      "reason": "joined and left chat quickly on f2p world",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": "2026-07-08 02:47:40",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
+    },
+    {
+      "id": 7695,
+      "username": "AkimsayGG",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 02:48:16",
+      "added_by": "412117490424872971",
+      "reason": "joined on f2p and left chat quickly",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
