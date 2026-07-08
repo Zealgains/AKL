@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T13:58:12.606264",
-  "total_entries": 7746,
+  "exported_at": "2026-07-08T15:17:18.826934",
+  "total_entries": 7747,
   "entries": [
     {
       "id": 2,
@@ -4475,6 +4475,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "pking",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7801,
+      "username": "cpt ashe",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 15:12:16",
+      "added_by": "412117490424872971",
+      "reason": "winey prick",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
