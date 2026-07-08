@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T02:06:55.668941",
-  "total_entries": 7639,
+  "exported_at": "2026-07-08T02:30:33.680054",
+  "total_entries": 7640,
   "entries": [
     {
       "id": 2,
@@ -18045,6 +18045,21 @@
           "filename": "donesstee_20260707_204834.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7693,
+      "username": "double input",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 02:25:31",
+      "added_by": "412117490424872971",
+      "reason": "joined and left cc on f2p no response while Hd0 trying to find worlds",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
