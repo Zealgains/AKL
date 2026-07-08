@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-08T06:19:49.001179",
-  "total_entries": 7743,
+  "exported_at": "2026-07-08T11:38:58.174517",
+  "total_entries": 7744,
   "entries": [
     {
       "id": 2,
@@ -74691,6 +74691,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7798,
+      "username": "taxi-gains",
+      "category": "Rido Soul Wars CC",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 11:33:55",
+      "added_by": "412117490424872971",
+      "reason": "Rido alt",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
