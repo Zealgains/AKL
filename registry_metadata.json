@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-08T02:52:27.381660",
+  "exported_at": "2026-07-08T04:03:41.961928",
   "total_entries": 7642,
   "entries": [
     {
@@ -1432,7 +1432,7 @@
       "date_added": "2026-07-05",
       "timestamp_added": "2026-07-05 15:18:49",
       "added_by": "412117490424872971",
-      "reason": "crashing",
+      "reason": "crashing and alt of U St",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -3255,15 +3255,15 @@
       "status": "ACTIVE"
     },
     {
-      "id": 7187,
-      "username": "u victim",
+      "id": 7696,
+      "username": "U victim",
       "category": "Attacking cc Members",
-      "date_added": "2026-07-06",
-      "timestamp_added": "2026-07-06 03:43:33",
-      "added_by": "209956201377562624",
-      "reason": "alt of i h u r t u",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 03:58:39",
+      "added_by": "412117490424872971",
+      "reason": "U st alt account",
       "is_dupe": false,
-      "alt_of": null,
+      "alt_of": "U st",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
