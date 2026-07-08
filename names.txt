@@ -73,6 +73,7 @@ gangobango1, (Added: 2026-06-16), <-- reason: From 320 to crash with femi pk [Pr
 Giant otter, (Added: 2026-03-04), <-- reason: Crashing - Attacking cc,
 GIMP Caleb, (Added: Unknown Date), <-- reason: No reason provided.,
 GIMP Eyes, (Added: Unknown Date), <-- reason: No reason provided.,
+go in dry, (Added: 2026-07-08), <-- reason: suspected crasher,
 goofy slappr, (Added: Unknown Date), <-- reason: attacking cc.,
 Greznos, (Added: Unknown Date), <-- reason: attacking cc.,
 grxef ferox, (Added: Unknown Date), <-- reason: No reason provided.,
