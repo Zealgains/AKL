@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-09T19:17:18.317721",
-  "total_entries": 7798,
+  "exported_at": "2026-07-09T22:32:24.695711",
+  "total_entries": 7799,
   "entries": [
     {
       "id": 2,
@@ -2333,6 +2333,21 @@
       "timestamp_added": "2026-07-05 15:18:16",
       "added_by": "412117490424872971",
       "reason": "crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7853,
+      "username": "okqt",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 22:27:15",
+      "added_by": "209956201377562624",
+      "reason": "pelican attacking ava early and pking fc members",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
