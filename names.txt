@@ -5273,7 +5273,7 @@ zandnegerke, (Added: 2026-02-11), <-- reason: Ridos alt and racist name,
 GimSoHard696, (Added: Unknown Date), <-- reason: No reason provided.,
 --Category(Runewatch Flagged)end--,
 
---Category(Skysworn - HD0's clan)start--,
+--Category(Skysworn / Dutch Order)start--,
 --Bot Limiter---, (Added: 2024-01-01), <-- reason: Category Placeholder,
 12mgZynBUZZ, (Added: 2026-07-07), <-- reason: Mass clan ban - part of Skysworn HD0's clan,
 144hz, (Added: 2026-07-07), <-- reason: Mass clan ban - part of Skysworn HD0's clan,
@@ -5769,7 +5769,7 @@ zapacheenie, (Added: 2026-07-07), <-- reason: Mass clan ban - skysworn - hd0's c
 zilwegie, (Added: 2026-07-07), <-- reason: Mass clan ban - part of Skysworn HD0's clan,
 ZombieThanos, (Added: 2026-07-07), <-- reason: Mass clan ban - part of Skysworn HD0's clan,
 zulrah stuck, (Added: 2026-07-07), <-- reason: Mass clan ban - part of Skysworn HD0's clan,
---Category(Skysworn - HD0's clan)end--,
+--Category(Skysworn / Dutch Order)end--,
 
 --Category(SW Alliance (Fred Init))start--,
 0ne Wet Paw, (Added: 2026-03-20), <-- reason: In SW Alliance clan - assosiated with Fred Init,
