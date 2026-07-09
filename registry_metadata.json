@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-09T13:55:54.174630",
-  "total_entries": 7787,
+  "exported_at": "2026-07-09T15:52:13.986063",
+  "total_entries": 7788,
   "entries": [
     {
       "id": 2,
@@ -4012,6 +4012,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "goldfarmer benchode",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7842,
+      "username": "Irony Imp",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 15:47:11",
+      "added_by": "412117490424872971",
+      "reason": "Wt at private games while  being main fc. also acts like bot",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
