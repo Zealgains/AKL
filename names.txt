@@ -1490,6 +1490,7 @@ Group Glizzy, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in 
 gulf day FRI, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Gurneys, (Added: 2026-06-29), <-- reason: leak account for Honestly Nvm [Alt of: ZealGainss],
 HaloFunko, (Added: 2026-06-29), <-- reason: in Mod Mark CC while Honestly Nvm is crashing,
+Hash Jar, (Added: 2026-07-09), <-- reason: Joined fc said world, left fc and never returned, fookin rat [Proof: evidence/hash jar/hash jar_20260709_230914.png],
 Haslugol, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 HatsuneM iku, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 HC IRON GJH, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
