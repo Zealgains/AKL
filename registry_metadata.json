@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-09T01:38:16.353657",
-  "total_entries": 7747,
+  "exported_at": "2026-07-09T13:10:16.354374",
+  "total_entries": 7749,
   "entries": [
     {
       "id": 2,
@@ -4661,6 +4661,21 @@
       "removed_at": "2026-07-03 05:54:10",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 7802,
+      "username": "HamSmackerr",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 13:05:13",
+      "added_by": "412117490424872971",
+      "reason": "sharing bot world in fc. Trading Jason after they offered 50m for a leak. Ignoring questions from ranks in fc following this.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 6507,
@@ -19932,6 +19947,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7803,
+      "username": "kferd",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 13:05:19",
+      "added_by": "412117490424872971",
+      "reason": "suspected leak",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
