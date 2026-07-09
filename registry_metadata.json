@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-09T16:54:26.222302",
-  "total_entries": 7788,
+  "exported_at": "2026-07-09T18:08:05.304147",
+  "total_entries": 7789,
   "entries": [
     {
       "id": 2,
@@ -18327,6 +18327,21 @@
       "timestamp_added": "2026-06-29 21:56:10",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7843,
+      "username": "Dwangsom",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 18:02:59",
+      "added_by": "412117490424872971",
+      "reason": "Leaking to Thee Misfits and NBK Rat - Was Bronze Star",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
