@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-09T13:45:20.781638",
-  "total_entries": 7783,
+  "exported_at": "2026-07-09T13:55:54.174630",
+  "total_entries": 7787,
   "entries": [
     {
       "id": 2,
@@ -87044,6 +87044,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 7838,
+      "username": "B-Spec",
+      "category": "Skysworn - HD0's clan",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 13:50:51",
+      "added_by": "412117490424872971",
+      "reason": "in Skysworn clan",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 7543,
       "username": "badmelon",
       "category": "Skysworn - HD0's clan",
@@ -88559,6 +88574,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 7839,
+      "username": "EST-Matt",
+      "category": "Skysworn - HD0's clan",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 13:50:51",
+      "added_by": "412117490424872971",
+      "reason": "in Skysworn clan",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 7294,
       "username": "euces",
       "category": "Skysworn - HD0's clan",
@@ -89406,6 +89436,21 @@
       "timestamp_added": "2026-07-07 20:11:14",
       "added_by": "209956201377562624",
       "reason": "Mass clan ban - part of Skysworn HD0's clan",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7841,
+      "username": "Haze_UK",
+      "category": "Skysworn - HD0's clan",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 13:50:51",
+      "added_by": "412117490424872971",
+      "reason": "in Skysworn clan",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -92901,6 +92946,21 @@
       "timestamp_added": "2026-07-07 20:11:14",
       "added_by": "209956201377562624",
       "reason": "Mass clan ban - part of Skysworn HD0's clan",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7840,
+      "username": "The_BFChucky",
+      "category": "Skysworn - HD0's clan",
+      "date_added": "2026-07-09",
+      "timestamp_added": "2026-07-09 13:50:51",
+      "added_by": "412117490424872971",
+      "reason": "in Skysworn clan",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
