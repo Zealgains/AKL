@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-09T15:52:13.986063",
+  "exported_at": "2026-07-09T16:30:26.848113",
   "total_entries": 7788,
   "entries": [
     {
@@ -20239,28 +20239,6 @@
       "status": "REMOVED"
     },
     {
-      "id": 7697,
-      "username": "Lady Servil",
-      "category": "Leak Accounts",
-      "date_added": "2026-07-08",
-      "timestamp_added": "2026-07-08 05:57:50",
-      "added_by": "412117490424872971",
-      "reason": "Rido Taghi alt",
-      "is_dupe": false,
-      "alt_of": "Rido Taghi",
-      "evidence": [
-        {
-          "path": "evidence/lady_servil/lady_servil_20260708_060025.png",
-          "uploaded_by": "412117490424872971",
-          "uploaded_at": "2026-07-08 06:00:27",
-          "filename": "lady_servil_20260708_060025.png"
-        }
-      ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
-    },
-    {
       "id": 6724,
       "username": "Large Levi",
       "category": "Leak Accounts",
@@ -24236,6 +24214,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7697,
+      "username": "Zeal Snatcha",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-08",
+      "timestamp_added": "2026-07-08 05:57:50",
+      "added_by": "412117490424872971",
+      "reason": "Rido Taghi alt",
+      "is_dupe": false,
+      "alt_of": "Rido Taghi",
+      "evidence": [
+        {
+          "path": "evidence/lady_servil/lady_servil_20260708_060025.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-08 06:00:27",
+          "filename": "lady_servil_20260708_060025.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
