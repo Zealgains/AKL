@@ -224,3 +224,4 @@ TimRidell, (Added: 2026-07-06), <-- reason: in private games, no application in,
 Akimsay GG, (Added: 2026-07-08), <-- reason: joined and left chat quickly on f2p world, (Rm: 2026-07-08)
 HairyEyeBall, (Added: 2026-07-01), <-- reason: fragging w.o calling, pking at mid, disrespecting, (Rm: 2026-07-09)
 Irony Imp, (Added: 2026-07-09), <-- reason: Wt at private games while  being main fc. also acts like bot, (Rm: 2026-07-09)
+kferd, (Added: 2026-07-09), <-- reason: suspected leak, (Rm: 2026-07-10)
