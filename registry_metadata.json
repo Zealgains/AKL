@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-10T16:26:51.314303",
-  "total_entries": 7805,
+  "exported_at": "2026-07-10T17:03:43.040187",
+  "total_entries": 7806,
   "entries": [
     {
       "id": 2,
@@ -39933,6 +39933,21 @@
       "removed_at": "2026-07-04 16:24:56",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 7860,
+      "username": "Zealgainsss",
+      "category": "Other",
+      "date_added": "2026-07-10",
+      "timestamp_added": "2026-07-10 16:58:40",
+      "added_by": "412117490424872971",
+      "reason": "Suspected leak account - showed up right as thee misfits left",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 6667,
