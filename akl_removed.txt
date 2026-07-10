@@ -226,3 +226,4 @@ HairyEyeBall, (Added: 2026-07-01), <-- reason: fragging w.o calling, pking at mi
 Irony Imp, (Added: 2026-07-09), <-- reason: Wt at private games while  being main fc. also acts like bot, (Rm: 2026-07-09)
 kferd, (Added: 2026-07-09), <-- reason: suspected leak, (Rm: 2026-07-10)
 Dwangsom, (Added: 2026-07-09), <-- reason: Leaking to Thee Misfits and NBK Rat - Was Bronze Star, (Rm: 2026-07-10)
+Tenth, (Added: 2026-07-10), <-- reason: Leaking to  thee misfits check star ranks, (Rm: 2026-07-10)
