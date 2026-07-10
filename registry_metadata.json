@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-10T02:48:59.905229",
-  "total_entries": 7802,
+  "exported_at": "2026-07-10T03:58:36.272512",
+  "total_entries": 7803,
   "entries": [
     {
       "id": 2,
@@ -77051,6 +77051,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7857,
+      "username": "Cry Npc",
+      "category": "SW AND CHILL / Thee Misfits",
+      "date_added": "2026-07-10",
+      "timestamp_added": "2026-07-10 03:53:33",
+      "added_by": "209956201377562624",
+      "reason": "Crashing with misfits",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
