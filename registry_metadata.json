@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-10T20:55:01.227697",
-  "total_entries": 7794,
+  "exported_at": "2026-07-10T21:12:53.024630",
+  "total_entries": 7795,
   "entries": [
     {
       "id": 2,
@@ -19252,6 +19252,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8354,
+      "username": "hetrofreak",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-10",
+      "timestamp_added": "2026-07-10 21:07:50",
+      "added_by": "412117490424872971",
+      "reason": "joining Obby elite to find who ratted out Zealgainsss leak",
+      "is_dupe": false,
+      "alt_of": "zealgainsss",
+      "evidence": [
+        {
+          "path": "evidence/hetrofreak/hetrofreak_20260710_210844.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-10 21:08:45",
+          "filename": "hetrofreak_20260710_210844.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
