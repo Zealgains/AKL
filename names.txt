@@ -1548,7 +1548,6 @@ Kaboobi, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezim
 KaiserPaulus, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 KavKazs Voin, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 key looters, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
-kferd, (Added: 2026-07-09), <-- reason: suspected leak,
 Kiki_The_Fox, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 King Aots, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 king crusher, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
