@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-09T23:14:17.202536",
-  "total_entries": 7800,
+  "exported_at": "2026-07-10T02:48:59.905229",
+  "total_entries": 7802,
   "entries": [
     {
       "id": 2,
@@ -11266,6 +11266,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7855,
+      "username": "Zuks Inferno",
+      "category": "Dutch Order - Dwangsom and HD0 and Zealgainss clan",
+      "date_added": "2026-07-10",
+      "timestamp_added": "2026-07-10 02:43:57",
+      "added_by": "209956201377562624",
+      "reason": "hd0 - alt of hd0",
+      "is_dupe": false,
+      "alt_of": "hd0",
+      "evidence": [
+        {
+          "path": "evidence/zuks_inferno/zuks_inferno_20260710_024357.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-10 02:43:57",
+          "filename": "zuks_inferno_20260710_024357.png"
+        },
+        {
+          "path": "evidence/zuks_inferno/zuks_inferno_20260710_024428.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-10 02:44:30",
+          "filename": "zuks_inferno_20260710_024428.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -58536,6 +58564,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 7856,
+      "username": "Ecthelioiv",
+      "category": "Removed from Banlist",
+      "date_added": "2026-07-10",
+      "timestamp_added": "2026-07-10 02:45:30",
+      "added_by": "209956201377562624",
+      "reason": "iviorgoth - DO NOT REMOVE",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
