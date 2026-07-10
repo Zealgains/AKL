@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-10T18:26:44.674783",
+  "exported_at": "2026-07-10T20:55:01.227697",
   "total_entries": 7794,
   "entries": [
     {
@@ -39781,7 +39781,14 @@
       "reason": "Suspected leak account - showed up right as thee misfits left",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/zealgainsss/zealgainsss_20260710_204954.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-10 20:49:57",
+          "filename": "zealgainsss_20260710_204954.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
