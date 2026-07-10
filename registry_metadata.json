@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-10T21:12:53.024630",
-  "total_entries": 7795,
+  "exported_at": "2026-07-10T21:40:19.834997",
+  "total_entries": 7796,
   "entries": [
     {
       "id": 2,
@@ -19192,6 +19192,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8355,
+      "username": "Hawt\u00a0kawk",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-10",
+      "timestamp_added": "2026-07-10 21:35:17",
+      "added_by": "209956201377562624",
+      "reason": "Spy for Zealgainsss",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/hawt\u00a0kawk/hawt\u00a0kawk_20260710_213516.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-10 21:35:17",
+          "filename": "hawt\u00a0kawk_20260710_213516.png"
+        },
+        {
+          "path": "evidence/hawt\u00a0kawk/hawt\u00a0kawk_20260710_213546.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-10 21:35:47",
+          "filename": "hawt\u00a0kawk_20260710_213546.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
