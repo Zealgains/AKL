@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T02:04:37.261537",
-  "total_entries": 7799,
+  "exported_at": "2026-07-11T04:45:18.005279",
+  "total_entries": 7802,
   "entries": [
     {
       "id": 2,
@@ -40024,6 +40024,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8359,
+      "username": "Feryl",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 04:40:15",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws Chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6668,
       "username": "Finishless",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -40249,6 +40264,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8361,
+      "username": "M0THERRUSSIA",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 04:40:15",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws Chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6681,
       "username": "MaceTeam Log",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -40301,6 +40331,21 @@
       "timestamp_added": "2026-06-27 16:20:07",
       "added_by": "412117490424872971",
       "reason": "In Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8360,
+      "username": "Nexel",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 04:40:15",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws Chat-channel",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
