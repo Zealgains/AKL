@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T19:59:27.341021",
-  "total_entries": 8117,
+  "exported_at": "2026-07-11T20:14:39.123180",
+  "total_entries": 8118,
   "entries": [
     {
       "id": 2,
@@ -64240,6 +64240,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8677,
+      "username": "Foxinau",
+      "category": "Removed from Banlist",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 20:09:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban list - ban reason unknown",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
