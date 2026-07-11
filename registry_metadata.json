@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T18:52:46.956567",
-  "total_entries": 7806,
+  "exported_at": "2026-07-11T19:13:27.807467",
+  "total_entries": 7807,
   "entries": [
     {
       "id": 2,
@@ -20305,6 +20305,21 @@
       "reason": "in Zezima CC while Honestly Nvm is Crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8366,
+      "username": "KoreanCat787",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 19:08:24",
+      "added_by": "412117490424872971",
+      "reason": "leak for hd0 hopped in world on f2p",
+      "is_dupe": false,
+      "alt_of": "hd0",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
