@@ -1549,6 +1549,7 @@ knicks2026, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is 
 Knowmad, (Added: 2026-06-20), <-- reason: Leaking private chat in main cc [Alt of: Not Noogie] [Proof: evidence/knowmad/knowmad_20260620_224609.png],
 Kookn, (Added: 2026-04-18), <-- reason: Maac's leak account [Alt of: Maac],
 Koos Matroos, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is Crashing,
+KoreanCat787, (Added: 2026-07-11), <-- reason: leak for hd0 hopped in world on f2p [Alt of: hd0],
 Kuldar, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 kush vibez, (Added: 2026-05-11), <-- reason: alt of crasher 0xzerotrust,
 L Deleter, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is Crashing,
