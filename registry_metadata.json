@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T22:49:31.782138",
-  "total_entries": 7812,
+  "exported_at": "2026-07-11T23:37:26.352080",
+  "total_entries": 7813,
   "entries": [
     {
       "id": 2,
@@ -4468,6 +4468,21 @@
       "removed_at": "2026-06-27 22:41:44",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8679,
+      "username": "ChompyRider",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 23:32:23",
+      "added_by": "412117490424872971",
+      "reason": "Doesn't respond when asked why he's asking for someone's irl name. On f2p world, doesn't have the stats of soul wars. Happens when there's a griefer calling out someone's IRL name",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7165,
