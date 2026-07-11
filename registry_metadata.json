@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T04:45:18.005279",
-  "total_entries": 7802,
+  "exported_at": "2026-07-11T17:14:47.425309",
+  "total_entries": 7805,
   "entries": [
     {
       "id": 2,
@@ -10848,6 +10848,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8363,
+      "username": "crips blood",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 17:09:50",
+      "added_by": "412117490424872971",
+      "reason": "disrespecting ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 868,
       "username": "de4thn0ted",
       "category": "Disrespecting Ranks",
@@ -16958,6 +16973,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8364,
+      "username": "Asian Gansta",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 17:11:20",
+      "added_by": "412117490424872971",
+      "reason": "Hd0 name change",
+      "is_dupe": false,
+      "alt_of": "Hd0",
+      "evidence": [
+        {
+          "path": "evidence/asian_gansta/asian_gansta_20260711_171119.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-11 17:11:20",
+          "filename": "asian_gansta_20260711_171119.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -23773,6 +23810,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8362,
+      "username": "u tttttttt u",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 17:09:45",
+      "added_by": "412117490424872971",
+      "reason": "leaking (join fc, left then hamsmackerr turned up)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
