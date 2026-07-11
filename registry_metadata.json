@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T17:14:47.425309",
-  "total_entries": 7805,
+  "exported_at": "2026-07-11T18:52:46.956567",
+  "total_entries": 7806,
   "entries": [
     {
       "id": 2,
@@ -17622,6 +17622,21 @@
       "timestamp_added": "2026-06-29 19:20:54",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8365,
+      "username": "Cailthun",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 18:47:44",
+      "added_by": "412117490424872971",
+      "reason": "twice in 70 minutes kicked for being in cc whilst at games.",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
