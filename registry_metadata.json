@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-10T21:40:19.834997",
-  "total_entries": 7796,
+  "exported_at": "2026-07-11T02:04:37.261537",
+  "total_entries": 7799,
   "entries": [
     {
       "id": 2,
@@ -39979,6 +39979,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8357,
+      "username": "EricxPure",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 01:59:34",
+      "added_by": "412117490424872971",
+      "reason": "In Outlaws cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6688,
       "username": "eternalRag",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -40309,6 +40324,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8356,
+      "username": "Numb Ducks",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 01:59:34",
+      "added_by": "412117490424872971",
+      "reason": "In Outlaws cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6691,
       "username": "O T F",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -40391,6 +40421,21 @@
       "timestamp_added": "2026-06-27 16:20:07",
       "added_by": "412117490424872971",
       "reason": "In Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8358,
+      "username": "Rest Space",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 01:59:34",
+      "added_by": "412117490424872971",
+      "reason": "In Outlaws cc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
