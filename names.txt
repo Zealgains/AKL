@@ -1378,6 +1378,7 @@ Bull Medic, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is 
 Buls, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is Crashing,
 CaBobby, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Cactus Legs, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
+Cailthun, (Added: 2026-07-11), <-- reason: twice in 70 minutes kicked for being in cc whilst at games.,
 CallMeHorace, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Captain Jank, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 capybalas, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
