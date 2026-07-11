@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T20:44:17.626674",
-  "total_entries": 7811,
+  "exported_at": "2026-07-11T22:49:31.782138",
+  "total_entries": 7812,
   "entries": [
     {
       "id": 2,
@@ -10855,6 +10855,21 @@
       "timestamp_added": "2026-07-11 17:09:50",
       "added_by": "412117490424872971",
       "reason": "disrespecting ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8678,
+      "username": "Dallah",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 22:44:29",
+      "added_by": "209956201377562624",
+      "reason": "pm on, disrespecting ranks",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
