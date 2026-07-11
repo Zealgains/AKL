@@ -1581,6 +1581,7 @@ Lux25, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima 
 Macgeek1, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 MadDewg, (Added: 2025-12-31), <-- reason: hopping in and out of cc while AFC Quincy was crashing,
 Magnum Snax, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
+Malshash, (Added: 2026-07-11), <-- reason: in Veritas Clan Chat while games are running,
 MAMMA MIA 73, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 Marisex, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Maxolotyl, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
