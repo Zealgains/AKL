@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T19:32:31.457459",
-  "total_entries": 7809,
+  "exported_at": "2026-07-11T19:39:46.093842",
+  "total_entries": 7810,
   "entries": [
     {
       "id": 2,
@@ -22012,6 +22012,21 @@
       "reason": "In Zezima CC while Honestly Nvm is crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8369,
+      "username": "purez4eva",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 19:34:43",
+      "added_by": "412117490424872971",
+      "reason": "hd0 and zealgainsss leak acount hopped in f2p to find world",
+      "is_dupe": false,
+      "alt_of": "hd0",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
