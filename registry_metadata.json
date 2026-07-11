@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T19:21:31.411825",
-  "total_entries": 7808,
+  "exported_at": "2026-07-11T19:32:31.457459",
+  "total_entries": 7809,
   "entries": [
     {
       "id": 2,
@@ -20805,6 +20805,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8368,
+      "username": "Malshash",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-11",
+      "timestamp_added": "2026-07-11 19:27:29",
+      "added_by": "412117490424872971",
+      "reason": "in Veritas Clan Chat while games are running",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
