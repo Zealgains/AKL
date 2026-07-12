@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-12T17:41:18.943804",
-  "total_entries": 7858,
+  "exported_at": "2026-07-12T17:48:28.201333",
+  "total_entries": 7859,
   "entries": [
     {
       "id": 2,
@@ -24754,6 +24754,21 @@
       "timestamp_added": "2026-06-29 17:35:31",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8725,
+      "username": "--Bot Limiter---",
+      "category": "LegacyOfWar - Max Burrito",
+      "date_added": "2024-01-01",
+      "timestamp_added": "2026-07-12 17:43:25",
+      "added_by": null,
+      "reason": "Category Placeholder",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
