@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-12T18:06:55.861575",
-  "total_entries": 7861,
+  "exported_at": "2026-07-12T18:19:21.622084",
+  "total_entries": 7862,
   "entries": [
     {
       "id": 2,
@@ -20333,6 +20333,21 @@
       "timestamp_added": "2026-06-29 21:56:10",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8728,
+      "username": "kinost44",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-12",
+      "timestamp_added": "2026-07-12 18:14:19",
+      "added_by": "412117490424872971",
+      "reason": "In clan chat during games",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
