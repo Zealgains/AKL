@@ -231,3 +231,4 @@ j0nny c4sh, (Added: 2026-07-10), <-- reason: Leaking to Misfits and tried to get
 Mxrc, (Added: 2026-07-11), <-- reason: in Clan chat-channel Malshash, (Rm: 2026-07-11)
 Malshash, (Added: 2026-07-11), <-- reason: in Veritas Clan Chat while games are running, (Rm: 2026-07-11)
 IMtokedatank, (Added: 2026-07-12), <-- reason: in clan chat while at private games [Proof: evidence/imtokedatank/imtokedatank_20260712_175322.png], (Rm: 2026-07-12)
+kinost44, (Added: 2026-07-12), <-- reason: In clan chat during games, (Rm: 2026-07-12)
