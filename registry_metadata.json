@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-12T08:29:33.240940",
-  "total_entries": 7857,
+  "exported_at": "2026-07-12T17:41:18.943804",
+  "total_entries": 7858,
   "entries": [
     {
       "id": 2,
@@ -20913,6 +20913,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8724,
+      "username": "Max Burrito",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-12",
+      "timestamp_added": "2026-07-12 17:36:16",
+      "added_by": "412117490424872971",
+      "reason": "in Clan chat while at private games with no history in discord",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/max_burrito/max_burrito_20260712_173615.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-12 17:36:16",
+          "filename": "max_burrito_20260712_173615.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
