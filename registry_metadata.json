@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-12T00:11:23.550768",
-  "total_entries": 7814,
+  "exported_at": "2026-07-12T06:56:53.324751",
+  "total_entries": 7815,
   "entries": [
     {
       "id": 2,
@@ -89222,6 +89222,21 @@
       "timestamp_added": "2026-07-10 18:26:07",
       "added_by": "209956201377562624",
       "reason": "Part of Skysworn",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8681,
+      "username": "father\u00a0joker",
+      "category": "Skysworn - HD0 and Zealgainss",
+      "date_added": "2026-07-12",
+      "timestamp_added": "2026-07-12 06:51:50",
+      "added_by": "412117490424872971",
+      "reason": "Alt of Asian gangsta/zealgainsss",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
