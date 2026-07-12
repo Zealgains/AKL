@@ -1833,6 +1833,10 @@ Zureal, (Added: 2026-04-26), <-- reason: Potential Leak,
 Zyluu997, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 --Category(Leak Accounts)end--,
 
+--Category(LegacyOfWar - Max Burrito)start--,
+--Bot Limiter---, (Added: 2024-01-01), <-- reason: Category Placeholder,
+--Category(LegacyOfWar - Max Burrito)end--,
+
 --Category(Lurking / Zeal Inactivity)start--,
 30strong2204, (Added: Unknown Date), <-- reason: No reason provided.,
 Arange Face, (Added: 2026-05-17), <-- reason: joining fc from a f2p world on an account without required total level. When I ask them what they're doing here on a f2p world, they tell me 'stfu u weirdo' [Proof: evidence/arange face/arange face_20260517_194752.png],
