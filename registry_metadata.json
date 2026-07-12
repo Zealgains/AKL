@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-12T17:48:28.201333",
-  "total_entries": 7859,
+  "exported_at": "2026-07-12T17:58:25.040457",
+  "total_entries": 7860,
   "entries": [
     {
       "id": 2,
@@ -19714,6 +19714,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8726,
+      "username": "IMtokedatank",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-12",
+      "timestamp_added": "2026-07-12 17:53:22",
+      "added_by": "412117490424872971",
+      "reason": "in clan chat while at private games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/imtokedatank/imtokedatank_20260712_175322.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-12 17:53:22",
+          "filename": "imtokedatank_20260712_175322.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
