@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-11T23:37:26.352080",
-  "total_entries": 7813,
+  "exported_at": "2026-07-12T00:11:23.550768",
+  "total_entries": 7814,
   "entries": [
     {
       "id": 2,
@@ -23840,6 +23840,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8680,
+      "username": "tricknasti",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-12",
+      "timestamp_added": "2026-07-12 00:06:20",
+      "added_by": "412117490424872971",
+      "reason": "leak for hd0 from world 320",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
