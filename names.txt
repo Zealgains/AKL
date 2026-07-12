@@ -1771,6 +1771,7 @@ tracesworder, (Added: 2026-06-06), <-- reason: as requested by kril. Probably a 
 Trade me 10b, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 TransDiddler, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 TrevorContra, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
+tricknasti, (Added: 2026-07-12), <-- reason: leak for hd0 from world 320,
 TrinityIsFTW, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 TrippieDee, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Trumps A Pdf, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
