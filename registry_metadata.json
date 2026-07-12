@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-12T06:56:53.324751",
-  "total_entries": 7815,
+  "exported_at": "2026-07-12T07:08:17.602294",
+  "total_entries": 7816,
   "entries": [
     {
       "id": 2,
@@ -5056,6 +5056,21 @@
       "removed_at": "2026-06-26 19:49:47",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 8682,
+      "username": "Still a POS",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-12",
+      "timestamp_added": "2026-07-12 07:03:15",
+      "added_by": "209956201377562624",
+      "reason": "Argumentative in ticket after not joining fc and crying that ranks killed him for being a wd",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7168,
