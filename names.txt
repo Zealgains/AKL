@@ -1426,6 +1426,7 @@ double input, (Added: 2026-07-08), <-- reason: joined and left cc on f2p no resp
 dougsdown, (Added: 2026-06-18), <-- reason: leak account for playsforfun,
 DoverDingies, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 DownToFarm, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
+DrAbernathy, (Added: 2026-07-12), <-- reason: Possible leak to hd0,
 DRAG0NL0RD58, (Added: 2026-06-29), <-- reason: in Mod Mark CC while Honestly Nvm is crashing,
 DrakarMigner, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Dremorra, (Added: 2026-06-29), <-- reason: in Mod Mark CC while Honestly Nvm is crashing,
