@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-13T21:21:09.213317",
+  "exported_at": "2026-07-13T23:00:32.735448",
   "total_entries": 7624,
   "entries": [
     {
@@ -19727,9 +19727,9 @@
           "filename": "ibinq_20260713_211759.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-07-13 22:55:30",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 6862,
