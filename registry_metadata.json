@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-13T20:36:56.756450",
-  "total_entries": 7623,
+  "exported_at": "2026-07-13T21:21:09.213317",
+  "total_entries": 7624,
   "entries": [
     {
       "id": 2,
@@ -19699,6 +19699,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8734,
+      "username": "iBinq",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-13",
+      "timestamp_added": "2026-07-13 21:16:06",
+      "added_by": "209956201377562624",
+      "reason": "Leak to zealgainss (crasher)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/ibinq/ibinq_20260713_211643.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-13 21:16:44",
+          "filename": "ibinq_20260713_211643.png"
+        },
+        {
+          "path": "evidence/ibinq/ibinq_20260713_211759.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-13 21:18:01",
+          "filename": "ibinq_20260713_211759.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
