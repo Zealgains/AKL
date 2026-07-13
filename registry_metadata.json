@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-13T17:23:20.579804",
-  "total_entries": 7621,
+  "exported_at": "2026-07-13T20:36:56.756450",
+  "total_entries": 7623,
   "entries": [
     {
       "id": 2,
@@ -5086,6 +5086,21 @@
       "removed_at": "2026-07-04 17:15:49",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8733,
+      "username": "thomatoes",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-13",
+      "timestamp_added": "2026-07-13 20:32:49",
+      "added_by": "412117490424872971",
+      "reason": "repeatedly in cc despite warning. Previously banned for disrespecting ranks and keeping pm on.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 6497,
@@ -18711,6 +18726,21 @@
       "reason": "leak for hd0",
       "is_dupe": false,
       "alt_of": "hd0",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8732,
+      "username": "F Kreuger",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-13",
+      "timestamp_added": "2026-07-13 20:31:54",
+      "added_by": "412117490424872971",
+      "reason": "Joining and leaving private games chat on world 302 before zealgainss showed up - Banned from discord",
+      "is_dupe": false,
+      "alt_of": null,
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
