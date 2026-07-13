@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-13T05:04:06.136847",
-  "total_entries": 7619,
+  "exported_at": "2026-07-13T16:56:49.246022",
+  "total_entries": 7620,
   "entries": [
     {
       "id": 2,
@@ -5101,6 +5101,21 @@
       "removed_at": "2026-06-25 18:11:47",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8730,
+      "username": "TylerGBrooke",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-13",
+      "timestamp_added": "2026-07-13 16:51:46",
+      "added_by": "412117490424872971",
+      "reason": "pm on in pvt games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7192,
