@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-14T18:40:47.527427",
+  "exported_at": "2026-07-14T23:28:06.573003",
   "total_entries": 7627,
   "entries": [
     {
@@ -20998,28 +20998,6 @@
       "status": "ACTIVE"
     },
     {
-      "id": 8731,
-      "username": "lvi monk 99",
-      "category": "Leak Accounts",
-      "date_added": "2026-07-13",
-      "timestamp_added": "2026-07-13 17:20:24",
-      "added_by": "412117490424872971",
-      "reason": "asking for world when we are running private games and thee misfits crashing / following",
-      "is_dupe": false,
-      "alt_of": null,
-      "evidence": [
-        {
-          "path": "evidence/lvi_monk_99/lvi_monk_99_20260713_172023.png",
-          "uploaded_by": "412117490424872971",
-          "uploaded_at": "2026-07-13 17:20:24",
-          "filename": "lvi_monk_99_20260713_172023.png"
-        }
-      ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
-    },
-    {
       "id": 6957,
       "username": "Macgeek1",
       "category": "Leak Accounts",
@@ -21367,6 +21345,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8731,
+      "username": "Monk lvi 99",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-13",
+      "timestamp_added": "2026-07-13 17:20:24",
+      "added_by": "412117490424872971",
+      "reason": "asking for world when we are running private games and thee misfits crashing / following",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/lvi_monk_99/lvi_monk_99_20260713_172023.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-13 17:20:24",
+          "filename": "lvi_monk_99_20260713_172023.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
