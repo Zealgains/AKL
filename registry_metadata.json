@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-14T16:01:19.390380",
-  "total_entries": 7626,
+  "exported_at": "2026-07-14T18:40:47.527427",
+  "total_entries": 7627,
   "entries": [
     {
       "id": 2,
@@ -5056,6 +5056,21 @@
       "removed_at": "2026-06-27 00:09:09",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8737,
+      "username": "SK L",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-14",
+      "timestamp_added": "2026-07-14 18:35:44",
+      "added_by": "412117490424872971",
+      "reason": "Fragging w.o calling, botlike, no response, ending game too early",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 281,
