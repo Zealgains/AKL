@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-14T05:07:45.581945",
-  "total_entries": 7625,
+  "exported_at": "2026-07-14T16:01:19.390380",
+  "total_entries": 7626,
   "entries": [
     {
       "id": 2,
@@ -1088,6 +1088,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8736,
+      "username": "Glowing blue",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-14",
+      "timestamp_added": "2026-07-14 15:56:16",
+      "added_by": "412117490424872971",
+      "reason": "Capped grave early + attacked unprovoked",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
