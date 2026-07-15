@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-15T11:49:26.552364",
-  "total_entries": 7318,
+  "exported_at": "2026-07-15T13:29:44.302644",
+  "total_entries": 7319,
   "entries": [
     {
       "id": 2,
@@ -23730,6 +23730,21 @@
       "removed_at": "2026-07-10 16:14:15",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8741,
+      "username": "teri yaki 02",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-15",
+      "timestamp_added": "2026-07-15 13:24:41",
+      "added_by": "412117490424872971",
+      "reason": "sus leak for Koala tamer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7145,
