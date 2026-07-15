@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-15T04:37:20.278432",
-  "total_entries": 7317,
+  "exported_at": "2026-07-15T11:49:26.552364",
+  "total_entries": 7318,
   "entries": [
     {
       "id": 2,
@@ -11608,6 +11608,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Fragging without calling - possible gold farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8740,
+      "username": "koala tamer",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-07-15",
+      "timestamp_added": "2026-07-15 11:44:23",
+      "added_by": "412117490424872971",
+      "reason": "fragging without calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
