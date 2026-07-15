@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-15T02:45:32.813807",
+  "exported_at": "2026-07-15T03:49:15.605507",
   "total_entries": 7628,
   "entries": [
     {
@@ -40263,9 +40263,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-07-15 03:44:13",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 7860,
@@ -100389,9 +100389,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-07-15 03:48:00",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 6096,
