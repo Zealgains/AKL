@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-16T16:19:53.652285",
+  "exported_at": "2026-07-16T19:15:42.525397",
   "total_entries": 7325,
   "entries": [
     {
@@ -21500,9 +21500,9 @@
           "filename": "lvi_monk_99_20260713_172023.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-07-16 19:10:40",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 6942,
