@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-16T15:16:22.943307",
-  "total_entries": 7324,
+  "exported_at": "2026-07-16T16:19:53.652285",
+  "total_entries": 7325,
   "entries": [
     {
       "id": 2,
@@ -18652,6 +18652,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8747,
+      "username": "Duryeas",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-16",
+      "timestamp_added": "2026-07-16 16:14:50",
+      "added_by": "412117490424872971",
+      "reason": "Leak for hd0 / zealgainss see screenshot",
+      "is_dupe": false,
+      "alt_of": "asian gansta",
+      "evidence": [
+        {
+          "path": "evidence/duryeas/duryeas_20260716_161507.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-16 16:15:08",
+          "filename": "duryeas_20260716_161507.png"
+        },
+        {
+          "path": "evidence/duryeas/duryeas_20260716_161533.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-16 16:15:35",
+          "filename": "duryeas_20260716_161533.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
