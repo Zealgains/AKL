@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-16T01:46:46.486747",
-  "total_entries": 7320,
+  "exported_at": "2026-07-16T15:16:22.943307",
+  "total_entries": 7324,
   "entries": [
     {
       "id": 2,
@@ -4500,6 +4500,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8744,
+      "username": "bigtacobash",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-16",
+      "timestamp_added": "2026-07-16 15:11:38",
+      "added_by": "412117490424872971",
+      "reason": "keeping pm on despite warnings",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6474,
       "username": "BM",
       "category": "Breaking General Rules",
@@ -5088,6 +5103,21 @@
       "status": "REMOVED"
     },
     {
+      "id": 8743,
+      "username": "Simon the IM",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-16",
+      "timestamp_added": "2026-07-16 15:11:20",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 8737,
       "username": "SK L",
       "category": "Breaking General Rules",
@@ -5170,6 +5200,21 @@
       "timestamp_added": "2026-07-13 20:32:49",
       "added_by": "412117490424872971",
       "reason": "repeatedly in cc despite warning. Previously banned for disrespecting ranks and keeping pm on.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8745,
+      "username": "Timmiejogo",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-16",
+      "timestamp_added": "2026-07-16 15:11:42",
+      "added_by": "412117490424872971",
+      "reason": "pm on",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -17682,6 +17727,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "leak acc for en-lil (crasher)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8746,
+      "username": "Bobross1995",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-16",
+      "timestamp_added": "2026-07-16 15:12:43",
+      "added_by": "412117490424872971",
+      "reason": "Lurking in main chat on world 320 multiple times",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
