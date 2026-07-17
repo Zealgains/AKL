@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-17T19:11:18.163630",
-  "total_entries": 7327,
+  "exported_at": "2026-07-17T22:04:36.246593",
+  "total_entries": 7328,
   "entries": [
     {
       "id": 2,
@@ -25089,6 +25089,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8750,
+      "username": "ZipZah",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-17",
+      "timestamp_added": "2026-07-17 21:59:33",
+      "added_by": "412117490424872971",
+      "reason": "came in from 320 as Zealgainss was telling randoms to join in order to flame our chat",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/zipzah/zipzah_20260717_215933.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-17 21:59:33",
+          "filename": "zipzah_20260717_215933.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
