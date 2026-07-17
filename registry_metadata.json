@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-17T15:31:58.580048",
-  "total_entries": 7326,
+  "exported_at": "2026-07-17T19:11:18.163630",
+  "total_entries": 7327,
   "entries": [
     {
       "id": 2,
@@ -20155,6 +20155,21 @@
       "removed_at": "2026-07-10 16:21:47",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8749,
+      "username": "J0NNY\u00a0C4SH",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-17",
+      "timestamp_added": "2026-07-17 19:06:15",
+      "added_by": "412117490424872971",
+      "reason": "Leak account for Zealgainss  and Asian Gansta",
+      "is_dupe": false,
+      "alt_of": "Honestly Nvm",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 1093,
