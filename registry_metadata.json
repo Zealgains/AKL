@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-17T22:43:07.460409",
-  "total_entries": 7330,
+  "exported_at": "2026-07-17T22:53:08.948268",
+  "total_entries": 7331,
   "entries": [
     {
       "id": 2,
@@ -24974,6 +24974,21 @@
       "timestamp_added": "2026-06-29 17:35:31",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8753,
+      "username": "Zeal Runner",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-17",
+      "timestamp_added": "2026-07-17 22:48:06",
+      "added_by": "412117490424872971",
+      "reason": "Hopping in and out of chat on high risk no response",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
