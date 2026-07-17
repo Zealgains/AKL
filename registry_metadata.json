@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-17T22:04:36.246593",
-  "total_entries": 7328,
+  "exported_at": "2026-07-17T22:21:08.370943",
+  "total_entries": 7330,
   "entries": [
     {
       "id": 2,
@@ -22327,6 +22327,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8752,
+      "username": "pl8dontjam",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-17",
+      "timestamp_added": "2026-07-17 22:16:48",
+      "added_by": "412117490424872971",
+      "reason": "Lurking on world 302  multiple times at the pump in our private games chat while zealgainss following",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6771,
       "username": "Politicide",
       "category": "Leak Accounts",
@@ -22850,6 +22865,21 @@
       "removed_at": "2026-06-29 01:56:16",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8751,
+      "username": "rwhdontjam",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-17",
+      "timestamp_added": "2026-07-17 22:16:05",
+      "added_by": "412117490424872971",
+      "reason": "Lurking on world 302  multiple times at the pump in our private games chat while zealgainss following",
+      "is_dupe": false,
+      "alt_of": "pl8dontjam",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 6737,
