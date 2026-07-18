@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-18T05:29:49.095635",
+  "exported_at": "2026-07-18T06:50:00.271791",
   "total_entries": 7334,
   "entries": [
     {
@@ -20981,6 +20981,12 @@
           "uploaded_by": "412117490424872971",
           "uploaded_at": "2026-07-17 15:27:39",
           "filename": "lines_of_cok_20260717_152738.png"
+        },
+        {
+          "path": "evidence/lines_of_cok/lines_of_cok_20260718_064456.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-18 06:44:57",
+          "filename": "lines_of_cok_20260718_064456.png"
         }
       ],
       "removed_at": null,
