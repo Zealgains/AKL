@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-18T18:26:20.104935",
-  "total_entries": 7338,
+  "exported_at": "2026-07-18T21:28:46.028103",
+  "total_entries": 7340,
   "entries": [
     {
       "id": 2,
@@ -4530,6 +4530,21 @@
       "status": "REMOVED"
     },
     {
+      "id": 8762,
+      "username": "bogd",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 21:23:46",
+      "added_by": "412117490424872971",
+      "reason": "in cc when at games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6699,
       "username": "Buusytron",
       "category": "Breaking General Rules",
@@ -5110,6 +5125,21 @@
       "timestamp_added": "2026-07-18 15:44:38",
       "added_by": "412117490424872971",
       "reason": "Jamaican rag's main",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8761,
+      "username": "SecretsMan",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 21:23:43",
+      "added_by": "412117490424872971",
+      "reason": "in cc at games",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
