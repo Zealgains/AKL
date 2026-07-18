@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-18T21:28:46.028103",
-  "total_entries": 7340,
+  "exported_at": "2026-07-18T23:43:12.895718",
+  "total_entries": 7341,
   "entries": [
     {
       "id": 2,
@@ -4706,6 +4706,21 @@
       "removed_at": "2026-06-19 21:42:01",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 8763,
+      "username": "donth8myhelm",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 23:38:10",
+      "added_by": "209956201377562624",
+      "reason": "Not reading fc name, not joining discord, running out without calling frags, capturing gy too early, dumb as a rock",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 273,
