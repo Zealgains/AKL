@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-18T04:34:10.671866",
-  "total_entries": 7332,
+  "exported_at": "2026-07-18T05:29:49.095635",
+  "total_entries": 7334,
   "entries": [
     {
       "id": 2,
@@ -21922,6 +21922,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8755,
+      "username": "Nuuham",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 05:24:46",
+      "added_by": "412117490424872971",
+      "reason": "Leaking to Asian Gansta and hopped in on f2p world with multiple off world kicks on 302",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6848,
       "username": "Nyr Zealot",
       "category": "Leak Accounts",
@@ -24884,6 +24899,21 @@
       "timestamp_added": "2026-06-29 01:36:52",
       "added_by": "412117490424872971",
       "reason": "Lurking in cc off world no response while honestly nvm following",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8756,
+      "username": "xP1CK3L R1CK",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 05:25:58",
+      "added_by": "412117490424872971",
+      "reason": "Hopped in and out of fc on a f2p account",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
