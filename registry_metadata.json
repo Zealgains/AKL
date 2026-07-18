@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-18T16:52:19.856721",
-  "total_entries": 7337,
+  "exported_at": "2026-07-18T18:26:20.104935",
+  "total_entries": 7338,
   "entries": [
     {
       "id": 2,
@@ -22218,6 +22218,21 @@
       "timestamp_added": "2026-06-29 17:35:31",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8760,
+      "username": "Peeks",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 18:21:17",
+      "added_by": "412117490424872971",
+      "reason": "leak account with Comboed following public chat no response",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
