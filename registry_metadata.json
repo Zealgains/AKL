@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-17T23:15:26.545622",
-  "total_entries": 7331,
+  "exported_at": "2026-07-18T00:38:33.724806",
+  "total_entries": 7332,
   "entries": [
     {
       "id": 2,
@@ -39571,6 +39571,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8754,
+      "username": "Eapy 305",
+      "category": "Other",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 00:33:31",
+      "added_by": "412117490424872971",
+      "reason": "Antagonizing people on 320 trying to get them to crash our games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/eapy_305/eapy_305_20260718_003330.jpg",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-18 00:33:31",
+          "filename": "eapy_305_20260718_003330.jpg"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
