@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-18T06:50:00.271791",
-  "total_entries": 7334,
+  "exported_at": "2026-07-18T15:49:14.188026",
+  "total_entries": 7337,
   "entries": [
     {
       "id": 2,
@@ -5103,6 +5103,21 @@
       "status": "REMOVED"
     },
     {
+      "id": 8758,
+      "username": "s t 0 rm",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 15:44:38",
+      "added_by": "412117490424872971",
+      "reason": "Jamaican rag's main",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 8743,
       "username": "Simon the IM",
       "category": "Breaking General Rules",
@@ -5125,6 +5140,21 @@
       "timestamp_added": "2026-07-14 18:35:44",
       "added_by": "412117490424872971",
       "reason": "Fragging w.o calling, botlike, no response, ending game too early",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8759,
+      "username": "SKlNTY",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 15:45:20",
+      "added_by": "412117490424872971",
+      "reason": "pm on despite several warnings",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -19645,6 +19675,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8757,
+      "username": "Herbyvor",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-18",
+      "timestamp_added": "2026-07-18 15:44:11",
+      "added_by": "412117490424872971",
+      "reason": "refusing to leave cc, disrespecting rank",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/herbyvor/herbyvor_20260718_154434.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-18 15:44:35",
+          "filename": "herbyvor_20260718_154434.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
