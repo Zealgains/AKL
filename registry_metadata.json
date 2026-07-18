@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-18T15:49:14.188026",
+  "exported_at": "2026-07-18T16:10:52.169169",
   "total_entries": 7337,
   "entries": [
     {
@@ -19695,6 +19695,12 @@
           "uploaded_by": "412117490424872971",
           "uploaded_at": "2026-07-18 15:44:35",
           "filename": "herbyvor_20260718_154434.png"
+        },
+        {
+          "path": "evidence/herbyvor/herbyvor_20260718_160548.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-18 16:05:49",
+          "filename": "herbyvor_20260718_160548.png"
         }
       ],
       "removed_at": null,
