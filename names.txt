@@ -1764,6 +1764,7 @@ StrangeDole, (Added: 2026-05-07), <-- reason: zealseal leak account [Alt of: Zea
 SubscribeTCN, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 suckmynugg, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Suikertuin, (Added: 2026-05-10), <-- reason: leaking world while crashers present,
+surflodge, (Added: 2026-07-19), <-- reason: Leak acc for Zealgainss (fake zg) - joined from 308 f2p and zealgainss hopped to world right after,
 survivor, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 swoleja boy, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 T0rta P0undr, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
