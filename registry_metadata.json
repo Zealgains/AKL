@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-19T00:07:27.861793",
-  "total_entries": 7341,
+  "exported_at": "2026-07-19T20:20:00.222735",
+  "total_entries": 7342,
   "entries": [
     {
       "id": 2,
@@ -39514,6 +39514,21 @@
       "reason": "crash threats with bfer.",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8764,
+      "username": "allblacksgtg",
+      "category": "Other",
+      "date_added": "2026-07-19",
+      "timestamp_added": "2026-07-19 20:14:57",
+      "added_by": "412117490424872971",
+      "reason": "offensive name and leak account for Jamaican Rag",
+      "is_dupe": false,
+      "alt_of": "Jamaican Rag",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
