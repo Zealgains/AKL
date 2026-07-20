@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-19T23:52:41.850137",
-  "total_entries": 7343,
+  "exported_at": "2026-07-20T00:21:53.894177",
+  "total_entries": 7344,
   "entries": [
     {
       "id": 2,
@@ -20537,6 +20537,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8766,
+      "username": "k yd",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-20",
+      "timestamp_added": "2026-07-20 00:16:45",
+      "added_by": "209956201377562624",
+      "reason": "rando joined to get zealgainss (fake zg) world. was on f2p with no stats for sw",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
