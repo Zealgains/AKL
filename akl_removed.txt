@@ -248,3 +248,4 @@ John Kreese, (Added: 2026-06-05), <-- reason: Talking about "poop" constantly a
 koala tamer, (Added: 2026-07-15), <-- reason: fragging without calling, (Rm: 2026-07-18)
 SK L, (Added: 2026-07-14), <-- reason: Fragging w.o calling, botlike, no response, ending game too early, (Rm: 2026-07-18)
 Peeks, (Added: 2026-07-18), <-- reason: leak account with Comboed following public chat no response, (Rm: 2026-07-19)
+Ineed2peeee, (Added: 2026-07-20), <-- reason: in cc at games despite warnings, (Rm: 2026-07-20)
