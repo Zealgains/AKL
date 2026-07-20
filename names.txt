@@ -975,6 +975,7 @@ Fiivo, (Added: 2026-03-23), <-- reason: Fragging without calling and saying "tax
 fr0znsolid, (Added: 2026-05-29), <-- reason: Fragging without calling 3 games in a row [Proof: evidence/fr0znsolid/fr0znsolid_20260529_221339.png],
 gainwards, (Added: 2026-03-28), <-- reason: fragging no call,
 GrnRngr12, (Added: 2026-04-01), <-- reason: Fragging without calling [Proof: evidence/grnrngr12/grnrngr12_20260401_010003.png],
+Hauntlet, (Added: 2026-07-20), <-- reason: Fragging without calling - ignoring all call and corrections,
 HCIM oxy, (Added: 2026-04-03), <-- reason: Fragging without calling - attacking ranks,
 Iron Zyrup, (Added: 2026-04-18), <-- reason: Fragging without calling multiple games and not listening to ranks,
 Jaxx_sparrow, (Added: 2026-04-29), <-- reason: Fragging without calling,
