@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-21T21:05:57.217779",
-  "total_entries": 7371,
+  "exported_at": "2026-07-21T23:32:24.528347",
+  "total_entries": 7372,
   "entries": [
     {
       "id": 2,
@@ -2797,6 +2797,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "attacking cc while ranks aren't looking.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8794,
+      "username": "RePrePot",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-21",
+      "timestamp_added": "2026-07-21 23:27:22",
+      "added_by": "412117490424872971",
+      "reason": "Attacking anti. Could be Zealgainss friend/leak",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
