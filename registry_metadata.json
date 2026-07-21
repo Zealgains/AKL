@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-20T21:05:16.556494",
-  "total_entries": 7352,
+  "exported_at": "2026-07-21T15:00:31.524274",
+  "total_entries": 7353,
   "entries": [
     {
       "id": 2,
@@ -21106,6 +21106,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "leaking worlds to Lts a main / Lts a pure",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8775,
+      "username": "LilChungoos",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-21",
+      "timestamp_added": "2026-07-21 14:55:28",
+      "added_by": "1244046251012391053",
+      "reason": "suspected leak for zealgainss",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
