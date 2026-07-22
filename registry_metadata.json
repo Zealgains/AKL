@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-22T17:28:29.248147",
-  "total_entries": 7378,
+  "exported_at": "2026-07-22T21:09:57.774692",
+  "total_entries": 7379,
   "entries": [
     {
       "id": 2,
@@ -17375,6 +17375,21 @@
       "timestamp_added": "2026-07-01 01:56:58",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8801,
+      "username": "Art Zogre",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 21:04:55",
+      "added_by": "412117490424872971",
+      "reason": "lurking in chat on f2p while zealgainss is crashing",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
