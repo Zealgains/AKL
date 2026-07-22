@@ -289,6 +289,7 @@ MUZWIDNOHUZZ, (Added: 2026-03-31), <-- reason: Account seller and gold farmer [P
 OSMAN_KH, (Added: 2026-01-28), <-- reason: rwt gold famer,
 pw nx, (Added: 2026-05-21), <-- reason: asking for gold farming ccs [Proof: evidence/pw_nx/pw_nx_20260521_172348.png],
 salyh02, (Added: 2026-07-21), <-- reason: Bot most likely. didnt respond and using goblin cannon,
+Salyh09, (Added: 2026-07-22), <-- reason: bot or gold farmer no response low stats,
 shamii n_a, (Added: 2026-02-14), <-- reason: Gold Farmer / Bot - no responding after many requests,
 SHAO KHANXXD, (Added: 2026-03-24), <-- reason: goldfarmer crashing our games,
 SHER ALI 111, (Added: 2026-01-28), <-- reason: Gold Farmer,
