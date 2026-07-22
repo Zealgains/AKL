@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-22T00:27:19.536141",
-  "total_entries": 7374,
+  "exported_at": "2026-07-22T13:32:55.655075",
+  "total_entries": 7376,
   "entries": [
     {
       "id": 2,
@@ -4207,6 +4207,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Gold farmer - 753 total - 203k zeal",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8797,
+      "username": "maaz maaz000",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 13:27:53",
+      "added_by": "412117490424872971",
+      "reason": "suspected bot",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -11863,6 +11878,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragging without calling after many warnings",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8798,
+      "username": "Lironic",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 13:28:02",
+      "added_by": "412117490424872971",
+      "reason": "Fragging w.o calling + capping mid ahead of taxi",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
