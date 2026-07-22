@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-22T00:04:51.810298",
-  "total_entries": 7373,
+  "exported_at": "2026-07-22T00:27:19.536141",
+  "total_entries": 7374,
   "entries": [
     {
       "id": 2,
@@ -20390,6 +20390,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8796,
+      "username": "jassell",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 00:22:17",
+      "added_by": "412117490424872971",
+      "reason": "possible leak for fake zeal gainss",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/jassell/jassell_20260722_002235.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-22 00:22:36",
+          "filename": "jassell_20260722_002235.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
