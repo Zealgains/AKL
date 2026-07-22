@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-22T15:08:40.238871",
-  "total_entries": 7377,
+  "exported_at": "2026-07-22T17:28:29.248147",
+  "total_entries": 7378,
   "entries": [
     {
       "id": 2,
@@ -22113,6 +22113,21 @@
       "removed_at": "2026-07-04 16:25:24",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8800,
+      "username": "not chrome",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 17:23:26",
+      "added_by": "1244046251012391053",
+      "reason": "suspected leak. Joined from f2p, lacking the total level and combat level for sw.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 6479,
