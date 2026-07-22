@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-22T21:39:24.818411",
-  "total_entries": 7381,
+  "exported_at": "2026-07-22T23:42:55.943047",
+  "total_entries": 7383,
   "entries": [
     {
       "id": 2,
@@ -17008,6 +17008,28 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8804,
+      "username": "3legpirate",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 23:37:53",
+      "added_by": "412117490424872971",
+      "reason": "joined on f2p account to leak for zealgainss",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/3legpirate/3legpirate_20260722_233753.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-22 23:37:53",
+          "filename": "3legpirate_20260722_233753.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6948,
       "username": "3xDecker",
       "category": "Leak Accounts",
@@ -19852,6 +19874,21 @@
       "timestamp_added": "2026-06-29 21:56:10",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8805,
+      "username": "helloimsofia",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 23:40:22",
+      "added_by": "412117490424872971",
+      "reason": "joined main chat and left quickly right before zealgainss showed up",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
