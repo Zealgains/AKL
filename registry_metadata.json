@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-21T23:32:24.528347",
-  "total_entries": 7372,
+  "exported_at": "2026-07-22T00:04:51.810298",
+  "total_entries": 7373,
   "entries": [
     {
       "id": 2,
@@ -4312,6 +4312,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "asking for gold farming ccs",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8795,
+      "username": "salyh02",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-21",
+      "timestamp_added": "2026-07-21 23:59:49",
+      "added_by": "412117490424872971",
+      "reason": "Bot most likely. didnt respond and using goblin cannon",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
