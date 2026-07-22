@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-22T21:33:24.395169",
-  "total_entries": 7380,
+  "exported_at": "2026-07-22T21:39:24.818411",
+  "total_entries": 7381,
   "entries": [
     {
       "id": 2,
@@ -4342,6 +4342,21 @@
       "timestamp_added": "2026-07-21 23:59:49",
       "added_by": "412117490424872971",
       "reason": "Bot most likely. didnt respond and using goblin cannon",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8803,
+      "username": "Salyh09",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 21:34:22",
+      "added_by": "412117490424872971",
+      "reason": "bot or gold farmer no response low stats",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
