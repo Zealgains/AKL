@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-22T21:09:57.774692",
-  "total_entries": 7379,
+  "exported_at": "2026-07-22T21:33:24.395169",
+  "total_entries": 7380,
   "entries": [
     {
       "id": 2,
@@ -23815,6 +23815,21 @@
       "timestamp_added": "2026-06-29 17:18:22",
       "added_by": "412117490424872971",
       "reason": "in Zezima cc while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8802,
+      "username": "SLIDlNG",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 21:28:21",
+      "added_by": "412117490424872971",
+      "reason": "hopping in and out of cc on f2p account while zealgainss following",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
