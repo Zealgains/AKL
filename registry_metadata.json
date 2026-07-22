@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-22T13:32:55.655075",
-  "total_entries": 7376,
+  "exported_at": "2026-07-22T15:08:40.238871",
+  "total_entries": 7377,
   "entries": [
     {
       "id": 2,
@@ -7120,6 +7120,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "In Clan with ivi 7 and NBK Rat",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8799,
+      "username": "Nathor_On",
+      "category": "Clan Noir",
+      "date_added": "2026-07-22",
+      "timestamp_added": "2026-07-22 15:03:36",
+      "added_by": "412117490424872971",
+      "reason": "leak for Orbitin Owl (Clan Noir)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
