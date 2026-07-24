@@ -307,6 +307,7 @@ ZIDE_SRF_TUM, (Added: 2026-01-28), <-- reason: Gold Farmer,
 --Category(Bot or Gold Farmer)end--,
 
 --Category(Breaking General Rules)start--,
+00kyrito00, (Added: 2026-07-24), <-- reason: general rule breaking/friend of known griefer,
 0Andy, (Added: 2026-06-25), <-- reason: pm on,
 Aimbot v2, (Added: 2026-07-01), <-- reason: stepping out w.o being taxi, griefing at ava,
 bigtacobash, (Added: 2026-07-16), <-- reason: keeping pm on despite warnings,
