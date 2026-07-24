@@ -250,3 +250,4 @@ SK L, (Added: 2026-07-14), <-- reason: Fragging w.o calling, botlike, no respons
 Peeks, (Added: 2026-07-18), <-- reason: leak account with Comboed following public chat no response, (Rm: 2026-07-19)
 Ineed2peeee, (Added: 2026-07-20), <-- reason: in cc at games despite warnings, (Rm: 2026-07-20)
 zeal cape, (Added: 2026-07-23), <-- reason: testing removal update, (Rm: 2026-07-23) <-- removal reason: test removal with reason
+Siul26, (Added: 2026-07-23), <-- reason: fragging without calling multiple games despite acknowledging rules, (Rm: 2026-07-24) <-- removal reason: Is now playing by rules
