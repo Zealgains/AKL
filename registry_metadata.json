@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-23T23:30:43.357400",
-  "total_entries": 7390,
+  "exported_at": "2026-07-24T01:04:43.192833",
+  "total_entries": 7391,
   "entries": [
     {
       "id": 2,
@@ -5172,6 +5172,21 @@
       "timestamp_added": "2026-06-20 23:01:43",
       "added_by": "209956201377562624",
       "reason": "alt of not noogie and knowmad",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8813,
+      "username": "ohnowyouknow",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-24",
+      "timestamp_added": "2026-07-24 00:59:40",
+      "added_by": "1244046251012391053",
+      "reason": "disregarding rules/ not joining fc/ stupid",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
