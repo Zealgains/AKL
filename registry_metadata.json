@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-24T02:10:06.590530",
-  "total_entries": 7391,
+  "exported_at": "2026-07-24T08:11:27.006315",
+  "total_entries": 7392,
   "entries": [
     {
       "id": 2,
@@ -4567,6 +4567,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Gold Farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8814,
+      "username": "00kyrito00",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-24",
+      "timestamp_added": "2026-07-24 08:06:24",
+      "added_by": "209956201377562624",
+      "reason": "general rule breaking/friend of known griefer",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
