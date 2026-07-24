@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-24T15:25:03.705972",
-  "total_entries": 7394,
+  "exported_at": "2026-07-24T15:44:39.358993",
+  "total_entries": 7395,
   "entries": [
     {
       "id": 2,
@@ -25337,6 +25337,21 @@
       "timestamp_added": "2026-07-01 01:56:58",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8817,
+      "username": "Wheezee i",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-24",
+      "timestamp_added": "2026-07-24 15:39:36",
+      "added_by": "412117490424872971",
+      "reason": "leak account for zealgainss hopping in and out on f2p",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
