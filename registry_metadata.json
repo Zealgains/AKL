@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-24T08:11:27.006315",
-  "total_entries": 7392,
+  "exported_at": "2026-07-24T09:40:12.364967",
+  "total_entries": 7393,
   "entries": [
     {
       "id": 2,
@@ -23477,6 +23477,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8815,
+      "username": "salo-21",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-24",
+      "timestamp_added": "2026-07-24 09:35:09",
+      "added_by": "1244046251012391053",
+      "reason": "alt account of crasher 00kyrito00",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
