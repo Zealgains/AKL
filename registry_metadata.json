@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-24T09:40:12.364967",
-  "total_entries": 7393,
+  "exported_at": "2026-07-24T15:25:03.705972",
+  "total_entries": 7394,
   "entries": [
     {
       "id": 2,
@@ -21463,6 +21463,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8816,
+      "username": "lm a rat",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-24",
+      "timestamp_added": "2026-07-24 15:19:59",
+      "added_by": "412117490424872971",
+      "reason": "hopping in and out of chat on 302 while zealgainss following",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
