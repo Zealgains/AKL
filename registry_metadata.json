@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-24T15:44:39.358993",
-  "total_entries": 7395,
+  "exported_at": "2026-07-24T20:01:21.407758",
+  "total_entries": 7397,
   "entries": [
     {
       "id": 2,
@@ -18162,6 +18162,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8819,
+      "username": "BrickedHard",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-24",
+      "timestamp_added": "2026-07-24 19:57:13",
+      "added_by": "248898439474184192",
+      "reason": "In cc at games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6925,
       "username": "Bull Medic",
       "category": "Leak Accounts",
@@ -25277,6 +25292,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8818,
+      "username": "wallago",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-24",
+      "timestamp_added": "2026-07-24 19:56:18",
+      "added_by": "248898439474184192",
+      "reason": "In cc during games",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
