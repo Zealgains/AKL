@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-24T20:01:21.407758",
-  "total_entries": 7397,
+  "exported_at": "2026-07-25T01:25:44.346598",
+  "total_entries": 7398,
   "entries": [
     {
       "id": 2,
@@ -4222,6 +4222,21 @@
       "timestamp_added": "2026-07-23 11:44:45",
       "added_by": "1244046251012391053",
       "reason": "alt of bot/gold farmer on akl",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8820,
+      "username": "Kiricocho41",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-25",
+      "timestamp_added": "2026-07-25 01:20:42",
+      "added_by": "412117490424872971",
+      "reason": "ran off to frag without calling with very low botlike stats",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
