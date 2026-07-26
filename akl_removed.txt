@@ -252,3 +252,4 @@ Ineed2peeee, (Added: 2026-07-20), <-- reason: in cc at games despite warnings, (
 zeal cape, (Added: 2026-07-23), <-- reason: testing removal update, (Rm: 2026-07-23) <-- removal reason: test removal with reason
 Siul26, (Added: 2026-07-23), <-- reason: fragging without calling multiple games despite acknowledging rules, (Rm: 2026-07-24) <-- removal reason: Is now playing by rules
 LilChungoos, (Added: 2026-07-21), <-- reason: suspected leak for zealgainss, (Rm: 2026-07-25) <-- removal reason: Appealed ticket 3028
+Quest By Era, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-07-26) <-- removal reason: Vouched by Vaultaiya in ticket / Leader in AFC / Minigame Mondays
