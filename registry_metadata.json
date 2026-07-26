@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-25T03:17:24.398415",
-  "total_entries": 7398,
+  "exported_at": "2026-07-26T15:20:22.557991",
+  "total_entries": 7399,
   "entries": [
     {
       "id": 2,
@@ -21748,6 +21748,21 @@
       "timestamp_added": "2026-06-29 21:56:10",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8821,
+      "username": "mattydude13",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-26",
+      "timestamp_added": "2026-07-26 15:15:20",
+      "added_by": "1244046251012391053",
+      "reason": "leaking for 320",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
