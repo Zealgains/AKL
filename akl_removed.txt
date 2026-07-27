@@ -254,3 +254,4 @@ Siul26, (Added: 2026-07-23), <-- reason: fragging without calling multiple games
 LilChungoos, (Added: 2026-07-21), <-- reason: suspected leak for zealgainss, (Rm: 2026-07-25) <-- removal reason: Appealed ticket 3028
 Quest By Era, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-07-26) <-- removal reason: Vouched by Vaultaiya in ticket / Leader in AFC / Minigame Mondays
 mattydude13, (Added: 2026-07-26), <-- reason: leaking for 320, (Rm: 2026-07-26) <-- removal reason: Appealed in ticket. Did not know the history of w320 and zealgains
+wallago, (Added: 2026-07-24), <-- reason: In cc during games, (Rm: 2026-07-27) <-- removal reason: Appealed in ticket
