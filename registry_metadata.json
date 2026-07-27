@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-27T00:49:12.547936",
-  "total_entries": 7400,
+  "exported_at": "2026-07-27T02:51:57.034092",
+  "total_entries": 7401,
   "entries": [
     {
       "id": 2,
@@ -5518,6 +5518,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8823,
+      "username": "WillOff4TCG",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-27",
+      "timestamp_added": "2026-07-27 02:46:54",
+      "added_by": "1244046251012391053",
+      "reason": "flaming ranks-not following rules",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/willoff4tcg/willoff4tcg_20260727_024717.png",
+          "uploaded_by": "1244046251012391053",
+          "uploaded_at": "2026-07-27 02:47:18",
+          "filename": "willoff4tcg_20260727_024717.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
