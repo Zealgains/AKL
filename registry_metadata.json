@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T12:43:42.096660",
-  "total_entries": 7417,
+  "exported_at": "2026-07-28T12:53:30.440149",
+  "total_entries": 7424,
   "entries": [
     {
       "id": 2,
@@ -677,6 +677,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8844,
+      "username": "bulk itemzz",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 12:49:20",
+      "added_by": "412117490424872971",
+      "reason": "alt of xx taken xx1 who's on akl for attacking anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 40,
       "username": "can u tho",
       "category": "Attacking cc Members",
@@ -894,6 +909,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "attacking and flaming.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8846,
+      "username": "DarkPker50",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 12:50:27",
+      "added_by": "412117490424872971",
+      "reason": "Alt account of LaChimba70, attacking anti",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -2266,6 +2296,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8845,
+      "username": "MaxiePure90",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 12:50:19",
+      "added_by": "412117490424872971",
+      "reason": "alt of xx taken xx1 who's on akl for attacking anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 136,
       "username": "Mayhabs",
       "category": "Attacking cc Members",
@@ -2745,6 +2790,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8841,
+      "username": "Pure Ness60",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 12:48:36",
+      "added_by": "412117490424872971",
+      "reason": "alt of xx taken xx1 who's on akl for attacking anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 162,
       "username": "pure roake",
       "category": "Attacking cc Members",
@@ -2775,6 +2835,36 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8843,
+      "username": "Pureena",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 12:48:52",
+      "added_by": "412117490424872971",
+      "reason": "alt of xx taken xx1 who's on akl for attacking anti \u200b",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8840,
+      "username": "PureZen80",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 12:48:27",
+      "added_by": "412117490424872971",
+      "reason": "alt of  xx taken xx1 who's on akl for attacking anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 164,
       "username": "Puroranged1",
       "category": "Attacking cc Members",
@@ -2782,6 +2872,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "<--- attacking cc members flaming.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8842,
+      "username": "PvM Phobia",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 12:48:45",
+      "added_by": "412117490424872971",
+      "reason": "alt of xx taken xx1 who's on akl for attacking anti",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
