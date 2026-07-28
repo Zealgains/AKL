@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T04:35:23.627977",
-  "total_entries": 7410,
+  "exported_at": "2026-07-28T09:56:31.169939",
+  "total_entries": 7411,
   "entries": [
     {
       "id": 2,
@@ -11772,6 +11772,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragging without calling and attacking cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8833,
+      "username": "altaf786",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 09:51:28",
+      "added_by": "248898439474184192",
+      "reason": "Fragging without calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
