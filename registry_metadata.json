@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T00:32:15.780631",
-  "total_entries": 7403,
+  "exported_at": "2026-07-28T02:42:44.294642",
+  "total_entries": 7405,
   "entries": [
     {
       "id": 2,
@@ -21590,6 +21590,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8827,
+      "username": "LM Preston",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 02:37:56",
+      "added_by": "412117490424872971",
+      "reason": "joined on a new discord then zealgainss was following private games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 7016,
       "username": "Loading Guns",
       "category": "Leak Accounts",
@@ -22213,6 +22228,21 @@
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8826,
+      "username": "Mr oGKUSHED",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 02:37:41",
+      "added_by": "412117490424872971",
+      "reason": "joined on a new discord then zealgainss was following private games",
+      "is_dupe": false,
+      "alt_of": "LM Preston",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
