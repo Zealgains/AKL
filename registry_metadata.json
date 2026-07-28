@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T13:18:38.019021",
-  "total_entries": 7344,
+  "exported_at": "2026-07-28T14:18:14.995797",
+  "total_entries": 7345,
   "entries": [
     {
       "id": 2,
@@ -11522,6 +11522,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "disrespecting ranks, told star ranks to stop spamming rules, attacking cc, fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8847,
+      "username": "Crinklz",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 14:13:12",
+      "added_by": "248898439474184192",
+      "reason": "Being a dipshit to ranks",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
