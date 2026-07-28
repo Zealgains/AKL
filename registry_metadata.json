@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T02:42:44.294642",
-  "total_entries": 7405,
+  "exported_at": "2026-07-28T03:01:10.520912",
+  "total_entries": 7406,
   "entries": [
     {
       "id": 2,
@@ -19388,6 +19388,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8828,
+      "username": "fatbuthicc",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 02:56:08",
+      "added_by": "412117490424872971",
+      "reason": "leak account chillin on f2p",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
