@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T15:45:44.062678",
-  "total_entries": 7349,
+  "exported_at": "2026-07-28T16:17:06.879691",
+  "total_entries": 7351,
   "entries": [
     {
       "id": 2,
@@ -11782,6 +11782,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8852,
+      "username": "Rotten Wang",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 16:12:04",
+      "added_by": "412117490424872971",
+      "reason": "Disrespecting ranks after being told to leave public cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 874,
       "username": "T y 6",
       "category": "Disrespecting Ranks",
@@ -19628,6 +19643,21 @@
       "timestamp_added": "2026-07-28 02:56:08",
       "added_by": "412117490424872971",
       "reason": "leak account chillin on f2p",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8853,
+      "username": "fava9020",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 16:12:36",
+      "added_by": "412117490424872971",
+      "reason": "leak from world 320 crashing games",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
