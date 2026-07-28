@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T09:56:31.169939",
-  "total_entries": 7411,
+  "exported_at": "2026-07-28T10:16:33.268064",
+  "total_entries": 7415,
   "entries": [
     {
       "id": 2,
@@ -497,6 +497,36 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8837,
+      "username": "BigFish80",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 10:12:28",
+      "added_by": "248898439474184192",
+      "reason": "Alt account of LaChimba70, attacking anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8834,
+      "username": "BinBin40",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 10:11:30",
+      "added_by": "248898439474184192",
+      "reason": "Alt account of LaChimba70, attacking anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 31,
       "username": "black_eck",
       "category": "Attacking cc Members",
@@ -707,6 +737,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8836,
+      "username": "CheeseLord70",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 10:12:26",
+      "added_by": "248898439474184192",
+      "reason": "Alt account of LaChimba70, attacking anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 45,
       "username": "ChickWitDlCK",
       "category": "Attacking cc Members",
@@ -744,6 +789,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8835,
+      "username": "ClownMan60",
+      "category": "Attacking cc Members",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 10:12:23",
+      "added_by": "248898439474184192",
+      "reason": "Alt account of LaChimba70, attacking anti",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
