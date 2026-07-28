@@ -257,3 +257,4 @@ mattydude13, (Added: 2026-07-26), <-- reason: leaking for 320, (Rm: 2026-07-26) 
 wallago, (Added: 2026-07-24), <-- reason: In cc during games, (Rm: 2026-07-27) <-- removal reason: Appealed in ticket
 GotSatGg, (Added: 2026-07-27), <-- reason: botting right outside the soul wars lobby at private games, (Rm: 2026-07-28) <-- removal reason: Appealed in ticket
 Mr oGKUSHED, (Added: 2026-07-28), <-- reason: joined on a new discord then zealgainss was following private games [Alt of: LM Preston], (Rm: 2026-07-28) <-- removal reason: giving chance in game, will not join discord, as its a newer account
+LM Preston, (Added: 2026-07-28), <-- reason: joined on a new discord then zealgainss was following private games, (Rm: 2026-07-28) <-- removal reason: giving chance in game, will not join discord, as its a newer account
