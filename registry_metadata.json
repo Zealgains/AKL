@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T16:17:06.879691",
-  "total_entries": 7351,
+  "exported_at": "2026-07-28T20:38:02.807749",
+  "total_entries": 7352,
   "entries": [
     {
       "id": 2,
@@ -5521,6 +5521,28 @@
       "removed_at": "2026-06-27 00:09:09",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8854,
+      "username": "Rngtinq",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 20:33:00",
+      "added_by": "209956201377562624",
+      "reason": "Breaking TOS by asking personal information",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/rngtinq/rngtinq_20260728_203259.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-28 20:33:00",
+          "filename": "rngtinq_20260728_203259.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 8758,
