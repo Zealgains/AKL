@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-28T14:50:43.382494",
-  "total_entries": 7346,
+  "exported_at": "2026-07-28T15:39:47.673854",
+  "total_entries": 7349,
   "entries": [
     {
       "id": 2,
@@ -41691,6 +41691,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8849,
+      "username": "BLACKTlVITY",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 15:34:44",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 8830,
       "username": "Bone Soup",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -41998,6 +42013,21 @@
       "timestamp_added": "2026-06-27 22:58:40",
       "added_by": "412117490424872971",
       "reason": "otf clan (leak)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8850,
+      "username": "in\u00a0the\u00a0m00d",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 15:34:44",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -42326,6 +42356,21 @@
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
       "date_added": "2026-06-27",
       "timestamp_added": "2026-06-27 19:54:06",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8851,
+      "username": "swabcloser69",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-07-28",
+      "timestamp_added": "2026-07-28 15:34:44",
       "added_by": "412117490424872971",
       "reason": "in Outlaws chat-channel",
       "is_dupe": false,
