@@ -255,3 +255,4 @@ LilChungoos, (Added: 2026-07-21), <-- reason: suspected leak for zealgainss, (Rm
 Quest By Era, (Added: Unknown Date), <-- reason: No reason provided., (Rm: 2026-07-26) <-- removal reason: Vouched by Vaultaiya in ticket / Leader in AFC / Minigame Mondays
 mattydude13, (Added: 2026-07-26), <-- reason: leaking for 320, (Rm: 2026-07-26) <-- removal reason: Appealed in ticket. Did not know the history of w320 and zealgains
 wallago, (Added: 2026-07-24), <-- reason: In cc during games, (Rm: 2026-07-27) <-- removal reason: Appealed in ticket
+GotSatGg, (Added: 2026-07-27), <-- reason: botting right outside the soul wars lobby at private games, (Rm: 2026-07-28) <-- removal reason: Appealed in ticket
