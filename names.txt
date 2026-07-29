@@ -1730,6 +1730,7 @@ PVV Jr, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is cras
 PVV JR JR, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is Crashing,
 Pykour, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Rafeeek, (Added: 2026-04-28), <-- reason: private chat on with no response,
+RAISTARR, (Added: 2026-07-29), <-- reason: joining on f2p world while zealgainss and comboed crashing,
 Rakash, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 Ranged War, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 rare diarios, (Added: 2026-02-11), <-- reason: leaking to misfits no response in cc after multiple joins,
