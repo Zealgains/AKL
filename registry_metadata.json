@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-29T01:01:10.556838",
-  "total_entries": 7353,
+  "exported_at": "2026-07-29T09:27:10.122979",
+  "total_entries": 7355,
   "entries": [
     {
       "id": 2,
@@ -18888,6 +18888,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8857,
+      "username": "Daichi D",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-29",
+      "timestamp_added": "2026-07-29 09:22:10",
+      "added_by": "1244046251012391053",
+      "reason": "Joining on f2p world while Zealgainss is following",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6953,
       "username": "Dankcleric",
       "category": "Leak Accounts",
@@ -24593,6 +24608,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8856,
+      "username": "Soffi",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-29",
+      "timestamp_added": "2026-07-29 09:22:07",
+      "added_by": "1244046251012391053",
+      "reason": "joining on f2p world while zealgainss is following",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
