@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-29T09:27:10.122979",
-  "total_entries": 7355,
+  "exported_at": "2026-07-29T18:29:08.864788",
+  "total_entries": 7356,
   "entries": [
     {
       "id": 2,
@@ -23726,6 +23726,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8858,
+      "username": "Rid Taghi",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-29",
+      "timestamp_added": "2026-07-29 18:24:06",
+      "added_by": "209956201377562624",
+      "reason": "Suspected alt of Rido",
+      "is_dupe": false,
+      "alt_of": "Rido Taghi",
+      "evidence": [
+        {
+          "path": "evidence/rid_taghi/rid_taghi_20260729_182405.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-07-29 18:24:06",
+          "filename": "rid_taghi_20260729_182405.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
