@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-29T18:29:08.864788",
-  "total_entries": 7356,
+  "exported_at": "2026-07-29T18:35:46.438576",
+  "total_entries": 7357,
   "entries": [
     {
       "id": 2,
@@ -23573,6 +23573,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "private chat on with no response",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8859,
+      "username": "RAISTARR",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-29",
+      "timestamp_added": "2026-07-29 18:30:44",
+      "added_by": "412117490424872971",
+      "reason": "joining on f2p world while zealgainss and comboed crashing",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
