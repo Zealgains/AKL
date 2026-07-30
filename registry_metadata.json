@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-29T18:35:46.438576",
-  "total_entries": 7357,
+  "exported_at": "2026-07-30T03:04:44.778147",
+  "total_entries": 7358,
   "entries": [
     {
       "id": 2,
@@ -5303,6 +5303,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8860,
+      "username": "JRforLiFe",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-30",
+      "timestamp_added": "2026-07-30 02:59:42",
+      "added_by": "412117490424872971",
+      "reason": "Griefing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/jrforlife/jrforlife_20260730_030023.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-07-30 03:00:25",
+          "filename": "jrforlife_20260730_030023.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
