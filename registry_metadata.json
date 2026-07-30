@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-30T03:04:44.778147",
-  "total_entries": 7358,
+  "exported_at": "2026-07-30T18:02:53.105076",
+  "total_entries": 7359,
   "entries": [
     {
       "id": 2,
@@ -24172,6 +24172,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8861,
+      "username": "SCOR9ION",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-30",
+      "timestamp_added": "2026-07-30 17:57:49",
+      "added_by": "209956201377562624",
+      "reason": "leaking to misfits",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
