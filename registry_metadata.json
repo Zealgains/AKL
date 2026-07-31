@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-30T18:02:53.105076",
-  "total_entries": 7359,
+  "exported_at": "2026-07-31T04:57:25.949277",
+  "total_entries": 7360,
   "entries": [
     {
       "id": 2,
@@ -5111,6 +5111,21 @@
       "removed_at": "2026-06-19 05:05:16",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8862,
+      "username": "GamerMuslim7",
+      "category": "Breaking General Rules",
+      "date_added": "2026-07-31",
+      "timestamp_added": "2026-07-31 04:52:23",
+      "added_by": "209956201377562624",
+      "reason": "Dumped without calling. Multiple warnings over the course of 12 hours.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7799,
@@ -41892,6 +41907,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 6682,
+      "username": "Brady Gavin",
+      "category": "Outlaws (OTF) - OTF Rag Bots clan",
+      "date_added": "2026-06-27",
+      "timestamp_added": "2026-06-27 19:54:06",
+      "added_by": "412117490424872971",
+      "reason": "in Outlaws chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 8829,
       "username": "Brady Gavin",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
@@ -42119,21 +42149,6 @@
     {
       "id": 6683,
       "username": "GRlMEY",
-      "category": "Outlaws (OTF) - OTF Rag Bots clan",
-      "date_added": "2026-06-27",
-      "timestamp_added": "2026-06-27 19:54:06",
-      "added_by": "412117490424872971",
-      "reason": "in Outlaws chat-channel",
-      "is_dupe": false,
-      "alt_of": null,
-      "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
-    },
-    {
-      "id": 6682,
-      "username": "h9v",
       "category": "Outlaws (OTF) - OTF Rag Bots clan",
       "date_added": "2026-06-27",
       "timestamp_added": "2026-06-27 19:54:06",
