@@ -983,6 +983,12 @@ y0ur FATHER, (Added: 2026-06-07), <-- reason: Disrespecting ranks in public with
 Zenithalil, (Added: 2026-05-25), <-- reason: Picking a fight in fc, told to drop it. Warned by two ranks that we will kick both parties in case of bs. Their response being 'Lol do it then. Mans thinking he running a business here.',
 --Category(Disrespecting Ranks)end--,
 
+--Category(f2p worlds)start--,
+--Bot Limiter---, (Added: 2024-01-01), <-- reason: Category Placeholder,
+W301, (Added: 2026-07-31), <-- reason: F2p world,
+W308, (Added: 2026-07-31), <-- reason: F2p world,
+--Category(f2p worlds)end--,
+
 --Category(Fragging Without Calling)start--,
 007 1-99, (Added: 2026-03-10), <-- reason: running off without calling and trolling in cc,
 101olly101, (Added: 2026-04-08), <-- reason: Fragging without calling right after rules posted [Proof: evidence/101olly101/101olly101_20260408_180110.png],
