@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-31T18:05:16.596420",
-  "total_entries": 7420,
+  "exported_at": "2026-07-31T18:15:14.867363",
+  "total_entries": 7421,
   "entries": [
     {
       "id": 2,
@@ -22712,6 +22712,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8923,
+      "username": "n3ver_trust",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-31",
+      "timestamp_added": "2026-07-31 18:10:12",
+      "added_by": "412117490424872971",
+      "reason": "leak for zealgainss",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
