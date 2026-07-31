@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-31T15:27:26.680533",
-  "total_entries": 7417,
+  "exported_at": "2026-07-31T18:05:16.596420",
+  "total_entries": 7420,
   "entries": [
     {
       "id": 2,
@@ -4575,6 +4575,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8922,
+      "username": "Miss_Decnt_1",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-31",
+      "timestamp_added": "2026-07-31 18:00:43",
+      "added_by": "412117490424872971",
+      "reason": "gold farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 259,
       "username": "MUZWIDNOHUZZ",
       "category": "Bot or Gold Farmer",
@@ -4612,6 +4627,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "asking for gold farming ccs",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8921,
+      "username": "R A I Starr",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-07-31",
+      "timestamp_added": "2026-07-31 18:00:14",
+      "added_by": "412117490424872971",
+      "reason": "gold farmer fragging without calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -19468,6 +19498,21 @@
       "removed_at": "2026-07-10 14:31:50",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8920,
+      "username": "Dwarf Grav",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-31",
+      "timestamp_added": "2026-07-31 15:27:35",
+      "added_by": "412117490424872971",
+      "reason": "leak account for zealgainss",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 1081,
