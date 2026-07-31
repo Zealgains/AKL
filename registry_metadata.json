@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-31T14:59:28.500532",
-  "total_entries": 7365,
+  "exported_at": "2026-07-31T15:20:45.436354",
+  "total_entries": 7366,
   "entries": [
     {
       "id": 2,
@@ -20182,6 +20182,21 @@
       "timestamp_added": "2026-06-29 21:56:10",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8868,
+      "username": "goyslop42069",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-31",
+      "timestamp_added": "2026-07-31 15:15:42",
+      "added_by": "412117490424872971",
+      "reason": "Joined as f2p, zealgainss joins world after",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
