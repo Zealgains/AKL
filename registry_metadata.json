@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-31T14:26:21.815510",
-  "total_entries": 7361,
+  "exported_at": "2026-07-31T14:32:14.663029",
+  "total_entries": 7362,
   "entries": [
     {
       "id": 2,
@@ -23070,6 +23070,21 @@
       "timestamp_added": "2026-06-29 16:40:19",
       "added_by": "412117490424872971",
       "reason": "leaking to honestly",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8864,
+      "username": "p 010199",
+      "category": "Leak Accounts",
+      "date_added": "2026-07-31",
+      "timestamp_added": "2026-07-31 14:27:12",
+      "added_by": "412117490424872971",
+      "reason": "leak account for zealgainss from f2p",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
