@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-01T05:23:36.003593",
-  "total_entries": 7422,
+  "exported_at": "2026-08-01T08:01:16.838806",
+  "total_entries": 7423,
   "entries": [
     {
       "id": 2,
@@ -18452,6 +18452,21 @@
       "timestamp_added": "2026-07-01 01:56:58",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8925,
+      "username": "BLlNDED",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-01",
+      "timestamp_added": "2026-08-01 07:56:14",
+      "added_by": "209956201377562624",
+      "reason": "leaking to misfits (logging in when world hop then leaving)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
