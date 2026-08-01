@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-07-31T18:15:14.867363",
-  "total_entries": 7421,
+  "exported_at": "2026-08-01T05:16:25.870011",
+  "total_entries": 7422,
   "entries": [
     {
       "id": 2,
@@ -41119,6 +41119,21 @@
       "removed_at": "2026-06-17 04:16:51",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8924,
+      "username": "iron skilly",
+      "category": "Other",
+      "date_added": "2026-08-01",
+      "timestamp_added": "2026-08-01 05:11:23",
+      "added_by": "412117490424872971",
+      "reason": "test",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 2096,
