@@ -1476,6 +1476,7 @@ BIGMIKEH, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is cr
 Birdrak, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Blasphemy, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Blazing 4 20, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
+BLlNDED, (Added: 2026-08-01), <-- reason: leaking to misfits (logging in when world hop then leaving),
 Blue Monsoon, (Added: 2026-05-15), <-- reason: leak acc for en-lil (crasher),
 Bobross1995, (Added: 2026-07-16), <-- reason: Lurking in main chat on world 320 multiple times,
 BooBooJonson, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
