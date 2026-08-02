@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-02T14:52:56.818547",
-  "total_entries": 7427,
+  "exported_at": "2026-08-02T15:16:02.874682",
+  "total_entries": 7428,
   "entries": [
     {
       "id": 2,
@@ -5603,6 +5603,21 @@
       "removed_at": "2026-06-27 00:09:09",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8930,
+      "username": "Pr1nce0196",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-02",
+      "timestamp_added": "2026-08-02 15:11:00",
+      "added_by": "209956201377562624",
+      "reason": "Helping crashers after getting kicked for rulebreaking",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 8854,
