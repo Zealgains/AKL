@@ -312,6 +312,7 @@ shamii n_a, (Added: 2026-02-14), <-- reason: Gold Farmer / Bot - no responding a
 SHAO KHANXXD, (Added: 2026-03-24), <-- reason: goldfarmer crashing our games,
 SHER ALI 111, (Added: 2026-01-28), <-- reason: Gold Farmer,
 strain, (Added: 2026-03-27), <-- reason: gold farmer,
+Tanjiro 06, (Added: 2026-08-02), <-- reason: Suspected bot account, not responding in chat to multiple star ranks when asked. Followed fc after we kicked and hopped.,
 th tatis f, (Added: 2026-05-07), <-- reason: callistobot- dumping frags without calling,
 ULQUIORRA 04, (Added: 2026-07-08), <-- reason: bot or gold farmer lurking in cc,
 v4be, (Added: 2026-03-26), <-- reason: bot,
