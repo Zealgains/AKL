@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-01T08:01:16.838806",
-  "total_entries": 7423,
+  "exported_at": "2026-08-02T00:28:57.377242",
+  "total_entries": 7424,
   "entries": [
     {
       "id": 2,
@@ -4732,6 +4732,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "gold farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8926,
+      "username": "Tanjiro 06",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-08-02",
+      "timestamp_added": "2026-08-02 00:23:55",
+      "added_by": "412117490424872971",
+      "reason": "Suspected bot account, not responding in chat to multiple star ranks when asked. Followed fc after we kicked and hopped.",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
