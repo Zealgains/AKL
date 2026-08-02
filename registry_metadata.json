@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-02T00:28:57.377242",
-  "total_entries": 7424,
+  "exported_at": "2026-08-02T02:38:54.030398",
+  "total_entries": 7425,
   "entries": [
     {
       "id": 2,
@@ -20880,6 +20880,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8927,
+      "username": "II\u00a0ll0ll\u00a0II",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-02",
+      "timestamp_added": "2026-08-02 02:33:51",
+      "added_by": "412117490424872971",
+      "reason": "leak for Negorito",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
