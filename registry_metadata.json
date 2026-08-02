@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-08-02T02:48:59.708107",
+  "exported_at": "2026-08-02T06:27:55.119604",
   "total_entries": 7425,
   "entries": [
     {
@@ -5385,9 +5385,9 @@
           "filename": "jrforlife_20260730_030023.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-08-02 06:22:52",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 278,
