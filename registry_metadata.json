@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-02T06:27:55.119604",
-  "total_entries": 7425,
+  "exported_at": "2026-08-02T14:52:56.818547",
+  "total_entries": 7427,
   "entries": [
     {
       "id": 2,
@@ -17411,6 +17411,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8928,
+      "username": "1v1 runelink",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-02",
+      "timestamp_added": "2026-08-02 14:47:54",
+      "added_by": "1244046251012391053",
+      "reason": "griefing (dont unban)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6921,
       "username": "2 Light 2627",
       "category": "Leak Accounts",
@@ -18152,6 +18167,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8929,
+      "username": "baby yooda",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-02",
+      "timestamp_added": "2026-08-02 14:49:37",
+      "added_by": "1244046251012391053",
+      "reason": "crashing",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
