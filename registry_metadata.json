@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-03T02:54:39.273682",
-  "total_entries": 7429,
+  "exported_at": "2026-08-03T03:25:58.716696",
+  "total_entries": 7430,
   "entries": [
     {
       "id": 2,
@@ -104493,6 +104493,21 @@
       "timestamp_added": "2026-07-31 15:22:24",
       "added_by": "412117490424872971",
       "reason": "F2p Worlds",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8932,
+      "username": "w468",
+      "category": "f2p worlds",
+      "date_added": "2026-08-03",
+      "timestamp_added": "2026-08-03 03:20:56",
+      "added_by": "412117490424872971",
+      "reason": "f2p world",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
