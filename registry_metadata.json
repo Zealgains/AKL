@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-03T03:25:58.716696",
-  "total_entries": 7430,
+  "exported_at": "2026-08-04T11:12:49.194649",
+  "total_entries": 7431,
   "entries": [
     {
       "id": 2,
@@ -5745,6 +5745,21 @@
       "removed_at": "2026-06-26 19:49:47",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 8933,
+      "username": "STAY AVOIDED",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-04",
+      "timestamp_added": "2026-08-04 11:07:46",
+      "added_by": "1244046251012391053",
+      "reason": "\"STAY AVOIDED\" is back crashing, I don't think he is on AKL anymore so he was able to get in and get the world. -nvremy",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 8682,
