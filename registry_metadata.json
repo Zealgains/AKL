@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-04T14:16:40.494694",
-  "total_entries": 7432,
+  "exported_at": "2026-08-04T21:44:08.943938",
+  "total_entries": 7434,
   "entries": [
     {
       "id": 2,
@@ -819,6 +819,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8935,
+      "username": "ChumedOne",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-04",
+      "timestamp_added": "2026-08-04 21:39:06",
+      "added_by": "412117490424872971",
+      "reason": "Buddy of Terror mage prob gonna be leak",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -3442,6 +3457,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crashing with misfits",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8936,
+      "username": "Terror Mage",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-04",
+      "timestamp_added": "2026-08-04 21:39:10",
+      "added_by": "412117490424872971",
+      "reason": "Crasher Attacking afkers",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
