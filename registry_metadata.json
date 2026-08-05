@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-04T21:44:08.943938",
-  "total_entries": 7434,
+  "exported_at": "2026-08-05T14:57:58.703274",
+  "total_entries": 7435,
   "entries": [
     {
       "id": 2,
@@ -4117,6 +4117,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragging no call not responding to requests to return to taxi",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8937,
+      "username": "curuvu33",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-08-05",
+      "timestamp_added": "2026-08-05 14:52:56",
+      "added_by": "412117490424872971",
+      "reason": "Acting like bot and dumped without calling. no response either",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
