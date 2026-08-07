@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-07T16:11:50.597827",
-  "total_entries": 7436,
+  "exported_at": "2026-08-07T19:41:59.739419",
+  "total_entries": 7437,
   "entries": [
     {
       "id": 2,
@@ -26173,6 +26173,21 @@
       "removed_at": "2026-07-27 00:44:10",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 8939,
+      "username": "Wasku",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-07",
+      "timestamp_added": "2026-08-07 19:36:57",
+      "added_by": "412117490424872971",
+      "reason": "hopping in and out of chat on world 320",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 6984,
