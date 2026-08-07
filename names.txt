@@ -321,6 +321,7 @@ th tatis f, (Added: 2026-05-07), <-- reason: callistobot- dumping frags without 
 ULQUIORRA 04, (Added: 2026-07-08), <-- reason: bot or gold farmer lurking in cc,
 v4be, (Added: 2026-03-26), <-- reason: bot,
 wook7s, (Added: 2026-04-11), <-- reason: goldfarmer,
+ZayanOS, (Added: 2026-08-07), <-- reason: Runs off, no response,
 ZERKESYON, (Added: 2026-01-18), <-- reason: Gold Farmer (venezuelan),
 ZIDE_SRF_TUM, (Added: 2026-01-28), <-- reason: Gold Farmer,
 --Category(Bot or Gold Farmer)end--,
