@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-07T19:41:59.739419",
-  "total_entries": 7437,
+  "exported_at": "2026-08-08T04:45:16.592748",
+  "total_entries": 7438,
   "entries": [
     {
       "id": 2,
@@ -4822,6 +4822,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "callistobot- dumping frags without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8940,
+      "username": "ThaGlizzee",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-08-08",
+      "timestamp_added": "2026-08-08 04:40:13",
+      "added_by": "412117490424872971",
+      "reason": "running off to mid multiple times no response might be bot",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
