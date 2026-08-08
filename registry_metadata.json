@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-08T04:45:16.592748",
-  "total_entries": 7438,
+  "exported_at": "2026-08-08T10:51:27.495600",
+  "total_entries": 7439,
   "entries": [
     {
       "id": 2,
@@ -21906,6 +21906,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "alt of crasher 0xzerotrust",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8941,
+      "username": "KXKXKXKXXKXK",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-08",
+      "timestamp_added": "2026-08-08 10:46:25",
+      "added_by": "1244046251012391053",
+      "reason": "wasku alt",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
