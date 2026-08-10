@@ -6722,7 +6722,6 @@ Gimpy Madmat, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashin
 gimpy nate, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
 gimpy shim, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
 Gimpy Social, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
-Gimpy Tots, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
 ginsengrs, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
 glass 4fter, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
 glerp, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - entire clan banned,
