@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-10T03:40:12.504724",
-  "total_entries": 7441,
+  "exported_at": "2026-08-11T03:55:40.363185",
+  "total_entries": 7442,
   "entries": [
     {
       "id": 2,
@@ -27249,6 +27249,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8944,
+      "username": "Once Happy",
+      "category": "Lurking / Zeal Inactivity",
+      "date_added": "2026-08-11",
+      "timestamp_added": "2026-08-11 03:50:37",
+      "added_by": "412117490424872971",
+      "reason": "Leak account for negorito",
+      "is_dupe": false,
+      "alt_of": "Negorito",
+      "evidence": [
+        {
+          "path": "evidence/once_happy/once_happy_20260811_035037.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-08-11 03:50:37",
+          "filename": "once_happy_20260811_035037.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
