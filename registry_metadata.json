@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-13T02:51:38.431902",
-  "total_entries": 7446,
+  "exported_at": "2026-08-13T17:51:50.341513",
+  "total_entries": 7447,
   "entries": [
     {
       "id": 2,
@@ -20227,6 +20227,21 @@
       "timestamp_added": "2026-07-01 01:56:58",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8949,
+      "username": "fukingim",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-13",
+      "timestamp_added": "2026-08-13 17:46:47",
+      "added_by": "1244046251012391053",
+      "reason": "Private chat on despite numerous warnings",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
