@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-12T12:11:38.583556",
-  "total_entries": 7445,
+  "exported_at": "2026-08-13T02:51:38.431902",
+  "total_entries": 7446,
   "entries": [
     {
       "id": 2,
@@ -1059,6 +1059,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crasher",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8948,
+      "username": "Eviltigre187",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-13",
+      "timestamp_added": "2026-08-13 02:46:35",
+      "added_by": "412117490424872971",
+      "reason": "Attacking cc members",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
