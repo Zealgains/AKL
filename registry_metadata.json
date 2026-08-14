@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-13T23:30:07.825108",
-  "total_entries": 6871,
+  "exported_at": "2026-08-14T16:29:40.595467",
+  "total_entries": 6872,
   "entries": [
     {
       "id": 2,
@@ -9881,6 +9881,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragging with no call talking back to rank",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8950,
+      "username": "regulus1292",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-08-14",
+      "timestamp_added": "2026-08-14 16:24:37",
+      "added_by": "1244046251012391053",
+      "reason": "Fragging without calling as a wd",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
