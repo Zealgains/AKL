@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-14T16:29:40.595467",
-  "total_entries": 6872,
+  "exported_at": "2026-08-15T18:30:29.047105",
+  "total_entries": 6873,
   "entries": [
     {
       "id": 2,
@@ -2393,6 +2393,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "attacking cc members crashing.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8951,
+      "username": "mbl lite wrk",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-15",
+      "timestamp_added": "2026-08-15 18:25:26",
+      "added_by": "412117490424872971",
+      "reason": "hitting anti",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
