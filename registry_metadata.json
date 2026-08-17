@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-16T04:33:25.416387",
-  "total_entries": 6874,
+  "exported_at": "2026-08-17T02:55:05.710639",
+  "total_entries": 6875,
   "entries": [
     {
       "id": 2,
@@ -2033,6 +2033,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8953,
+      "username": "k3tamin3",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-17",
+      "timestamp_added": "2026-08-17 02:50:03",
+      "added_by": "1244046251012391053",
+      "reason": "crashing",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
