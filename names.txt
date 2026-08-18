@@ -88,6 +88,7 @@ Glowing blue, (Added: 2026-07-14), <-- reason: Capped grave early + attacked unp
 go in dry, (Added: 2026-07-08), <-- reason: suspected crasher,
 goofy slappr, (Added: Unknown Date), <-- reason: attacking cc.,
 Greznos, (Added: Unknown Date), <-- reason: attacking cc.,
+GrindinAlone, (Added: 2026-08-18), <-- reason: attacking fc, general rule breaking, unresponsive,
 grxef ferox, (Added: Unknown Date), <-- reason: No reason provided.,
 gulkilad, (Added: Unknown Date), <-- reason: No reason provided.,
 Haha kekw, (Added: Unknown Date), <-- reason: No reason provided.,
