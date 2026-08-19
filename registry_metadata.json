@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-19T16:16:12.323964",
-  "total_entries": 6883,
+  "exported_at": "2026-08-19T17:34:50.081207",
+  "total_entries": 6884,
   "entries": [
     {
       "id": 2,
@@ -1523,6 +1523,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "flaming ranks.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8962,
+      "username": "heduuuuuu",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-19",
+      "timestamp_added": "2026-08-19 17:29:47",
+      "added_by": "412117490424872971",
+      "reason": "lender1 alt",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
