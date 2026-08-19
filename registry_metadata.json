@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-19T16:09:28.296372",
-  "total_entries": 6881,
+  "exported_at": "2026-08-19T16:16:12.323964",
+  "total_entries": 6883,
   "entries": [
     {
       "id": 2,
@@ -21323,6 +21323,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8960,
+      "username": "Ragnar Wick",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-19",
+      "timestamp_added": "2026-08-19 16:11:09",
+      "added_by": "412117490424872971",
+      "reason": "leak account for pellucid",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 8959,
       "username": "ragner wick",
       "category": "Leak Accounts",
@@ -24763,6 +24778,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8961,
+      "username": "Sehan Baba",
+      "category": "Lurking / Zeal Inactivity",
+      "date_added": "2026-08-19",
+      "timestamp_added": "2026-08-19 16:13:06",
+      "added_by": "412117490424872971",
+      "reason": "not high enough stats to play soul wars",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
