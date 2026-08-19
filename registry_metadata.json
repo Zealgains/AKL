@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-18T14:31:17.550297",
-  "total_entries": 6876,
+  "exported_at": "2026-08-19T16:09:28.296372",
+  "total_entries": 6881,
   "entries": [
     {
       "id": 2,
@@ -954,6 +954,21 @@
       "timestamp_added": "2026-08-04 14:11:37",
       "added_by": "1244046251012391053",
       "reason": "Threatening to crash after being kicked",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8955,
+      "username": "d dag",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-19",
+      "timestamp_added": "2026-08-19 16:04:25",
+      "added_by": "412117490424872971",
+      "reason": "hitting antis (fck this guy)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -2213,6 +2228,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "told ranks to kys.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8956,
+      "username": "lender1",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-19",
+      "timestamp_added": "2026-08-19 16:04:28",
+      "added_by": "412117490424872971",
+      "reason": "hitting antis",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -9024,6 +9054,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 8958,
+      "username": "ax busdriver",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-08-19",
+      "timestamp_added": "2026-08-19 16:04:36",
+      "added_by": "412117490424872971",
+      "reason": "disrepecting ranks (pellucid alt)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 867,
       "username": "Blessed IM",
       "category": "Disrespecting Ranks",
@@ -9286,6 +9331,21 @@
           "filename": "negorito_20260727_002045.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8957,
+      "username": "pellucid",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-08-19",
+      "timestamp_added": "2026-08-19 16:04:32",
+      "added_by": "412117490424872971",
+      "reason": "disrespect nto following rank calls",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -21255,6 +21315,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "private chat on with no response",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 8959,
+      "username": "ragner wick",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-19",
+      "timestamp_added": "2026-08-19 16:04:43",
+      "added_by": "412117490424872971",
+      "reason": "pellucid alt (f2p)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
