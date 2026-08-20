@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-20T11:55:54.833684",
-  "total_entries": 6922,
+  "exported_at": "2026-08-20T18:28:36.395971",
+  "total_entries": 6923,
   "entries": [
     {
       "id": 2,
@@ -3682,6 +3682,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Failing to listen to calls / instructions",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9001,
+      "username": "TheLeve",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-20",
+      "timestamp_added": "2026-08-20 18:23:33",
+      "added_by": "412117490424872971",
+      "reason": "attacking anti, added zealgainss, healing zealgainss",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
