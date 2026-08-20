@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-20T02:41:15.028685",
-  "total_entries": 6921,
+  "exported_at": "2026-08-20T11:55:54.833684",
+  "total_entries": 6922,
   "entries": [
     {
       "id": 2,
@@ -2264,6 +2264,21 @@
       "removed_at": "2026-08-20 00:39:17",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 9000,
+      "username": "Lender1",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-20",
+      "timestamp_added": "2026-08-20 11:50:52",
+      "added_by": "412117490424872971",
+      "reason": "Attacking cc along with helping pellucid and zealgainss grief games, threatening to retaliate on social media",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 124,
