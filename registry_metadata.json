@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-21T13:46:34.697370",
-  "total_entries": 6924,
+  "exported_at": "2026-08-21T17:13:43.954622",
+  "total_entries": 6925,
   "entries": [
     {
       "id": 2,
@@ -22597,6 +22597,21 @@
       "timestamp_added": "2026-07-01 01:56:58",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9003,
+      "username": "Squirt Babe",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-21",
+      "timestamp_added": "2026-08-21 17:08:41",
+      "added_by": "412117490424872971",
+      "reason": "Pellucid's friend, possible leak",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
