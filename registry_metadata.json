@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-20T21:54:35.264933",
-  "total_entries": 6923,
+  "exported_at": "2026-08-21T13:46:34.697370",
+  "total_entries": 6924,
   "entries": [
     {
       "id": 2,
@@ -10016,6 +10016,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragged with no call after being warned by zg not to.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9002,
+      "username": "PINK030303",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-08-21",
+      "timestamp_added": "2026-08-21 13:41:31",
+      "added_by": "412117490424872971",
+      "reason": "fragging without calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
