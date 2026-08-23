@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-22T02:39:55.689841",
-  "total_entries": 6939,
+  "exported_at": "2026-08-23T15:30:21.793120",
+  "total_entries": 6940,
   "entries": [
     {
       "id": 2,
@@ -5516,6 +5516,21 @@
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
+    },
+    {
+      "id": 9018,
+      "username": "Hii Mama",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-23",
+      "timestamp_added": "2026-08-23 15:25:19",
+      "added_by": "412117490424872971",
+      "reason": "ran off to  mid, capped mid, attacked ava",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": "2026-08-23 15:28:37",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 6507,
