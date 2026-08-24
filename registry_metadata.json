@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-23T15:30:21.793120",
-  "total_entries": 6940,
+  "exported_at": "2026-08-24T12:59:43.818064",
+  "total_entries": 6941,
   "entries": [
     {
       "id": 2,
@@ -10016,6 +10016,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9019,
+      "username": "Nah Richo",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-08-24",
+      "timestamp_added": "2026-08-24 12:54:41",
+      "added_by": "412117490424872971",
+      "reason": "Fragging without calling, no response",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
