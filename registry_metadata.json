@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-24T12:59:43.818064",
-  "total_entries": 6941,
+  "exported_at": "2026-08-24T17:24:33.786655",
+  "total_entries": 6942,
   "entries": [
     {
       "id": 2,
@@ -9448,6 +9448,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Repeatedly attacking wolves despite warnings and being disrespectful to ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9020,
+      "username": "TuckrCarlson",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-08-24",
+      "timestamp_added": "2026-08-24 17:19:31",
+      "added_by": "209956201377562624",
+      "reason": "Troll",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
