@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-24T17:24:33.786655",
-  "total_entries": 6942,
+  "exported_at": "2026-08-25T12:45:41.125231",
+  "total_entries": 6943,
   "entries": [
     {
       "id": 2,
@@ -5645,6 +5645,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "griefing games w/ davilex",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9021,
+      "username": "Ivaaannnnnnn",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-25",
+      "timestamp_added": "2026-08-25 12:40:38",
+      "added_by": "412117490424872971",
+      "reason": "Fragging without call. Trolling etc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
