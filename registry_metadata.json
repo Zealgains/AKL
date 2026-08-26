@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-25T12:45:41.125231",
-  "total_entries": 6943,
+  "exported_at": "2026-08-26T03:39:06.015509",
+  "total_entries": 6944,
   "entries": [
     {
       "id": 2,
@@ -387,6 +387,21 @@
       "reason": "Crashing games and attacking members",
       "is_dupe": false,
       "alt_of": "SylvestrZcat",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9022,
+      "username": "AYEWOE",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-26",
+      "timestamp_added": "2026-08-26 03:34:03",
+      "added_by": "412117490424872971",
+      "reason": "Attacking people at avatar and general griefing",
+      "is_dupe": false,
+      "alt_of": null,
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
