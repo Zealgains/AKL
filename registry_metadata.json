@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-26T03:39:06.015509",
-  "total_entries": 6944,
+  "exported_at": "2026-08-26T03:56:06.467485",
+  "total_entries": 6945,
   "entries": [
     {
       "id": 2,
@@ -15739,6 +15739,21 @@
       "reason": "In Zezima CC while Honestly Nvm is crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 9023,
+      "username": "AyWoe",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-26",
+      "timestamp_added": "2026-08-26 03:51:03",
+      "added_by": "412117490424872971",
+      "reason": "alt of AyWoe  who was banned for attacking cc and griefing",
+      "is_dupe": false,
+      "alt_of": "AyeWoe",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
