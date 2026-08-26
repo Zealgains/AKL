@@ -1288,6 +1288,7 @@ Aurelionite, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Z
 AustinaChan, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Awholehole, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 AxeUnleashed, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
+AyWoe, (Added: 2026-08-26), <-- reason: alt of AyWoe  who was banned for attacking cc and griefing [Alt of: AyeWoe],
 B A R S Y, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 B C S, (Added: 2026-07-02), <-- reason: Leaking world to Honestly Nvm [Alt of: ZealGainss],
 b1lb0bongN, (Added: 2026-07-08), <-- reason: joined cc and left with no response,
