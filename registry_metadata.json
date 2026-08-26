@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-26T04:01:49.472628",
-  "total_entries": 8197,
+  "exported_at": "2026-08-26T23:35:23.421860",
+  "total_entries": 8199,
   "entries": [
     {
       "id": 2,
@@ -534,6 +534,21 @@
       "timestamp_added": "2026-07-28 10:12:28",
       "added_by": "248898439474184192",
       "reason": "Alt account of LaChimba70, attacking anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10277,
+      "username": "Bigzchlong",
+      "category": "Attacking cc Members",
+      "date_added": "2026-08-26",
+      "timestamp_added": "2026-08-26 23:30:26",
+      "added_by": "412117490424872971",
+      "reason": "attk cc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -24254,6 +24269,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10276,
+      "username": "Zion\u00a0Lev",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-26",
+      "timestamp_added": "2026-08-26 23:30:20",
+      "added_by": "412117490424872971",
+      "reason": "Leak to zealgainss via zezima",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
