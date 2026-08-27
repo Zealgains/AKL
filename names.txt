@@ -287,6 +287,7 @@ curuvu33, (Added: 2026-08-05), <-- reason: Acting like bot and dumped without ca
 deiroonas, (Added: 2026-04-03), <-- reason: goldfarmer/bot - Fragging without calling,
 Dimelogee, (Added: 2026-06-18), <-- reason: Suspected bot (stepping out wrong + following wrong person consistently),
 Dios te amaa, (Added: 2026-03-27), <-- reason: Gold Farmer - Fragging without calling,
+eliopo1, (Added: 2026-08-27), <-- reason: bot or gold farmer lurking on lms world,
 godzila king, (Added: 2026-03-23), <-- reason: gold farmer,
 HAFIZ-KH, (Added: 2026-01-28), <-- reason: Gold Farmer,
 hello love00, (Added: 2026-06-07), <-- reason: steps out, runs taxi. Just skips caps, runs half the taxi straight to ava. Doesn't respond to anything, bot like behaviour,
