@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-27T01:25:30.833898",
-  "total_entries": 8200,
+  "exported_at": "2026-08-27T12:57:34.046720",
+  "total_entries": 8201,
   "entries": [
     {
       "id": 2,
@@ -5345,6 +5345,21 @@
       "timestamp_added": "2026-07-08 15:12:16",
       "added_by": "412117490424872971",
       "reason": "winey prick",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10279,
+      "username": "creationists",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-27",
+      "timestamp_added": "2026-08-27 12:52:31",
+      "added_by": "412117490424872971",
+      "reason": "Wouldn't follow rules, attacked when challenged",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
