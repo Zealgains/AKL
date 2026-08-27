@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-27T12:57:34.046720",
-  "total_entries": 8201,
+  "exported_at": "2026-08-27T18:30:51.638872",
+  "total_entries": 8203,
   "entries": [
     {
       "id": 2,
@@ -5278,6 +5278,21 @@
       "removed_at": "2026-06-27 22:41:44",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 10281,
+      "username": "C0uzy",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-27",
+      "timestamp_added": "2026-08-27 18:27:29",
+      "added_by": "412117490424872971",
+      "reason": "Crashing as wd",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 8679,
@@ -92305,6 +92320,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "ALT Of Sixty N9ne",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10280,
+      "username": "CBT Amy",
+      "category": "Trolling in FC",
+      "date_added": "2026-08-27",
+      "timestamp_added": "2026-08-27 18:25:48",
+      "added_by": "1244046251012391053",
+      "reason": "Trolling in fc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
