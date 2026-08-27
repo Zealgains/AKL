@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-26T23:35:23.421860",
-  "total_entries": 8199,
+  "exported_at": "2026-08-27T01:25:30.833898",
+  "total_entries": 8200,
   "entries": [
     {
       "id": 2,
@@ -4387,6 +4387,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Gold Farmer - Fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10278,
+      "username": "eliopo1",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-08-27",
+      "timestamp_added": "2026-08-27 01:20:28",
+      "added_by": "412117490424872971",
+      "reason": "bot or gold farmer lurking on lms world",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
