@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-27T18:30:51.638872",
-  "total_entries": 8203,
+  "exported_at": "2026-08-27T20:12:14.388001",
+  "total_entries": 8204,
   "entries": [
     {
       "id": 2,
@@ -23617,6 +23617,21 @@
       "timestamp_added": "2026-07-01 01:56:58",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10282,
+      "username": "Uube",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-27",
+      "timestamp_added": "2026-08-27 20:07:11",
+      "added_by": "209956201377562624",
+      "reason": "Leaking world to griefer",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
