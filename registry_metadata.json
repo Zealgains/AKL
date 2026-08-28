@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-28T00:54:38.445440",
-  "total_entries": 8212,
+  "exported_at": "2026-08-28T14:33:18.369937",
+  "total_entries": 8214,
   "entries": [
     {
       "id": 2,
@@ -9859,6 +9859,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10291,
+      "username": "Exhausted I",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-08-28",
+      "timestamp_added": "2026-08-28 14:28:14",
+      "added_by": "1244046251012391053",
+      "reason": "alt of IExhaustedI",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 892,
       "username": "Fiivo",
       "category": "Fragging Without Calling",
@@ -18437,6 +18452,21 @@
       "timestamp_added": "2026-07-22 23:43:08",
       "added_by": "412117490424872971",
       "reason": "joined and left main cc quickly before zealgainss logged in",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10292,
+      "username": "Holy Ethos",
+      "category": "Leak Accounts",
+      "date_added": "2026-08-28",
+      "timestamp_added": "2026-08-28 14:28:45",
+      "added_by": "1244046251012391053",
+      "reason": "Leak from zezima to zealgainss",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
