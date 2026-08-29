@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-28T15:35:36.016131",
-  "total_entries": 8217,
+  "exported_at": "2026-08-29T12:22:30.058253",
+  "total_entries": 8218,
   "entries": [
     {
       "id": 2,
@@ -5914,6 +5914,21 @@
       "timestamp_added": "2026-06-20 20:17:19",
       "added_by": "412117490424872971",
       "reason": "Stepped out to taxi and did not follow through got a lot of people disconnected then decided to be disrespectful",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10296,
+      "username": "Only Meats",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-29",
+      "timestamp_added": "2026-08-29 12:17:27",
+      "added_by": "412117490424872971",
+      "reason": "general rule breaking",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
