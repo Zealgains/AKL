@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-30T21:18:41.214460",
-  "total_entries": 8230,
+  "exported_at": "2026-08-30T22:49:22.357820",
+  "total_entries": 8231,
   "entries": [
     {
       "id": 2,
@@ -33088,6 +33088,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "alt of youtube tv",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10309,
+      "username": "dawoods697",
+      "category": "Other",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 22:44:19",
+      "added_by": "412117490424872971",
+      "reason": "lurking on world 302 not showing up to games even though he was actively talking with us. Would not answer who told him to ask for discord or join our chat",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
