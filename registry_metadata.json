@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-29T12:22:30.058253",
-  "total_entries": 8218,
+  "exported_at": "2026-08-30T01:32:20.551981",
+  "total_entries": 8219,
   "entries": [
     {
       "id": 2,
@@ -5847,6 +5847,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "running off in taxi games, told me to suk him off when i froze him and told him to get in line with others. (he was attempting to join taxi, but i had already told him previous game to not run off and instead follow the player who steps out... short fuse on both our parts. if he makes a ticket id give him another chance",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10297,
+      "username": "N0VAxz",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 01:27:18",
+      "added_by": "209956201377562624",
+      "reason": "general fuckery when it comes to properly taxi'ing, wont respond to ranks",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
