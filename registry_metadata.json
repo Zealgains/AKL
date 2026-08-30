@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-30T16:31:16.284123",
-  "total_entries": 8220,
+  "exported_at": "2026-08-30T17:22:28.714299",
+  "total_entries": 8230,
   "entries": [
     {
       "id": 2,
@@ -48364,6 +48364,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10307,
+      "username": "3 X T C Y",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 2982,
       "username": "32 Fox Tell",
       "category": "Removed from Banlist",
@@ -48850,6 +48865,21 @@
       "date_added": "2026-05-08",
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
+      "reason": "Removed from ban list",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10305,
+      "username": "99Tn",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
       "reason": "Removed from ban list",
       "is_dupe": false,
       "alt_of": null,
@@ -53066,6 +53096,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10300,
+      "username": "Diddy 0il",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3279,
       "username": "Dieislife",
       "category": "Removed from Banlist",
@@ -56306,6 +56351,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10302,
+      "username": "Herb RS",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3484,
       "username": "Heru Horus",
       "category": "Removed from Banlist",
@@ -58361,6 +58421,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10299,
+      "username": "k YU GI OH k",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3614,
       "username": "K-J-V-S",
       "category": "Removed from Banlist",
@@ -58526,6 +58601,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10308,
+      "username": "Kastriat",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3625,
       "username": "KatalinaOSRS",
       "category": "Removed from Banlist",
@@ -58563,6 +58653,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10306,
+      "username": "Keat",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -60753,6 +60858,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10304,
+      "username": "MGHTY PIETY",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -64706,6 +64826,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10301,
+      "username": "Ryynikannit",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 4021,
       "username": "S cotian",
       "category": "Removed from Banlist",
@@ -66558,6 +66693,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10303,
+      "username": "STROWWMAN99",
+      "category": "Removed from Banlist",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 17:17:26",
+      "added_by": "412117490424872971",
+      "reason": "Removed from ban list",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
