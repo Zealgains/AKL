@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-30T01:32:20.551981",
-  "total_entries": 8219,
+  "exported_at": "2026-08-30T16:31:16.284123",
+  "total_entries": 8220,
   "entries": [
     {
       "id": 2,
@@ -6270,6 +6270,21 @@
       "removed_at": "2026-06-25 18:11:47",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 10298,
+      "username": "Troyrich5",
+      "category": "Breaking General Rules",
+      "date_added": "2026-08-30",
+      "timestamp_added": "2026-08-30 16:26:13",
+      "added_by": "412117490424872971",
+      "reason": "private chat on and fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 8730,
