@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-30T22:49:22.357820",
-  "total_entries": 8231,
+  "exported_at": "2026-08-31T00:19:12.373954",
+  "total_entries": 8232,
   "entries": [
     {
       "id": 2,
@@ -10064,6 +10064,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10310,
+      "username": "KHRVD",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-08-31",
+      "timestamp_added": "2026-08-31 00:14:09",
+      "added_by": "412117490424872971",
+      "reason": "Fragging without calling no response",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/khrvd/khrvd_20260831_001409.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-08-31 00:14:09",
+          "filename": "khrvd_20260831_001409.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
