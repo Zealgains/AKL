@@ -906,6 +906,7 @@ Hauntlet, (Added: 2026-07-20), <-- reason: Fragging without calling - ignoring a
 HCIM oxy, (Added: 2026-04-03), <-- reason: Fragging without calling - attacking ranks,
 Iron Zyrup, (Added: 2026-04-18), <-- reason: Fragging without calling multiple games and not listening to ranks,
 Jaxx_sparrow, (Added: 2026-04-29), <-- reason: Fragging without calling,
+KHRVD, (Added: 2026-08-31), <-- reason: Fragging without calling no response [Proof: evidence/khrvd/khrvd_20260831_001409.png],
 King godzila, (Added: 2026-05-22), <-- reason: Fragging without calling - possible gold farmer,
 KUR0B0SHI, (Added: 2026-04-17), <-- reason: Fragging without calling - evo s,
 LAST WISH YO, (Added: 2026-03-26), <-- reason: fragging no call,
