@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-31T15:56:08.569211",
-  "total_entries": 8233,
+  "exported_at": "2026-08-31T17:39:29.147383",
+  "total_entries": 8234,
   "entries": [
     {
       "id": 2,
@@ -9409,6 +9409,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10312,
+      "username": "HertzToPee",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-08-31",
+      "timestamp_added": "2026-08-31 17:34:26",
+      "added_by": "209956201377562624",
+      "reason": "Insulting ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/hertztopee/hertztopee_20260831_173426.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-08-31 17:34:26",
+          "filename": "hertztopee_20260831_173426.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
