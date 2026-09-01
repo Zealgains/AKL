@@ -263,7 +263,7 @@ z0ft, (Added: 2026-06-29), <-- reason: crashing,
 z111z, (Added: 2026-03-30), <-- reason: Crashing with Mazda,
 Zaramay_25, (Added: Unknown Date), <-- reason: No reason provided.,
 Zoo Cat, (Added: Unknown Date), <-- reason: No reason provided.,
-zukready, (Added: 2026-09-01), <-- reason: pking anti, refusing to appeal [Proof: evidence/zukready/zukready_20260901_164143.png],
+zukready, (Added: 2026-09-01), <-- reason: pking anti, refusing to appeal [Alt of: itouchzerks] [Proof: evidence/zukready/zukready_20260901_164143.png],
 --Category(Attacking cc Members)end--,
 
 --Category(Begging for GP/Items)start--,
