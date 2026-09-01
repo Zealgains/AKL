@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-08-31T17:39:29.147383",
-  "total_entries": 8234,
+  "exported_at": "2026-09-01T16:46:15.507036",
+  "total_entries": 8235,
   "entries": [
     {
       "id": 2,
@@ -4120,6 +4120,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10313,
+      "username": "zukready",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-01",
+      "timestamp_added": "2026-09-01 16:41:12",
+      "added_by": "412117490424872971",
+      "reason": "pking anti, refusing to appeal",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/zukready/zukready_20260901_164143.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-09-01 16:41:47",
+          "filename": "zukready_20260901_164143.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
