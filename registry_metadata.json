@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-01T16:46:15.507036",
+  "exported_at": "2026-09-01T20:27:24.701648",
   "total_entries": 8235,
   "entries": [
     {
@@ -4133,7 +4133,7 @@
       "added_by": "412117490424872971",
       "reason": "pking anti, refusing to appeal",
       "is_dupe": false,
-      "alt_of": null,
+      "alt_of": "itouchzerks",
       "evidence": [
         {
           "path": "evidence/zukready/zukready_20260901_164143.png",
