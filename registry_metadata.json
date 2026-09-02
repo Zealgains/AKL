@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-01T20:27:24.701648",
-  "total_entries": 8235,
+  "exported_at": "2026-09-02T20:20:52.043580",
+  "total_entries": 8236,
   "entries": [
     {
       "id": 2,
@@ -33911,6 +33911,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Crashing huey and being a prick- do not remove lol",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10314,
+      "username": "Pure Company",
+      "category": "Other",
+      "date_added": "2026-09-02",
+      "timestamp_added": "2026-09-02 20:15:49",
+      "added_by": "209956201377562624",
+      "reason": "Testing Lil bro",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
