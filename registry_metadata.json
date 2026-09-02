@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-02T20:20:52.043580",
+  "exported_at": "2026-09-02T20:54:29.064077",
   "total_entries": 8236,
   "entries": [
     {
@@ -9453,9 +9453,9 @@
           "filename": "hertztopee_20260831_173426.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-09-02 20:49:26",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 871,
