@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-03T02:17:06.951170",
-  "total_entries": 8237,
+  "exported_at": "2026-09-03T21:09:21.209513",
+  "total_entries": 8238,
   "entries": [
     {
       "id": 2,
@@ -33954,6 +33954,21 @@
       "removed_at": "2026-09-02 21:37:50",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 10316,
+      "username": "Pure Company",
+      "category": "Other",
+      "date_added": "2026-09-03",
+      "timestamp_added": "2026-09-03 21:04:18",
+      "added_by": "209956201377562624",
+      "reason": "(TESTING)",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 2123,
