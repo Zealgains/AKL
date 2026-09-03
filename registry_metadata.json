@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-02T21:42:52.784322",
-  "total_entries": 8236,
+  "exported_at": "2026-09-03T01:57:52.047084",
+  "total_entries": 8237,
   "entries": [
     {
       "id": 2,
@@ -6084,6 +6084,21 @@
       "timestamp_added": "2026-08-02 15:11:00",
       "added_by": "209956201377562624",
       "reason": "Helping crashers after getting kicked for rulebreaking",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10315,
+      "username": "rat club",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-03",
+      "timestamp_added": "2026-09-03 01:52:49",
+      "added_by": "1244046251012391053",
+      "reason": "attacking cc members disregarding rules",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
