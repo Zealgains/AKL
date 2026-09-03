@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-03T01:57:52.047084",
+  "exported_at": "2026-09-03T02:17:06.951170",
   "total_entries": 8237,
   "entries": [
     {
@@ -6101,7 +6101,14 @@
       "reason": "attacking cc members disregarding rules",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/rat_club/rat_club_20260903_021201.png",
+          "uploaded_by": "1244046251012391053",
+          "uploaded_at": "2026-09-03 02:12:04",
+          "filename": "rat_club_20260903_021201.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
