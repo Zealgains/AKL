@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-04T12:43:45.397428",
-  "total_entries": 8239,
+  "exported_at": "2026-09-04T17:07:17.958227",
+  "total_entries": 8241,
   "entries": [
     {
       "id": 2,
@@ -609,6 +609,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10319,
+      "username": "Bonnie Lew",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-04",
+      "timestamp_added": "2026-09-04 17:02:20",
+      "added_by": "412117490424872971",
+      "reason": "Attacking cc members",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -5787,6 +5802,21 @@
       "timestamp_added": "2026-08-25 12:40:38",
       "added_by": "412117490424872971",
       "reason": "Fragging without call. Trolling etc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10318,
+      "username": "Jonesi9",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-04",
+      "timestamp_added": "2026-09-04 17:02:14",
+      "added_by": "412117490424872971",
+      "reason": "Attacked antis, then attitude, then threatening to grief",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
