@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-03T21:09:21.209513",
-  "total_entries": 8238,
+  "exported_at": "2026-09-04T12:43:45.397428",
+  "total_entries": 8239,
   "entries": [
     {
       "id": 2,
@@ -10344,6 +10344,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragged with no call after being warned by zg not to.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10317,
+      "username": "Osrs exp3rt",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-09-04",
+      "timestamp_added": "2026-09-04 12:38:42",
+      "added_by": "412117490424872971",
+      "reason": "Fragging without calling and griefing dd at avatar",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
