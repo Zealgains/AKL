@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-04T17:07:17.958227",
-  "total_entries": 8241,
+  "exported_at": "2026-09-05T15:02:09.895314",
+  "total_entries": 8242,
   "entries": [
     {
       "id": 2,
@@ -4934,6 +4934,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Account seller and gold farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10320,
+      "username": "Obby Keaner",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-09-05",
+      "timestamp_added": "2026-09-05 14:57:07",
+      "added_by": "412117490424872971",
+      "reason": "Kicked for private on, no response, just running randomly between being killed",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
