@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-05T15:02:09.895314",
-  "total_entries": 8242,
+  "exported_at": "2026-09-06T02:36:51.881004",
+  "total_entries": 8243,
   "entries": [
     {
       "id": 2,
@@ -1649,6 +1649,21 @@
       "removed_at": "2026-07-06 12:48:18",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 10321,
+      "username": "honordingdon",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-06",
+      "timestamp_added": "2026-09-06 02:31:49",
+      "added_by": "209956201377562624",
+      "reason": "pking players using avatar",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 86,
