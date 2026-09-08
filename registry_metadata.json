@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-08T03:02:42.008951",
-  "total_entries": 8302,
+  "exported_at": "2026-09-08T21:47:13.964459",
+  "total_entries": 8303,
   "entries": [
     {
       "id": 2,
@@ -21391,6 +21391,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10381,
+      "username": "PeknastyXXI",
+      "category": "Leak Accounts",
+      "date_added": "2026-09-08",
+      "timestamp_added": "2026-09-08 21:42:11",
+      "added_by": "209956201377562624",
+      "reason": "Potential leak Private on no respond",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/peknastyxxi/peknastyxxi_20260908_214244.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-08 21:42:45",
+          "filename": "peknastyxxi_20260908_214244.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
