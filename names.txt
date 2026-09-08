@@ -1697,6 +1697,7 @@ Scuffed Coin, (Added: 2026-05-04), <-- reason: Leak of ZealSeal [Alt of: zealsea
 Scuffed Tick, (Added: 2026-05-02), <-- reason: ZealSeal Leak account [Alt of: Zealseal],
 SeamanSenpai, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 Selaphiell, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
+serostim, (Added: 2026-09-08), <-- reason: hopping in and out of cc while rat club following,
 Session ID, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Seto Yugioh, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 shanni butle, (Added: 2026-07-20), <-- reason: leak account for zeal gainss,
