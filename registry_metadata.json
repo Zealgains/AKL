@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-08T02:47:00.404446",
-  "total_entries": 8301,
+  "exported_at": "2026-09-08T03:02:42.008951",
+  "total_entries": 8302,
   "entries": [
     {
       "id": 2,
@@ -22505,6 +22505,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10380,
+      "username": "serostim",
+      "category": "Leak Accounts",
+      "date_added": "2026-09-08",
+      "timestamp_added": "2026-09-08 02:57:39",
+      "added_by": "412117490424872971",
+      "reason": "hopping in and out of cc while rat club following",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
