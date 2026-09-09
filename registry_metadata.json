@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-08T21:47:13.964459",
+  "exported_at": "2026-09-09T11:57:47.306807",
   "total_entries": 8303,
   "entries": [
     {
@@ -4966,7 +4966,14 @@
       "reason": "Kicked for private on, no response, just running randomly between being killed",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/obby_keaner/obby_keaner_20260909_115242.png",
+          "uploaded_by": "1244046251012391053",
+          "uploaded_at": "2026-09-09 11:52:44",
+          "filename": "obby_keaner_20260909_115242.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
