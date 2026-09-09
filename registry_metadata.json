@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-09T11:57:47.306807",
-  "total_entries": 8303,
+  "exported_at": "2026-09-09T14:31:29.971816",
+  "total_entries": 8304,
   "entries": [
     {
       "id": 2,
@@ -17952,6 +17952,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10382,
+      "username": "forest law54",
+      "category": "Leak Accounts",
+      "date_added": "2026-09-09",
+      "timestamp_added": "2026-09-09 14:26:27",
+      "added_by": "412117490424872971",
+      "reason": "Leak for obby keaner",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
