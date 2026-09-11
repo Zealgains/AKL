@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-11T15:01:17.003094",
-  "total_entries": 8306,
+  "exported_at": "2026-09-11T22:04:59.147070",
+  "total_entries": 8307,
   "entries": [
     {
       "id": 2,
@@ -24993,6 +24993,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10385,
+      "username": "eatyourglue",
+      "category": "Lurking / Zeal Inactivity",
+      "date_added": "2026-09-11",
+      "timestamp_added": "2026-09-11 21:59:56",
+      "added_by": "412117490424872971",
+      "reason": "lurking multiple times in chat and kicked for no response",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
