@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-11T03:22:49.527739",
-  "total_entries": 8305,
+  "exported_at": "2026-09-11T15:01:17.003094",
+  "total_entries": 8306,
   "entries": [
     {
       "id": 2,
@@ -23914,6 +23914,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10384,
+      "username": "UIM Ethics",
+      "category": "Leak Accounts",
+      "date_added": "2026-09-11",
+      "timestamp_added": "2026-09-11 14:56:14",
+      "added_by": "1244046251012391053",
+      "reason": "Alt/\"brother\" of Obby Keaner, will likely leak",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
