@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-11T00:22:08.262909",
-  "total_entries": 8304,
+  "exported_at": "2026-09-11T02:16:01.881997",
+  "total_entries": 8305,
   "entries": [
     {
       "id": 2,
@@ -3517,6 +3517,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragging w.o calling + disrespectful to ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10383,
+      "username": "Sol Heretit",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-11",
+      "timestamp_added": "2026-09-11 02:10:59",
+      "added_by": "412117490424872971",
+      "reason": "Attacking anti-pkers, threatening to crash games after getting kicked",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
