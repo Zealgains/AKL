@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-12T20:31:09.540933",
-  "total_entries": 8310,
+  "exported_at": "2026-09-12T21:38:22.606425",
+  "total_entries": 8311,
   "entries": [
     {
       "id": 2,
@@ -6145,6 +6145,21 @@
       "timestamp_added": "2026-08-28 15:30:47",
       "added_by": "412117490424872971",
       "reason": "Planning to grief with zealgainss",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10389,
+      "username": "pc SOULS",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-12",
+      "timestamp_added": "2026-09-12 21:33:20",
+      "added_by": "209956201377562624",
+      "reason": "Rejoined on 320, got kicked, immediately capped grave and called me an asshole",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
