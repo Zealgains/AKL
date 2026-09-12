@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-12T17:10:57.516319",
-  "total_entries": 8309,
+  "exported_at": "2026-09-12T20:31:09.540933",
+  "total_entries": 8310,
   "entries": [
     {
       "id": 2,
@@ -5322,6 +5322,28 @@
       "removed_at": "2026-06-27 17:17:09",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 10388,
+      "username": "7 words",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-12",
+      "timestamp_added": "2026-09-12 20:26:06",
+      "added_by": "209956201377562624",
+      "reason": "no desire to follow rules",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/7_words/7_words_20260912_202641.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-12 20:26:43",
+          "filename": "7_words_20260912_202641.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7156,
