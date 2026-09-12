@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-11T22:04:59.147070",
-  "total_entries": 8307,
+  "exported_at": "2026-09-12T09:26:49.776600",
+  "total_entries": 8309,
   "entries": [
     {
       "id": 2,
@@ -3727,6 +3727,21 @@
       "timestamp_added": "2026-08-04 21:39:10",
       "added_by": "412117490424872971",
       "reason": "Crasher Attacking afkers",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10386,
+      "username": "Terrorists",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-12",
+      "timestamp_added": "2026-09-12 09:21:47",
+      "added_by": "1244046251012391053",
+      "reason": "griefing by attacking people at avatar",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -93862,6 +93877,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "flaming ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10387,
+      "username": "51x-5even",
+      "category": "Trolling in FC",
+      "date_added": "2026-09-12",
+      "timestamp_added": "2026-09-12 09:21:56",
+      "added_by": "1244046251012391053",
+      "reason": "griefing",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
