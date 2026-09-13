@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-12T21:38:22.606425",
-  "total_entries": 8311,
+  "exported_at": "2026-09-13T06:16:56.678014",
+  "total_entries": 8312,
   "entries": [
     {
       "id": 2,
@@ -9449,6 +9449,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10390,
+      "username": "3lunts",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-09-13",
+      "timestamp_added": "2026-09-13 06:11:53",
+      "added_by": "412117490424872971",
+      "reason": "being disrespectful when held accountable for not bringing taxi to dd",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
