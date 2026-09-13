@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-13T06:16:56.678014",
-  "total_entries": 8312,
+  "exported_at": "2026-09-13T17:23:41.874818",
+  "total_entries": 8313,
   "entries": [
     {
       "id": 2,
@@ -4409,6 +4409,21 @@
       "timestamp_added": "2026-07-08 06:02:57",
       "added_by": "412117490424872971",
       "reason": "bot or gold farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10391,
+      "username": "c0mb4t",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-09-13",
+      "timestamp_added": "2026-09-13 17:18:39",
+      "added_by": "1244046251012391053",
+      "reason": "asked to join cc multiple times, just ignored. we camped him and he wouldnt say anything just run back to ava, i think hes a bot.",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
