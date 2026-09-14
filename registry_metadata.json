@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-14T16:51:01.706089",
-  "total_entries": 8320,
+  "exported_at": "2026-09-14T20:34:47.635471",
+  "total_entries": 8321,
   "entries": [
     {
       "id": 2,
@@ -34553,6 +34553,21 @@
       "timestamp_added": "2026-08-09 14:58:51",
       "added_by": "412117490424872971",
       "reason": "Soul Wars official world",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10399,
+      "username": "w350",
+      "category": "Other",
+      "date_added": "2026-09-14",
+      "timestamp_added": "2026-09-14 20:29:44",
+      "added_by": "412117490424872971",
+      "reason": "Soul Wars Official world 2",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
