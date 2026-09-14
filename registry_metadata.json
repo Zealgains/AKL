@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-14T20:40:04.788227",
-  "total_entries": 8392,
+  "exported_at": "2026-09-14T22:12:53.605178",
+  "total_entries": 8393,
   "entries": [
     {
       "id": 2,
@@ -33497,6 +33497,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "new rsn of hello love00 who's on akl",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10471,
+      "username": "butter soles",
+      "category": "Other",
+      "date_added": "2026-09-14",
+      "timestamp_added": "2026-09-14 22:07:50",
+      "added_by": "412117490424872971",
+      "reason": "spamming",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
