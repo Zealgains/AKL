@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-16T01:31:34.840379",
-  "total_entries": 8436,
+  "exported_at": "2026-09-16T03:19:08.210829",
+  "total_entries": 8437,
   "entries": [
     {
       "id": 2,
@@ -5476,6 +5476,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10515,
+      "username": "chompy boy",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-16",
+      "timestamp_added": "2026-09-16 03:14:05",
+      "added_by": "209956201377562624",
+      "reason": "capping graves and not following taxi, i watched him kill a cc member, i also watched him dump frags without calling. and hes not responding.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/chompy_boy/chompy_boy_20260916_031430.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-16 03:14:32",
+          "filename": "chompy_boy_20260916_031430.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
