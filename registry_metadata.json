@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-16T03:27:41.310874",
-  "total_entries": 8437,
+  "exported_at": "2026-09-16T19:23:14.011384",
+  "total_entries": 8438,
   "entries": [
     {
       "id": 2,
@@ -6152,6 +6152,21 @@
       "timestamp_added": "2026-06-20 23:01:43",
       "added_by": "209956201377562624",
       "reason": "alt of not noogie and knowmad",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10516,
+      "username": "Nooooown",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-16",
+      "timestamp_added": "2026-09-16 19:18:11",
+      "added_by": "265288179052052480",
+      "reason": "Fragging without calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
