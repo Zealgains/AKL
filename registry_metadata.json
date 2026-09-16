@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-15T02:22:28.952861",
-  "total_entries": 8435,
+  "exported_at": "2026-09-16T01:31:34.840379",
+  "total_entries": 8436,
   "entries": [
     {
       "id": 2,
@@ -22468,6 +22468,21 @@
       "reason": "in Mod Mark CC while Honestly Nvm is crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10514,
+      "username": "Saint Aeo",
+      "category": "Leak Accounts",
+      "date_added": "2026-09-16",
+      "timestamp_added": "2026-09-16 01:26:32",
+      "added_by": "412117490424872971",
+      "reason": "alt of iTouchZerks",
+      "is_dupe": false,
+      "alt_of": "iTouchZerks",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
