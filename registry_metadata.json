@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-16T19:23:14.011384",
-  "total_entries": 8438,
+  "exported_at": "2026-09-17T23:19:58.623651",
+  "total_entries": 8440,
   "entries": [
     {
       "id": 2,
@@ -9644,6 +9644,28 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10517,
+      "username": "CluMastaDrew",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-09-17",
+      "timestamp_added": "2026-09-17 23:14:56",
+      "added_by": "209956201377562624",
+      "reason": "Do not unban",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/clumastadrew/clumastadrew_20260917_231456.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-17 23:14:56",
+          "filename": "clumastadrew_20260917_231456.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 8847,
       "username": "Crinklz",
       "category": "Disrespecting Ranks",
@@ -10064,6 +10086,21 @@
       "removed_at": "2026-07-01 05:39:00",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 10518,
+      "username": "--Bot Limiter---",
+      "category": "Embargo - CluMastaDrew's clan",
+      "date_added": "2024-01-01",
+      "timestamp_added": "2026-09-17 23:19:26",
+      "added_by": null,
+      "reason": "Category Placeholder",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 879,
