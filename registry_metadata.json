@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-17T23:51:28.071981",
-  "total_entries": 8564,
+  "exported_at": "2026-09-18T20:39:19.828776",
+  "total_entries": 8565,
   "entries": [
     {
       "id": 2,
@@ -9788,6 +9788,34 @@
       "removed_at": "2026-09-02 20:49:26",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 10643,
+      "username": "IIlllBUlllII",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-09-18",
+      "timestamp_added": "2026-09-18 20:34:16",
+      "added_by": "209956201377562624",
+      "reason": "Disrespecting ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/iilllbulllii/iilllbulllii_20260918_203416.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-18 20:34:16",
+          "filename": "iilllbulllii_20260918_203416.png"
+        },
+        {
+          "path": "evidence/iilllbulllii/iilllbulllii_20260918_203443.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-18 20:34:45",
+          "filename": "iilllbulllii_20260918_203443.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 871,
