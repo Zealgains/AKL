@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-18T20:39:19.828776",
-  "total_entries": 8565,
+  "exported_at": "2026-09-19T00:51:56.754712",
+  "total_entries": 8566,
   "entries": [
     {
       "id": 2,
@@ -2438,6 +2438,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "attacking CC and disrespecting rank.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10644,
+      "username": "lNFLICTlON",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-19",
+      "timestamp_added": "2026-09-19 00:46:54",
+      "added_by": "209956201377562624",
+      "reason": "crashing also believed to be IIlllBUlllII acc who is banned for disrespecting ranks.",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
