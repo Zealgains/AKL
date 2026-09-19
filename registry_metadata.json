@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-19T00:51:56.754712",
-  "total_entries": 8566,
+  "exported_at": "2026-09-19T20:25:22.245084",
+  "total_entries": 8567,
   "entries": [
     {
       "id": 2,
@@ -3862,6 +3862,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10645,
+      "username": "tinderblox",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-19",
+      "timestamp_added": "2026-09-19 20:20:19",
+      "added_by": "412117490424872971",
+      "reason": "Crashing with thee misfits",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
