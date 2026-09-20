@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-19T20:25:22.245084",
-  "total_entries": 8567,
+  "exported_at": "2026-09-20T01:03:53.403487",
+  "total_entries": 8568,
   "entries": [
     {
       "id": 2,
@@ -6100,6 +6100,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "not following rules, threaten to crash, disrespect ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10646,
+      "username": "Moneyman 199",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-20",
+      "timestamp_added": "2026-09-20 00:58:51",
+      "added_by": "209956201377562624",
+      "reason": "Pm on - put pleae on ignore rather than putting pm off",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
