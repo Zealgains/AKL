@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-20T01:21:22.294910",
+  "exported_at": "2026-09-20T22:02:45.977315",
   "total_entries": 8568,
   "entries": [
     {
@@ -40718,10 +40718,17 @@
       "date_added": "Unknown Date",
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
-      "reason": "No reason provided.",
+      "reason": "pking fc, taking caps and fragging without calling",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/iam_m0ka/iam_m0ka_20260920_215741.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-20 21:57:43",
+          "filename": "iam_m0ka_20260920_215741.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
