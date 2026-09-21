@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-21T11:37:30.234317",
-  "total_entries": 8569,
+  "exported_at": "2026-09-21T17:33:54.134893",
+  "total_entries": 8570,
   "entries": [
     {
       "id": 2,
@@ -12927,6 +12927,21 @@
           "filename": "xiqx_20260622_182036.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10648,
+      "username": "xKOMOx",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-09-21",
+      "timestamp_added": "2026-09-21 17:28:51",
+      "added_by": "412117490424872971",
+      "reason": "Fragging without calling and ending game early after rules told",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
