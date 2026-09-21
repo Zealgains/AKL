@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-21T19:56:11.345819",
-  "total_entries": 8571,
+  "exported_at": "2026-09-21T20:44:36.538961",
+  "total_entries": 8572,
   "entries": [
     {
       "id": 2,
@@ -4386,6 +4386,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Begging for gp / items",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10650,
+      "username": "Rosita xd",
+      "category": "Begging for GP/Items",
+      "date_added": "2026-09-21",
+      "timestamp_added": "2026-09-21 20:39:33",
+      "added_by": "209956201377562624",
+      "reason": "Begging in GE - Fake vene",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
