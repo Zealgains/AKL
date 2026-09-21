@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-21T17:33:54.134893",
-  "total_entries": 8570,
+  "exported_at": "2026-09-21T19:56:11.345819",
+  "total_entries": 8571,
   "entries": [
     {
       "id": 2,
@@ -4352,6 +4352,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10649,
+      "username": "Merelyte",
+      "category": "Begging for GP/Items",
+      "date_added": "2026-09-21",
+      "timestamp_added": "2026-09-21 19:51:08",
+      "added_by": "209956201377562624",
+      "reason": "Beggar - nasty",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/merelyte/merelyte_20260921_195108.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-21 19:51:08",
+          "filename": "merelyte_20260921_195108.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
