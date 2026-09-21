@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-20T22:02:45.977315",
-  "total_entries": 8568,
+  "exported_at": "2026-09-21T11:37:30.234317",
+  "total_entries": 8569,
   "entries": [
     {
       "id": 2,
@@ -98040,6 +98040,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "talking back to ranks not following rules see image",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10647,
+      "username": "gloats",
+      "category": "Trolling in FC",
+      "date_added": "2026-09-21",
+      "timestamp_added": "2026-09-21 11:32:27",
+      "added_by": "1244046251012391053",
+      "reason": "Trolling in chat, probable alt",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
