@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-22T15:07:16.203453",
-  "total_entries": 8573,
+  "exported_at": "2026-09-22T18:11:16.789189",
+  "total_entries": 8575,
   "entries": [
     {
       "id": 2,
@@ -12654,6 +12654,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "fragged with no call after being warned by zg not to.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10653,
+      "username": "Nwets",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-09-22",
+      "timestamp_added": "2026-09-22 18:06:41",
+      "added_by": "412117490424872971",
+      "reason": "Fragging without calling and dumping early",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -36714,6 +36729,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "kicked for being off world then started arguing with ranks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10652,
+      "username": "Zeaigains",
+      "category": "Other",
+      "date_added": "2026-09-22",
+      "timestamp_added": "2026-09-22 18:06:14",
+      "added_by": "412117490424872971",
+      "reason": "Imposter account",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
