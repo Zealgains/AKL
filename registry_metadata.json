@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-21T20:44:36.538961",
-  "total_entries": 8572,
+  "exported_at": "2026-09-22T15:07:16.203453",
+  "total_entries": 8573,
   "entries": [
     {
       "id": 2,
@@ -79747,6 +79747,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10651,
+      "username": "SaBoTaGexx",
+      "category": "SW AND CHILL / Thee Misfits",
+      "date_added": "2026-09-22",
+      "timestamp_added": "2026-09-22 15:02:13",
+      "added_by": "1244046251012391053",
+      "reason": "grief with misfits",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
