@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-22T18:11:16.789189",
+  "exported_at": "2026-09-22T20:18:27.037621",
   "total_entries": 8575,
   "entries": [
     {
@@ -12671,7 +12671,14 @@
       "reason": "Fragging without calling and dumping early",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/nwets/nwets_20260922_201321.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-22 20:13:23",
+          "filename": "nwets_20260922_201321.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
