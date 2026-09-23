@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-23T11:19:05.747532",
-  "total_entries": 8577,
+  "exported_at": "2026-09-23T15:23:07.479217",
+  "total_entries": 8579,
   "entries": [
     {
       "id": 2,
@@ -4147,6 +4147,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10656,
+      "username": "Yak package",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-23",
+      "timestamp_added": "2026-09-23 15:18:04",
+      "added_by": "1244046251012391053",
+      "reason": "Griefing as a wd",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -26749,6 +26764,21 @@
       "timestamp_added": "2026-06-29 21:56:10",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10657,
+      "username": "x pvp x",
+      "category": "Leak Accounts",
+      "date_added": "2026-09-23",
+      "timestamp_added": "2026-09-23 15:18:24",
+      "added_by": "1244046251012391053",
+      "reason": "leaking worlds",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
