@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-23T15:23:07.479217",
-  "total_entries": 8579,
+  "exported_at": "2026-09-23T19:03:30.546293",
+  "total_entries": 8581,
   "entries": [
     {
       "id": 2,
@@ -5658,6 +5658,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10659,
+      "username": "CovertRose4",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-23",
+      "timestamp_added": "2026-09-23 18:58:50",
+      "added_by": "1244046251012391053",
+      "reason": "whining & flaming",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 271,
       "username": "Co\u00a0n\u00a0no\u00a0r",
       "category": "Breaking General Rules",
@@ -6113,6 +6128,21 @@
       "removed_at": "2026-08-02 06:22:52",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 10658,
+      "username": "jusey1z",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-23",
+      "timestamp_added": "2026-09-23 18:58:28",
+      "added_by": "1244046251012391053",
+      "reason": "fragging without calling, wouldnt follow the taxi when asked. just said hes being chill and these are the only games around. but he wouldnt listen. just kept fragging.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 278,
