@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-23T19:03:30.546293",
-  "total_entries": 8581,
+  "exported_at": "2026-09-23T20:12:10.660510",
+  "total_entries": 8582,
   "entries": [
     {
       "id": 2,
@@ -2168,6 +2168,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10660,
+      "username": "Jungle99",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-23",
+      "timestamp_added": "2026-09-23 20:07:08",
+      "added_by": "1244046251012391053",
+      "reason": "Came to crash with Timo GoHard & misfits",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
