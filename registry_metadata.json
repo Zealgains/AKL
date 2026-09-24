@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-23T20:12:10.660510",
-  "total_entries": 8582,
+  "exported_at": "2026-09-24T03:53:49.063514",
+  "total_entries": 8584,
   "entries": [
     {
       "id": 2,
@@ -12415,6 +12415,28 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10661,
+      "username": "firecapesss",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-09-24",
+      "timestamp_added": "2026-09-24 03:48:46",
+      "added_by": "412117490424872971",
+      "reason": "fragging without calling and not admitting fault",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/firecapesss/firecapesss_20260924_034846.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-09-24 03:48:46",
+          "filename": "firecapesss_20260924_034846.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 893,
       "username": "fr0znsolid",
       "category": "Fragging Without Calling",
@@ -22310,6 +22332,21 @@
       "reason": "In Zezima CC while Honestly Nvm is crashing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10662,
+      "username": "lava drip",
+      "category": "Leak Accounts",
+      "date_added": "2026-09-24",
+      "timestamp_added": "2026-09-24 03:49:29",
+      "added_by": "412117490424872971",
+      "reason": "leak account for firecapesss",
+      "is_dupe": false,
+      "alt_of": "firecapesss",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
