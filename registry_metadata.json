@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-24T03:53:49.063514",
-  "total_entries": 8584,
+  "exported_at": "2026-09-24T04:34:40.359996",
+  "total_entries": 8585,
   "entries": [
     {
       "id": 2,
@@ -492,6 +492,21 @@
           "filename": "bambamhoo_20260627_153357.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10663,
+      "username": "BelIsASI",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-24",
+      "timestamp_added": "2026-09-24 04:29:37",
+      "added_by": "412117490424872971",
+      "reason": "attacking rank",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
