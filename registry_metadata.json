@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-24T04:34:40.359996",
-  "total_entries": 8585,
+  "exported_at": "2026-09-24T14:28:15.833157",
+  "total_entries": 8586,
   "entries": [
     {
       "id": 2,
@@ -12287,6 +12287,21 @@
       "timestamp_added": "2026-07-28 09:51:28",
       "added_by": "248898439474184192",
       "reason": "Fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10664,
+      "username": "Breakonesay",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-09-24",
+      "timestamp_added": "2026-09-24 14:23:12",
+      "added_by": "1244046251012391053",
+      "reason": "Fragging without calling, given multiple warnings",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
