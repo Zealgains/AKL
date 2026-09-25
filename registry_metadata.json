@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-24T14:28:15.833157",
+  "exported_at": "2026-09-25T04:26:41.110187",
   "total_entries": 8586,
   "entries": [
     {
@@ -12462,9 +12462,9 @@
           "filename": "firecapesss_20260924_034846.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-09-25 04:21:38",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 893,
