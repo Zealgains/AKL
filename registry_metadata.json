@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-26T02:54:36.259752",
+  "exported_at": "2026-09-26T05:21:17.644683",
   "total_entries": 8594,
   "entries": [
     {
@@ -36543,7 +36543,14 @@
       "reason": "toxic",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/manlet\u00a0craig/manlet\u00a0craig_20260926_051613.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-26 05:16:15",
+          "filename": "manlet\u00a0craig_20260926_051613.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
