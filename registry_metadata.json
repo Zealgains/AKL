@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-25T23:42:31.622125",
-  "total_entries": 8592,
+  "exported_at": "2026-09-26T00:21:43.893192",
+  "total_entries": 8593,
   "entries": [
     {
       "id": 2,
@@ -26684,6 +26684,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10671,
+      "username": "w 320 jack",
+      "category": "Leak Accounts",
+      "date_added": "2026-09-26",
+      "timestamp_added": "2026-09-26 00:16:41",
+      "added_by": "209956201377562624",
+      "reason": "w 320 fc , moist, crasher with misfits and others",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/w_320_jack/w_320_jack_20260926_001905.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-09-26 00:19:08",
+          "filename": "w_320_jack_20260926_001905.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
