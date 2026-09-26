@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-26T05:21:17.644683",
-  "total_entries": 8594,
+  "exported_at": "2026-09-26T15:49:05.286227",
+  "total_entries": 8595,
   "entries": [
     {
       "id": 2,
@@ -35979,6 +35979,21 @@
       "timestamp_added": "2026-08-30 22:44:19",
       "added_by": "412117490424872971",
       "reason": "lurking on world 302 not showing up to games even though he was actively talking with us. Would not answer who told him to ask for discord or join our chat",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10673,
+      "username": "dhamboorger",
+      "category": "Other",
+      "date_added": "2026-09-26",
+      "timestamp_added": "2026-09-26 15:44:02",
+      "added_by": "209956201377562624",
+      "reason": "threatening to crash being a idiot",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
