@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-28T17:05:54.334532",
-  "total_entries": 8627,
+  "exported_at": "2026-09-28T19:55:45.054410",
+  "total_entries": 8628,
   "entries": [
     {
       "id": 2,
@@ -295,6 +295,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Attacking cc with comboed.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10706,
+      "username": "AFFBuds",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-28",
+      "timestamp_added": "2026-09-28 19:50:41",
+      "added_by": "412117490424872971",
+      "reason": "Attacking anti",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
