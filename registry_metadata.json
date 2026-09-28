@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-28T01:55:21.976560",
-  "total_entries": 8626,
+  "exported_at": "2026-09-28T17:05:54.334532",
+  "total_entries": 8627,
   "entries": [
     {
       "id": 2,
@@ -190,6 +190,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Attacking taxi at start of game - crasher",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10705,
+      "username": "4 i l",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-28",
+      "timestamp_added": "2026-09-28 17:00:51",
+      "added_by": "412117490424872971",
+      "reason": "attacking anti-pkers as well as other infractions, check reports",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
