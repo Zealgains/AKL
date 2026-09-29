@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-29T01:00:20.813145",
-  "total_entries": 8629,
+  "exported_at": "2026-09-29T15:47:52.076976",
+  "total_entries": 8630,
   "entries": [
     {
       "id": 2,
@@ -6238,6 +6238,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10708,
+      "username": "J MOSAFER J",
+      "category": "Breaking General Rules",
+      "date_added": "2026-09-29",
+      "timestamp_added": "2026-09-29 15:42:49",
+      "added_by": "265288179052052480",
+      "reason": "griefing, fake taxi, fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/j_mosafer_j/j_mosafer_j_20260929_154423.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-09-29 15:44:25",
+          "filename": "j_mosafer_j_20260929_154423.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
