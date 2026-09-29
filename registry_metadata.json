@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-09-28T19:55:45.054410",
-  "total_entries": 8628,
+  "exported_at": "2026-09-29T01:00:20.813145",
+  "total_entries": 8629,
   "entries": [
     {
       "id": 2,
@@ -145,6 +145,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "refusing to join cc and actively crashing games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10707,
+      "username": "1ticdic",
+      "category": "Attacking cc Members",
+      "date_added": "2026-09-29",
+      "timestamp_added": "2026-09-29 00:55:18",
+      "added_by": "412117490424872971",
+      "reason": "attacking cc and actively trying to grief games",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
