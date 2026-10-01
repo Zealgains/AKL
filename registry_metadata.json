@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-01T00:39:27.742074",
-  "total_entries": 8630,
+  "exported_at": "2026-10-01T15:43:05.012671",
+  "total_entries": 8631,
   "entries": [
     {
       "id": 2,
@@ -418,6 +418,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10709,
+      "username": "At0s",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-01",
+      "timestamp_added": "2026-10-01 15:38:01",
+      "added_by": "265288179052052480",
+      "reason": "crasher, with the rest of world 320 people unsure of clan",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/at0s/at0s_20261001_153830.jpg",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-10-01 15:38:32",
+          "filename": "at0s_20261001_153830.jpg"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
