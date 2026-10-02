@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-02T17:46:34.889197",
-  "total_entries": 8634,
+  "exported_at": "2026-10-02T18:54:26.657480",
+  "total_entries": 8635,
   "entries": [
     {
       "id": 2,
@@ -77165,6 +77165,21 @@
       "reason": "No reason provided.",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10713,
+      "username": "GGFG",
+      "category": "SW AND CHILL / Thee Misfits",
+      "date_added": "2026-10-02",
+      "timestamp_added": "2026-10-02 18:49:23",
+      "added_by": "412117490424872971",
+      "reason": "Thee Misfits' alt",
+      "is_dupe": false,
+      "alt_of": "Thee Misfits",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
