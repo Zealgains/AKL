@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-01T15:43:05.012671",
-  "total_entries": 8631,
+  "exported_at": "2026-10-02T03:42:51.647543",
+  "total_entries": 8632,
   "entries": [
     {
       "id": 2,
@@ -36712,6 +36712,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Crashing with Misfits",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10710,
+      "username": "n0i5y",
+      "category": "Other",
+      "date_added": "2026-10-02",
+      "timestamp_added": "2026-10-02 03:37:48",
+      "added_by": "412117490424872971",
+      "reason": "Stepping out to taxi then getting people dc'ed with no response",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
