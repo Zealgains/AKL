@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-02T03:42:51.647543",
-  "total_entries": 8632,
+  "exported_at": "2026-10-02T15:30:10.365204",
+  "total_entries": 8633,
   "entries": [
     {
       "id": 2,
@@ -2238,6 +2238,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10711,
+      "username": "Jr G0tchaa",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-02",
+      "timestamp_added": "2026-10-02 15:26:35",
+      "added_by": "412117490424872971",
+      "reason": "attacking cc members and actively griefing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/jr_g0tchaa/jr_g0tchaa_20261002_152635.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-02 15:26:35",
+          "filename": "jr_g0tchaa_20261002_152635.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -68819,7 +68841,14 @@
       "reason": "No reason provided.",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/single_fln/single_fln_20261002_152505.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-02 15:25:07",
+          "filename": "single_fln_20261002_152505.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
