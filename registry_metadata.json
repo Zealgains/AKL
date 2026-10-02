@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-02T15:30:10.365204",
-  "total_entries": 8633,
+  "exported_at": "2026-10-02T17:46:34.889197",
+  "total_entries": 8634,
   "entries": [
     {
       "id": 2,
@@ -13190,6 +13190,21 @@
       "removed_at": "2026-07-24 02:05:03",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 10712,
+      "username": "Skank Hunt34",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-10-02",
+      "timestamp_added": "2026-10-02 17:41:31",
+      "added_by": "412117490424872971",
+      "reason": "Fragging without calling and ending game early",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 912,
