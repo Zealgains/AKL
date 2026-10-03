@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-03T11:40:23.846256",
-  "total_entries": 8637,
+  "exported_at": "2026-10-03T23:31:20.172033",
+  "total_entries": 8638,
   "entries": [
     {
       "id": 2,
@@ -36720,6 +36720,34 @@
           "uploaded_by": "209956201377562624",
           "uploaded_at": "2026-09-26 05:16:15",
           "filename": "manlet\u00a0craig_20260926_051613.png"
+        },
+        {
+          "path": "evidence/manlet\u00a0craig/manlet\u00a0craig_20261003_232658.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-03 23:26:59",
+          "filename": "manlet\u00a0craig_20261003_232658.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10716,
+      "username": "Manlet\u00a0Iron",
+      "category": "Other",
+      "date_added": "2026-10-03",
+      "timestamp_added": "2026-10-03 23:26:23",
+      "added_by": "412117490424872971",
+      "reason": "toxic hate speech",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/manlet\u00a0iron/manlet\u00a0iron_20261003_232642.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-03 23:26:43",
+          "filename": "manlet\u00a0iron_20261003_232642.png"
         }
       ],
       "removed_at": null,
@@ -92031,9 +92059,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-03 23:26:17",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 10359,
