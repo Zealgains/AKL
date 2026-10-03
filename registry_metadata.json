@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-03T01:29:15.167088",
-  "total_entries": 8636,
+  "exported_at": "2026-10-03T11:40:23.846256",
+  "total_entries": 8637,
   "entries": [
     {
       "id": 2,
@@ -3561,6 +3561,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10715,
+      "username": "see9r",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-03",
+      "timestamp_added": "2026-10-03 11:35:21",
+      "added_by": "1244046251012391053",
+      "reason": "killing souls without calling, not responding, speccing ranks when camped",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
