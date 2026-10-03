@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-02T20:08:00.343470",
-  "total_entries": 8635,
+  "exported_at": "2026-10-03T01:29:15.167088",
+  "total_entries": 8636,
   "entries": [
     {
       "id": 2,
@@ -27788,6 +27788,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "off world lurking in cc, no response multiple times",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10714,
+      "username": "Gum in Me",
+      "category": "Lurking / Zeal Inactivity",
+      "date_added": "2026-10-03",
+      "timestamp_added": "2026-10-03 01:24:12",
+      "added_by": "412117490424872971",
+      "reason": "Lurking in chat off world multiple times no response",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
