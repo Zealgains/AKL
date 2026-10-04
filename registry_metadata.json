@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-03T23:31:20.172033",
-  "total_entries": 8638,
+  "exported_at": "2026-10-04T16:10:42.001651",
+  "total_entries": 8643,
   "entries": [
     {
       "id": 2,
@@ -2340,6 +2340,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10722,
+      "username": "karoliine",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-04",
+      "timestamp_added": "2026-10-04 16:08:18",
+      "added_by": "412117490424872971",
+      "reason": "killing fc members/griefing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 117,
       "username": "key rogue",
       "category": "Attacking cc Members",
@@ -2515,6 +2530,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10718,
+      "username": "lietuvismax",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-04",
+      "timestamp_added": "2026-10-04 16:05:44",
+      "added_by": "412117490424872971",
+      "reason": "killing anti",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/lietuvismax/lietuvismax_20261004_160707.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-04 16:07:09",
+          "filename": "lietuvismax_20261004_160707.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -4089,6 +4126,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10717,
+      "username": "unbetabien",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-04",
+      "timestamp_added": "2026-10-04 16:05:39",
+      "added_by": "412117490424872971",
+      "reason": "crashing/fragging w/o calling/pking",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/unbetabien/unbetabien_20261004_160622.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-04 16:06:25",
+          "filename": "unbetabien_20261004_160622.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -23114,6 +23173,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10720,
+      "username": "mayuri",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-04",
+      "timestamp_added": "2026-10-04 16:07:42",
+      "added_by": "412117490424872971",
+      "reason": "leaking",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 7130,
       "username": "MegaMarkian",
       "category": "Leak Accounts",
@@ -27234,6 +27308,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10721,
+      "username": "YC3",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-04",
+      "timestamp_added": "2026-10-04 16:07:49",
+      "added_by": "412117490424872971",
+      "reason": "leaking worlds",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
