@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-04T16:17:30.204711",
+  "exported_at": "2026-10-04T16:50:58.329871",
   "total_entries": 8652,
   "entries": [
     {
@@ -2552,9 +2552,9 @@
           "filename": "lietuvismax_20261004_160707.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-04 16:45:55",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 126,
