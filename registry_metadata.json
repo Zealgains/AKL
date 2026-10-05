@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-04T23:37:30.816961",
-  "total_entries": 8653,
+  "exported_at": "2026-10-05T15:15:38.530193",
+  "total_entries": 8654,
   "entries": [
     {
       "id": 2,
@@ -4250,6 +4250,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Crashing intentional",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10733,
+      "username": "VoxelMD",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-05",
+      "timestamp_added": "2026-10-05 15:10:34",
+      "added_by": "412117490424872971",
+      "reason": "Attacking ranks and anti-pkers",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
