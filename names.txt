@@ -266,6 +266,7 @@ useful tips, (Added: 2026-04-14), <-- reason: Attacking ranks while Rush Yo Ava 
 verabellia, (Added: 2026-07-05), <-- reason: crashing,
 victimlzer, (Added: 2026-05-11), <-- reason: crashing,
 vowrrimin, (Added: 2026-02-15), <-- reason: Crashing intentional,
+VoxelMD, (Added: 2026-10-05), <-- reason: Attacking ranks and anti-pkers,
 w 320o, (Added: 2026-04-05), <-- reason: Attacking CC members at avatar for 3 games. No response.,
 wheresgoogle, (Added: Unknown Date), <-- reason: *attacking and crashing taxi games*.,
 whorrific, (Added: 2026-06-15), <-- reason: fragging w.o calling and pking,
