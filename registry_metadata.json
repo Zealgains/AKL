@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-06T14:02:23.873829",
-  "total_entries": 8657,
+  "exported_at": "2026-10-06T17:22:31.765512",
+  "total_entries": 8658,
   "entries": [
     {
       "id": 2,
@@ -6128,6 +6128,21 @@
       "timestamp_added": "2026-07-31 04:52:23",
       "added_by": "209956201377562624",
       "reason": "Dumped without calling. Multiple warnings over the course of 12 hours.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10737,
+      "username": "gay a yn",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-06",
+      "timestamp_added": "2026-10-06 17:17:29",
+      "added_by": "1244046251012391053",
+      "reason": "flaming people in friendchat with rsn",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
