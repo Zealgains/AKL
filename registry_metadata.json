@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-06T00:27:06.676960",
+  "exported_at": "2026-10-06T03:21:09.244303",
   "total_entries": 8655,
   "entries": [
     {
@@ -27842,9 +27842,9 @@
           "filename": "demon_fiesta_20261006_002203.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-06 03:16:06",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 1140,
