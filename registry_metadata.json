@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-06T03:46:21.365718",
-  "total_entries": 8656,
+  "exported_at": "2026-10-06T14:02:23.873829",
+  "total_entries": 8657,
   "entries": [
     {
       "id": 2,
@@ -28011,6 +28011,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10736,
+      "username": "JinkingStews",
+      "category": "Lurking / Zeal Inactivity",
+      "date_added": "2026-10-06",
+      "timestamp_added": "2026-10-06 13:57:20",
+      "added_by": "412117490424872971",
+      "reason": "offensive name and lurking in world 302",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
