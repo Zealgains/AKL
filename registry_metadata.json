@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-05T18:55:45.682313",
-  "total_entries": 8654,
+  "exported_at": "2026-10-06T00:27:06.676960",
+  "total_entries": 8655,
   "entries": [
     {
       "id": 2,
@@ -27820,6 +27820,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10734,
+      "username": "Demon Fiesta",
+      "category": "Lurking / Zeal Inactivity",
+      "date_added": "2026-10-06",
+      "timestamp_added": "2026-10-06 00:22:04",
+      "added_by": "412117490424872971",
+      "reason": "Lurking in cc at lumbridge spawn",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/demon_fiesta/demon_fiesta_20261006_002203.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-06 00:22:04",
+          "filename": "demon_fiesta_20261006_002203.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
