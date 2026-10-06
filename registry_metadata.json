@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-06T03:21:09.244303",
-  "total_entries": 8655,
+  "exported_at": "2026-10-06T03:46:21.365718",
+  "total_entries": 8656,
   "entries": [
     {
       "id": 2,
@@ -21713,6 +21713,28 @@
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
+    },
+    {
+      "id": 10735,
+      "username": "iL i t",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-06",
+      "timestamp_added": "2026-10-06 03:41:18",
+      "added_by": "412117490424872971",
+      "reason": "joining and leaving cc quickly on f2p world",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/il_i_t/il_i_t_20261006_034118.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-06 03:41:18",
+          "filename": "il_i_t_20261006_034118.png"
+        }
+      ],
+      "removed_at": "2026-10-06 03:42:11",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 7080,
