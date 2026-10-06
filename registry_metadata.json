@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-06T17:22:31.765512",
-  "total_entries": 8658,
+  "exported_at": "2026-10-06T22:14:22.572079",
+  "total_entries": 8659,
   "entries": [
     {
       "id": 2,
@@ -27707,6 +27707,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10738,
+      "username": "AN AL RUSH",
+      "category": "Lurking / Zeal Inactivity",
+      "date_added": "2026-10-06",
+      "timestamp_added": "2026-10-06 22:09:20",
+      "added_by": "265288179052052480",
+      "reason": "troll account",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/an_al_rush/an_al_rush_20261006_221001.webp",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-10-06 22:10:02",
+          "filename": "an_al_rush_20261006_221001.webp"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
