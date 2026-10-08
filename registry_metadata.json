@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-08T01:41:42.544198",
-  "total_entries": 8772,
+  "exported_at": "2026-10-08T18:27:09.356950",
+  "total_entries": 8773,
   "entries": [
     {
       "id": 2,
@@ -36263,6 +36263,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10852,
+      "username": "be poist1vee",
+      "category": "Other",
+      "date_added": "2026-10-08",
+      "timestamp_added": "2026-10-08 18:22:06",
+      "added_by": "412117490424872971",
+      "reason": "being an idiot",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/be_poist1vee/be_poist1vee_20261008_182240.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-08 18:22:43",
+          "filename": "be_poist1vee_20261008_182240.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
