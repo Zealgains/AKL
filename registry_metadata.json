@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-07T21:46:06.602533",
-  "total_entries": 8760,
+  "exported_at": "2026-10-08T01:01:06.530506",
+  "total_entries": 8761,
   "entries": [
     {
       "id": 2,
@@ -5606,6 +5606,21 @@
       "timestamp_added": "2026-08-08 04:40:13",
       "added_by": "412117490424872971",
       "reason": "running off to mid multiple times no response might be bot",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10840,
+      "username": "Thekin 28",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-10-08",
+      "timestamp_added": "2026-10-08 00:56:03",
+      "added_by": "412117490424872971",
+      "reason": "bot or gold farmer",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
