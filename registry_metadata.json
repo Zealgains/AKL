@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-08T18:27:09.356950",
-  "total_entries": 8773,
+  "exported_at": "2026-10-09T01:37:36.759345",
+  "total_entries": 8774,
   "entries": [
     {
       "id": 2,
@@ -26888,6 +26888,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10853,
+      "username": "verloren 32o",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-09",
+      "timestamp_added": "2026-10-09 01:32:33",
+      "added_by": "1244046251012391053",
+      "reason": "suspected leak account, they joined and left and the way out showed up",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
