@@ -1970,6 +1970,7 @@ US Ice, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is cras
 Uube, (Added: 2026-08-27), <-- reason: Leaking world to griefer,
 Vainz13, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 VanillaCream, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
+verloren 32o, (Added: 2026-10-09), <-- reason: suspected leak account, they joined and left and the way out showed up,
 Vince, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Violent Age, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 ViolentTango, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
