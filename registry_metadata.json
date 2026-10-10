@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-09T18:43:33.010996",
-  "total_entries": 8910,
+  "exported_at": "2026-10-10T11:21:34.531327",
+  "total_entries": 8912,
   "entries": [
     {
       "id": 2,
@@ -20134,6 +20134,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 10991,
+      "username": "dr gu y",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-10",
+      "timestamp_added": "2026-10-10 11:16:38",
+      "added_by": "1244046251012391053",
+      "reason": "4kc olmlet alt",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 8727,
       "username": "DrAbernathy",
       "category": "Leak Accounts",
@@ -36155,6 +36170,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "<-- barraging fc multiple times over multiple days",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10990,
+      "username": "4kc olmet",
+      "category": "Other",
+      "date_added": "2026-10-10",
+      "timestamp_added": "2026-10-10 11:16:32",
+      "added_by": "1244046251012391053",
+      "reason": "staying in cc while at games (using alts to find new worlds)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
