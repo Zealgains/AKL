@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-11T01:34:17.038939",
-  "total_entries": 8912,
+  "exported_at": "2026-10-12T09:36:11.207088",
+  "total_entries": 8913,
   "entries": [
     {
       "id": 2,
@@ -5257,6 +5257,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10992,
+      "username": "kusss abok",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-10-12",
+      "timestamp_added": "2026-10-12 09:31:08",
+      "added_by": "265288179052052480",
+      "reason": "not join fc/attacking back/ possible bot",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/kusss_abok/kusss_abok_20261012_093237.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-10-12 09:32:40",
+          "filename": "kusss_abok_20261012_093237.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
