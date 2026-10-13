@@ -1919,6 +1919,7 @@ StepSisHelp, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is
 STON3DNBROKE, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Stowlen, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 StrangeDole, (Added: 2026-05-07), <-- reason: zealseal leak account [Alt of: ZealSeal] [Proof: evidence/sea_of_zeal/sea_of_zeal_20260507_184337.png],
+Subarus, (Added: 2026-10-13), <-- reason: Possible Leak account for zealgainss, can appeal if they join discord [Proof: evidence/subarus/subarus_20261013_225935.png],
 SubscribeTCN, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 suckmynugg, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Suikertuin, (Added: 2026-05-10), <-- reason: leaking world while crashers present,
