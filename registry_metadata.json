@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-12T09:36:11.207088",
-  "total_entries": 8913,
+  "exported_at": "2026-10-13T23:04:38.520736",
+  "total_entries": 8914,
   "entries": [
     {
       "id": 2,
@@ -26118,6 +26118,28 @@
       "is_dupe": false,
       "alt_of": "ZealSeal",
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10993,
+      "username": "Subarus",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-13",
+      "timestamp_added": "2026-10-13 22:59:35",
+      "added_by": "412117490424872971",
+      "reason": "Possible Leak account for zealgainss, can appeal if they join discord",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/subarus/subarus_20261013_225935.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-10-13 22:59:35",
+          "filename": "subarus_20261013_225935.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
