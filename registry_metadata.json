@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T07:54:07.742540",
-  "total_entries": 8915,
+  "exported_at": "2026-10-14T21:50:24.057068",
+  "total_entries": 8917,
   "entries": [
     {
       "id": 2,
@@ -4093,6 +4093,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crashing with misfits",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10996,
+      "username": "tzhaar sket",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-14",
+      "timestamp_added": "2026-10-14 21:45:42",
+      "added_by": "265288179052052480",
+      "reason": "Crashing multiple games, fake taxi",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -26792,6 +26807,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10995,
+      "username": "tzhaargai",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-14",
+      "timestamp_added": "2026-10-14 21:45:21",
+      "added_by": "265288179052052480",
+      "reason": "alt of tzhaar sket, crashing multiple games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/tzhaargai/tzhaargai_20261014_214748.jpg",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-10-14 21:47:51",
+          "filename": "tzhaargai_20261014_214748.jpg"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
