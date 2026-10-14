@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-14T00:56:44.090573",
-  "total_entries": 8914,
+  "exported_at": "2026-10-14T07:54:07.742540",
+  "total_entries": 8915,
   "entries": [
     {
       "id": 2,
@@ -5122,6 +5122,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 10994,
+      "username": "j hope asa",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-10-14",
+      "timestamp_added": "2026-10-14 07:49:04",
+      "added_by": "209956201377562624",
+      "reason": "fragging/farmer/not following rules",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/j_hope_asa/j_hope_asa_20261014_074937.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-14 07:49:40",
+          "filename": "j_hope_asa_20261014_074937.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
