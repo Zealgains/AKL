@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-15T19:55:22.780976",
-  "total_entries": 8922,
+  "exported_at": "2026-10-15T20:10:57.884157",
+  "total_entries": 8923,
   "entries": [
     {
       "id": 2,
@@ -1620,6 +1620,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Attacking fc / bot / gold farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11002,
+      "username": "HankRigden",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-15",
+      "timestamp_added": "2026-10-15 20:05:54",
+      "added_by": "209956201377562624",
+      "reason": "attk cc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
