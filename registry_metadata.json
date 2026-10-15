@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-15T21:48:19.345914",
-  "total_entries": 8924,
+  "exported_at": "2026-10-15T22:01:34.096728",
+  "total_entries": 8925,
   "entries": [
     {
       "id": 2,
@@ -10396,6 +10396,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11004,
+      "username": "Freddiie",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-10-15",
+      "timestamp_added": "2026-10-15 22:00:55",
+      "added_by": "209956201377562624",
+      "reason": "Invited by \"Mog time\" without being in disc, continued to give extreme disrespect to allie and other ranks, i stepped in and he continued.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/freddiie/freddiie_20261015_220055.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-15 22:00:55",
+          "filename": "freddiie_20261015_220055.png"
+        },
+        {
+          "path": "evidence/freddiie/freddiie_20261015_220122.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-15 22:01:24",
+          "filename": "freddiie_20261015_220122.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -123416,11 +123444,17 @@
           "uploaded_by": "209956201377562624",
           "uploaded_at": "2026-10-15 21:43:16",
           "filename": "freddiiee_20261015_214315.png"
+        },
+        {
+          "path": "evidence/freddiiee/freddiiee_20261015_215628.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-15 21:56:30",
+          "filename": "freddiiee_20261015_215628.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-15 21:59:27",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 722,
