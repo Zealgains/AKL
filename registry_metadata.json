@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-15T20:10:57.884157",
-  "total_entries": 8923,
+  "exported_at": "2026-10-15T21:48:19.345914",
+  "total_entries": 8924,
   "entries": [
     {
       "id": 2,
@@ -123396,6 +123396,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11003,
+      "username": "Freddiiee",
+      "category": "dismantle cc",
+      "date_added": "2026-10-15",
+      "timestamp_added": "2026-10-15 21:43:16",
+      "added_by": "209956201377562624",
+      "reason": "Not in disc, joining private games and refusing to tell us who invited him, continued to be a dick",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/freddiiee/freddiiee_20261015_214315.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-15 21:43:16",
+          "filename": "freddiiee_20261015_214315.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
