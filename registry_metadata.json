@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-16T17:44:29.892886",
-  "total_entries": 8994,
+  "exported_at": "2026-10-16T17:52:48.755625",
+  "total_entries": 8995,
   "entries": [
     {
       "id": 2,
@@ -7003,6 +7003,21 @@
           "filename": "rat_club_20260903_021201.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11074,
+      "username": "RengokusFire",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-16",
+      "timestamp_added": "2026-10-16 17:47:45",
+      "added_by": "412117490424872971",
+      "reason": "general rule breaking, threats to crash",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
