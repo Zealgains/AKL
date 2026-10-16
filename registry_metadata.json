@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-16T19:53:42.585663",
-  "total_entries": 8996,
+  "exported_at": "2026-10-16T20:03:22.461210",
+  "total_entries": 8997,
   "entries": [
     {
       "id": 2,
@@ -22023,6 +22023,21 @@
       "removed_at": "2026-10-06 03:42:11",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 11076,
+      "username": "IM freddiie",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-16",
+      "timestamp_added": "2026-10-16 19:58:19",
+      "added_by": "265288179052052480",
+      "reason": "Alt of Freddiie",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7080,
