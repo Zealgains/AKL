@@ -6824,6 +6824,7 @@ zwug, (Added: 2026-03-22), <-- reason: lts a main \ lts a pure - crashing cc - e
 --Category(The Ham Clan)end--,
 
 --Category(Trolling in FC)start--,
+0nchein, (Added: 2026-10-16), <-- reason: Capping graves to let out crashers,
 2quickbun, (Added: 2026-02-28), <-- reason: flaming ranks,
 51x-5even, (Added: 2026-09-12), <-- reason: griefing,
 again drigoo, (Added: Unknown Date), <-- reason: No reason provided.,
