@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-15T22:01:34.096728",
-  "total_entries": 8925,
+  "exported_at": "2026-10-16T00:31:26.202157",
+  "total_entries": 8926,
   "entries": [
     {
       "id": 2,
@@ -99301,6 +99301,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "lts a main \\ lts a pure - crashing cc - entire clan banned",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11005,
+      "username": "0nchein",
+      "category": "Trolling in FC",
+      "date_added": "2026-10-16",
+      "timestamp_added": "2026-10-16 00:26:23",
+      "added_by": "209956201377562624",
+      "reason": "Capping graves to let out crashers",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
