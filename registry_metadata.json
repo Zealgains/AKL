@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-16T20:03:22.461210",
+  "exported_at": "2026-10-16T20:34:48.465916",
   "total_entries": 8997,
   "entries": [
     {
@@ -10439,9 +10439,9 @@
           "filename": "freddiie_20261015_220122.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-16 20:30:02",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 870,
@@ -22035,9 +22035,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-16 20:29:45",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 7080,
