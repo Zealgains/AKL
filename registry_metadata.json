@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-16T17:52:48.755625",
-  "total_entries": 8995,
+  "exported_at": "2026-10-16T19:53:42.585663",
+  "total_entries": 8996,
   "entries": [
     {
       "id": 2,
@@ -10647,6 +10647,28 @@
       "removed_at": "2026-06-27 23:37:58",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 11075,
+      "username": "Nathan A",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-10-16",
+      "timestamp_added": "2026-10-16 19:48:39",
+      "added_by": "209956201377562624",
+      "reason": "Continued to be a bitch in ticket",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/nathan_a/nathan_a_20261016_194839.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-16 19:48:39",
+          "filename": "nathan_a_20261016_194839.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 8822,
