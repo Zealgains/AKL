@@ -1562,7 +1562,6 @@ deetss, (Added: 2026-03-22), <-- reason: leaking world to Lts a main from 320 [P
 Demonic Skin, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 DeoSitGloria, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 DeviousMonk, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
-Diebels, (Added: 2026-10-16), <-- reason: Friendly with and leaking to O C T [Proof: evidence/diebels/diebels_20261016_170646.png],
 Died By Bear, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 DiegoVirrey, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 digitalgulag, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
