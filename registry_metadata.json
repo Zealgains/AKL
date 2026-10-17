@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-17T12:33:35.425869",
+  "exported_at": "2026-10-17T19:45:46.247417",
   "total_entries": 8998,
   "entries": [
     {
@@ -20200,9 +20200,9 @@
           "filename": "diebels_20261016_170646.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-17 19:40:43",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 7117,
