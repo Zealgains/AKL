@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-18T03:28:51.037278",
-  "total_entries": 9190,
+  "exported_at": "2026-10-18T15:31:24.153786",
+  "total_entries": 9193,
   "entries": [
     {
       "id": 2,
@@ -1117,6 +1117,21 @@
       "removed_at": "2026-08-20 01:35:07",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 11272,
+      "username": "D0p3b0ym4g1c",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-18",
+      "timestamp_added": "2026-10-18 15:26:26",
+      "added_by": "412117490424872971",
+      "reason": "killing fc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 8846,
@@ -3014,6 +3029,21 @@
       "timestamp_added": "2026-07-05 15:18:16",
       "added_by": "412117490424872971",
       "reason": "crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11271,
+      "username": "nosweatrng",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-18",
+      "timestamp_added": "2026-10-18 15:26:21",
+      "added_by": "412117490424872971",
+      "reason": "attk cc , no responds",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -6524,6 +6554,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "griefing games w/ davilex",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11273,
+      "username": "iron kuldiga",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-18",
+      "timestamp_added": "2026-10-18 15:26:40",
+      "added_by": "412117490424872971",
+      "reason": "run off to ava before taxi,, try to dump at obby without calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
