@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-18T16:34:15.129887",
-  "total_entries": 9193,
+  "exported_at": "2026-10-18T17:40:48.811812",
+  "total_entries": 9194,
   "entries": [
     {
       "id": 2,
@@ -13598,6 +13598,21 @@
           "filename": "negorito_20260727_002045.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11274,
+      "username": "Nice UlM",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-10-18",
+      "timestamp_added": "2026-10-18 17:35:46",
+      "added_by": "209956201377562624",
+      "reason": "Disrespecting literally everyone who talked to him about his attitude",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
