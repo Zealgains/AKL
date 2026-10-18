@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-18T18:28:33.447477",
-  "total_entries": 9194,
+  "exported_at": "2026-10-18T23:50:58.661054",
+  "total_entries": 9195,
   "entries": [
     {
       "id": 2,
@@ -13703,6 +13703,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11275,
+      "username": "X0PHOROS",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-10-18",
+      "timestamp_added": "2026-10-18 23:45:55",
+      "added_by": "209956201377562624",
+      "reason": "Disrespecting nex and attacking people after, piss ant DO NOT UNBAN",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/x0phoros/x0phoros_20261018_234811.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-18 23:48:13",
+          "filename": "x0phoros_20261018_234811.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
