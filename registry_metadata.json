@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-18T01:33:50.715342",
-  "total_entries": 9188,
+  "exported_at": "2026-10-18T03:28:51.037278",
+  "total_entries": 9190,
   "entries": [
     {
       "id": 2,
@@ -26311,6 +26311,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11270,
+      "username": "Malikiron",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-18",
+      "timestamp_added": "2026-10-18 03:24:47",
+      "added_by": "412117490424872971",
+      "reason": "ran to ava early with xcornxholiox and caused DD to screw up, might be leak accounts for O C T or Tzhaar Sket",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 8368,
       "username": "Malshash",
       "category": "Leak Accounts",
@@ -30512,6 +30527,21 @@
       "timestamp_added": "2026-09-23 15:18:24",
       "added_by": "1244046251012391053",
       "reason": "leaking worlds",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11269,
+      "username": "xcornxholiox",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-18",
+      "timestamp_added": "2026-10-18 03:23:48",
+      "added_by": "412117490424872971",
+      "reason": "ran to ava early with MalikIron and caused DD to screw up, might be leak accounts for O C T or Tzhaar Sket",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
