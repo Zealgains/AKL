@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-18T17:40:48.811812",
+  "exported_at": "2026-10-18T18:28:33.447477",
   "total_entries": 9194,
   "entries": [
     {
@@ -13576,9 +13576,9 @@
           "filename": "nathan_a_20261016_194839.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-18 18:23:30",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 8822,
