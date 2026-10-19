@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-18T23:50:58.661054",
-  "total_entries": 9195,
+  "exported_at": "2026-10-19T11:59:19.441035",
+  "total_entries": 9196,
   "entries": [
     {
       "id": 2,
@@ -7343,6 +7343,28 @@
       "removed_at": "2026-07-13 17:18:18",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 11276,
+      "username": "VCo Jsakes",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-19",
+      "timestamp_added": "2026-10-19 11:54:16",
+      "added_by": "265288179052052480",
+      "reason": "Fragging without calling multiple times, refusing to follow rules and not following instructions to stay out of games.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/vco_jsakes/vco_jsakes_20261019_115455.webp",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-10-19 11:54:56",
+          "filename": "vco_jsakes_20261019_115455.webp"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7192,
