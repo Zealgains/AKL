@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-19T11:59:19.441035",
+  "exported_at": "2026-10-19T19:40:16.021639",
   "total_entries": 9196,
   "entries": [
     {
@@ -3046,7 +3046,14 @@
       "reason": "attk cc , no responds",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/nosweatrng/nosweatrng_20261019_193511.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-19 19:35:13",
+          "filename": "nosweatrng_20261019_193511.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
