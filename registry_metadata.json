@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-20T02:44:28.967827",
-  "total_entries": 9196,
+  "exported_at": "2026-10-21T20:39:28.018309",
+  "total_entries": 9197,
   "entries": [
     {
       "id": 2,
@@ -13241,6 +13241,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11277,
+      "username": "Brain Cell 0",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-10-21",
+      "timestamp_added": "2026-10-21 20:34:24",
+      "added_by": "209956201377562624",
+      "reason": "Capped grave while zgss crashing, rude on being kicked",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/brain_cell_0/brain_cell_0_20261021_203435.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-21 20:34:37",
+          "filename": "brain_cell_0_20261021_203435.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
