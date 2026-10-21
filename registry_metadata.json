@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-21T20:39:28.018309",
-  "total_entries": 9197,
+  "exported_at": "2026-10-21T20:59:30.253096",
+  "total_entries": 9198,
   "entries": [
     {
       "id": 2,
@@ -4968,6 +4968,21 @@
       "timestamp_added": "2026-09-13 17:18:39",
       "added_by": "1244046251012391053",
       "reason": "asked to join cc multiple times, just ignored. we camped him and he wouldnt say anything just run back to ava, i think hes a bot.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11278,
+      "username": "cbtmgee",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-10-21",
+      "timestamp_added": "2026-10-21 20:54:27",
+      "added_by": "209956201377562624",
+      "reason": "immediately ran to mid, capped and went to opposite ava - not responding",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
