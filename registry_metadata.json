@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-23T17:25:44.376074",
-  "total_entries": 9200,
+  "exported_at": "2026-10-23T19:47:02.225399",
+  "total_entries": 9202,
   "entries": [
     {
       "id": 2,
@@ -1171,6 +1171,36 @@
       "timestamp_added": "2026-10-15 19:50:19",
       "added_by": "1244046251012391053",
       "reason": "attk cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11282,
+      "username": "Demon Fiesta",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-23",
+      "timestamp_added": "2026-10-23 19:42:36",
+      "added_by": "209956201377562624",
+      "reason": "Attacking anti - alt of Demon Party",
+      "is_dupe": false,
+      "alt_of": "Demon Party",
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11281,
+      "username": "demon party",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-23",
+      "timestamp_added": "2026-10-23 19:41:59",
+      "added_by": "209956201377562624",
+      "reason": "Attacking anti then having an attitude when corrected - then attacked ranks again after",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
