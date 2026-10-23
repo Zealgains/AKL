@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-23T07:52:13.626100",
-  "total_entries": 9199,
+  "exported_at": "2026-10-23T17:25:44.376074",
+  "total_entries": 9200,
   "entries": [
     {
       "id": 2,
@@ -6029,6 +6029,21 @@
       "timestamp_added": "2026-07-01 14:36:14",
       "added_by": "412117490424872971",
       "reason": "stepping out w.o being taxi, griefing at ava",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11280,
+      "username": "aircudrux",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-23",
+      "timestamp_added": "2026-10-23 17:20:41",
+      "added_by": "1244046251012391053",
+      "reason": "wont join cc when asked multiple times, just says its a mini game and not that serious.",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
