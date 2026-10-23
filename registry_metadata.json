@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-21T21:06:36.650451",
-  "total_entries": 9198,
+  "exported_at": "2026-10-23T07:52:13.626100",
+  "total_entries": 9199,
   "entries": [
     {
       "id": 2,
@@ -1309,6 +1309,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11279,
+      "username": "ez 60",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-23",
+      "timestamp_added": "2026-10-23 07:47:10",
+      "added_by": "265288179052052480",
+      "reason": "after being told about fragging calls and why he couldnt call b5 but we could call r5 he started killing and me  crashing games",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/ez_60/ez_60_20261023_074740.webp",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-10-23 07:47:42",
+          "filename": "ez_60_20261023_074740.webp"
+        },
+        {
+          "path": "evidence/ez_60/ez_60_20261023_074801.webp",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-10-23 07:48:02",
+          "filename": "ez_60_20261023_074801.webp"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
