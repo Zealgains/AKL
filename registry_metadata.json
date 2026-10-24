@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-24T11:48:05.006412",
-  "total_entries": 9205,
+  "exported_at": "2026-10-24T14:18:14.422255",
+  "total_entries": 9208,
   "entries": [
     {
       "id": 2,
@@ -2196,6 +2196,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11287,
+      "username": "Iron Kuldiga",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-24",
+      "timestamp_added": "2026-10-24 14:15:04",
+      "added_by": "1244046251012391053",
+      "reason": "attacking antis",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 106,
       "username": "Ironfudgecow",
       "category": "Attacking cc Members",
@@ -2870,6 +2885,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11288,
+      "username": "MaxxViolence",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-24",
+      "timestamp_added": "2026-10-24 14:16:45",
+      "added_by": "1244046251012391053",
+      "reason": "crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 136,
       "username": "Mayhabs",
       "category": "Attacking cc Members",
@@ -3072,6 +3102,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "*attacking and crashing taxi games*.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11286,
+      "username": "NBKRAT",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-24",
+      "timestamp_added": "2026-10-24 14:13:11",
+      "added_by": "1244046251012391053",
+      "reason": "crashing",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
