@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-23T19:47:02.225399",
-  "total_entries": 9202,
+  "exported_at": "2026-10-24T05:11:27.213278",
+  "total_entries": 9203,
   "entries": [
     {
       "id": 2,
@@ -6074,6 +6074,21 @@
       "timestamp_added": "2026-10-23 17:20:41",
       "added_by": "1244046251012391053",
       "reason": "wont join cc when asked multiple times, just says its a mini game and not that serious.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11283,
+      "username": "AxB 01",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-24",
+      "timestamp_added": "2026-10-24 05:06:24",
+      "added_by": "209956201377562624",
+      "reason": "Fragging without calling - Wont respond in chat",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
