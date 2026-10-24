@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-24T11:19:18.118861",
-  "total_entries": 9204,
+  "exported_at": "2026-10-24T11:48:05.006412",
+  "total_entries": 9205,
   "entries": [
     {
       "id": 2,
@@ -5842,6 +5842,21 @@
       "timestamp_added": "2026-08-02 00:23:55",
       "added_by": "412117490424872971",
       "reason": "Suspected bot account, not responding in chat to multiple star ranks when asked. Followed fc after we kicked and hopped.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11285,
+      "username": "Terrorfier",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-10-24",
+      "timestamp_added": "2026-10-24 11:43:02",
+      "added_by": "412117490424872971",
+      "reason": "bot farmer/owner",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
