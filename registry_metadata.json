@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-24T05:11:27.213278",
-  "total_entries": 9203,
+  "exported_at": "2026-10-24T11:19:18.118861",
+  "total_entries": 9204,
   "entries": [
     {
       "id": 2,
@@ -6749,6 +6749,21 @@
           "filename": "j_mosafer_j_20260929_154423.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11284,
+      "username": "japanikka",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-24",
+      "timestamp_added": "2026-10-24 11:14:15",
+      "added_by": "1244046251012391053",
+      "reason": "fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
