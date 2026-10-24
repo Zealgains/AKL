@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-24T23:21:08.158019",
-  "total_entries": 9209,
+  "exported_at": "2026-10-24T23:54:27.346365",
+  "total_entries": 9210,
   "entries": [
     {
       "id": 2,
@@ -102791,6 +102791,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11290,
+      "username": "EL\u00a0Mafakakak",
+      "category": "Trolling in FC",
+      "date_added": "2026-10-24",
+      "timestamp_added": "2026-10-24 23:49:24",
+      "added_by": "209956201377562624",
+      "reason": "Ran to mid and spec'd out the taxi intentionally, while saying \"sit\"",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
