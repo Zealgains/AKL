@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-26T05:59:14.477919",
+  "exported_at": "2026-10-26T15:01:16.633195",
   "total_entries": 9214,
   "entries": [
     {
@@ -108333,7 +108333,14 @@
       "reason": "in Zezima Clan chat while Zealgainss griefing",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/brltannla/brltannla_20261026_145611.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-10-26 14:56:13",
+          "filename": "brltannla_20261026_145611.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
