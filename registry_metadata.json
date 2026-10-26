@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-26T05:52:10.545885",
+  "exported_at": "2026-10-26T05:59:14.477919",
   "total_entries": 9214,
   "entries": [
     {
@@ -280,21 +280,6 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Attacking cc.",
-      "is_dupe": false,
-      "alt_of": null,
-      "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
-    },
-    {
-      "id": 11291,
-      "username": "A Vato Loco",
-      "category": "Attacking cc Members",
-      "date_added": "2026-10-26",
-      "timestamp_added": "2026-10-26 02:45:16",
-      "added_by": "209956201377562624",
-      "reason": "last rsn: C H E T  - Crasher on banlist for attacking cc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -1446,6 +1431,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11291,
+      "username": "FlDEL",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-26",
+      "timestamp_added": "2026-10-26 02:45:16",
+      "added_by": "209956201377562624",
+      "reason": "last rsn: C H E T - Crasher on banlist for attacking cc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -103301,6 +103301,12 @@
           "uploaded_by": "209956201377562624",
           "uploaded_at": "2026-10-26 05:47:08",
           "filename": "princevulva_20261026_054707.png"
+        },
+        {
+          "path": "evidence/princevulva/princevulva_20261026_055720.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-26 05:57:21",
+          "filename": "princevulva_20261026_055720.png"
         }
       ],
       "removed_at": null,
