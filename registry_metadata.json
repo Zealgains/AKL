@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-26T02:50:19.183286",
-  "total_entries": 9211,
+  "exported_at": "2026-10-26T05:52:10.545885",
+  "total_entries": 9214,
   "entries": [
     {
       "id": 2,
@@ -102649,6 +102649,28 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11293,
+      "username": "4038864092",
+      "category": "Trolling in FC",
+      "date_added": "2026-10-26",
+      "timestamp_added": "2026-10-26 05:47:51",
+      "added_by": "209956201377562624",
+      "reason": "Troll loser - do not unban",
+      "is_dupe": false,
+      "alt_of": "Princevulva",
+      "evidence": [
+        {
+          "path": "evidence/4038864092/4038864092_20261026_054750.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-26 05:47:51",
+          "filename": "4038864092_20261026_054750.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 10387,
       "username": "51x-5even",
       "category": "Trolling in FC",
@@ -102658,6 +102680,21 @@
       "reason": "griefing",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11294,
+      "username": "A Bike Thief",
+      "category": "Trolling in FC",
+      "date_added": "2026-10-26",
+      "timestamp_added": "2026-10-26 05:49:08",
+      "added_by": "209956201377562624",
+      "reason": "Troll in ge harassing Skill on alts",
+      "is_dupe": false,
+      "alt_of": "PrinceVulva",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
@@ -103244,6 +103281,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11292,
+      "username": "PrinceVulva",
+      "category": "Trolling in FC",
+      "date_added": "2026-10-26",
+      "timestamp_added": "2026-10-26 05:47:08",
+      "added_by": "209956201377562624",
+      "reason": "Comes up to me in ge to get my attention then a troll logs in, says a bunch of shit then they both log, fucking losers",
+      "is_dupe": false,
+      "alt_of": "3048864092",
+      "evidence": [
+        {
+          "path": "evidence/princevulva/princevulva_20261026_054707.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-26 05:47:08",
+          "filename": "princevulva_20261026_054707.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
