@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-26T15:01:16.633195",
-  "total_entries": 9214,
+  "exported_at": "2026-10-26T21:48:43.573743",
+  "total_entries": 9215,
   "entries": [
     {
       "id": 2,
@@ -13783,6 +13783,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11295,
+      "username": "MP3O",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-10-26",
+      "timestamp_added": "2026-10-26 21:43:40",
+      "added_by": "209956201377562624",
+      "reason": "Stepping out when not taxi - then being rude to everyone who corrected him including telling me to stfu",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/mp3o/mp3o_20261026_214340.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-26 21:43:40",
+          "filename": "mp3o_20261026_214340.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
