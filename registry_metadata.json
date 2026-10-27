@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-26T21:48:43.573743",
-  "total_entries": 9215,
+  "exported_at": "2026-10-27T21:15:23.863540",
+  "total_entries": 9217,
   "entries": [
     {
       "id": 2,
@@ -5124,6 +5124,21 @@
       "status": "REMOVED"
     },
     {
+      "id": 11296,
+      "username": "CraterZemon",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-10-27",
+      "timestamp_added": "2026-10-27 21:10:20",
+      "added_by": "209956201377562624",
+      "reason": "Bot - Did not respond over half game of deaths",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 238,
       "username": "cricket50",
       "category": "Bot or Gold Farmer",
@@ -5887,6 +5902,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Gold Farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11297,
+      "username": "stayrolling",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-10-27",
+      "timestamp_added": "2026-10-27 21:11:00",
+      "added_by": "209956201377562624",
+      "reason": "BOT - Did not respond over 14 deaths and grave camp",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
