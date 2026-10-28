@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-28T19:05:45.107087",
-  "total_entries": 9218,
+  "exported_at": "2026-10-28T22:28:26.638978",
+  "total_entries": 9219,
   "entries": [
     {
       "id": 2,
@@ -2790,6 +2790,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11299,
+      "username": "Lord Brigora",
+      "category": "Attacking cc Members",
+      "date_added": "2026-10-28",
+      "timestamp_added": "2026-10-28 22:23:24",
+      "added_by": "1244046251012391053",
+      "reason": "Crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/lord_brigora/lord_brigora_20261028_222758.png",
+          "uploaded_by": "1244046251012391053",
+          "uploaded_at": "2026-10-28 22:28:00",
+          "filename": "lord_brigora_20261028_222758.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
