@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-27T21:15:23.863540",
+  "exported_at": "2026-10-28T00:38:26.800291",
   "total_entries": 9217,
   "entries": [
     {
@@ -1189,9 +1189,9 @@
       "is_dupe": false,
       "alt_of": "Demon Party",
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-28 00:33:50",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 11281,
@@ -1204,9 +1204,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-10-28 00:33:24",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 54,
