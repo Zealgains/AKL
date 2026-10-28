@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-28T00:38:26.800291",
-  "total_entries": 9217,
+  "exported_at": "2026-10-28T19:05:45.107087",
+  "total_entries": 9218,
   "entries": [
     {
       "id": 2,
@@ -7644,6 +7644,21 @@
           "filename": "willoff4tcg_20260727_024717.png"
         }
       ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11298,
+      "username": "Wireliner",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-28",
+      "timestamp_added": "2026-10-28 19:00:42",
+      "added_by": "209956201377562624",
+      "reason": "Crashing with Zealgainss - Hopped from 320 and ran straight to kill",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
