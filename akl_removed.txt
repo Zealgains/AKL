@@ -314,3 +314,4 @@ iron kuldiga, (Added: 2026-10-18), <-- reason: run off to ava before taxi,, try 
 cbtmgee, (Added: 2026-10-21), <-- reason: immediately ran to mid, capped and went to opposite ava - not responding, (Rm: 2026-10-21) <-- removal reason: Discussed in public chat, first game - giving 1 chance
 Fe-Stream, (Added: 2026-10-24), <-- reason: crashing/hitting antis while crashers present, (Rm: 2026-10-24) <-- removal reason: Appealed in ticket with allie
 demon party, (Added: 2026-10-23), <-- reason: Attacking anti then having an attitude when corrected - then attacked ranks again after, (Rm: 2026-10-28) <-- removal reason: apologized even though it was a bit weird lol
+Demon Fiesta, (Added: 2026-10-23), <-- reason: Attacking anti - alt of Demon Party [Alt of: Demon Party], (Rm: 2026-10-28) <-- removal reason: appealed in pub
