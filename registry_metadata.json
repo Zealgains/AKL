@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-28T22:28:26.638978",
-  "total_entries": 9219,
+  "exported_at": "2026-10-29T01:41:50.083367",
+  "total_entries": 9220,
   "entries": [
     {
       "id": 2,
@@ -13738,6 +13738,28 @@
           "uploaded_by": "209956201377562624",
           "uploaded_at": "2026-09-18 20:34:45",
           "filename": "iilllbulllii_20260918_203443.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11300,
+      "username": "Inclines",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-10-29",
+      "timestamp_added": "2026-10-29 01:36:46",
+      "added_by": "209956201377562624",
+      "reason": "Trolling in ge - an other alt targeting ranks outside games to harass them",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/inclines/inclines_20261029_013646.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-29 01:36:46",
+          "filename": "inclines_20261029_013646.png"
         }
       ],
       "removed_at": null,
