@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-29T01:41:50.083367",
-  "total_entries": 9220,
+  "exported_at": "2026-10-29T15:20:17.753535",
+  "total_entries": 9221,
   "entries": [
     {
       "id": 2,
@@ -25783,6 +25783,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11301,
+      "username": "JohnDeBaton",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-29",
+      "timestamp_added": "2026-10-29 15:15:14",
+      "added_by": "1244046251012391053",
+      "reason": "Leaked world to ZealGainss - leaves zezima's cc, joins us on an rs3 world, rejoins zezima cc, zgss turns up. Doesn't even have an osrs account",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
