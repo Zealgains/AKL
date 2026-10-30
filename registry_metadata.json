@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-29T15:20:17.753535",
-  "total_entries": 9221,
+  "exported_at": "2026-10-30T23:33:08.739059",
+  "total_entries": 9222,
   "entries": [
     {
       "id": 2,
@@ -6970,6 +6970,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "went rogue, capped graves- no response",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11302,
+      "username": "LijerMichel",
+      "category": "Breaking General Rules",
+      "date_added": "2026-10-30",
+      "timestamp_added": "2026-10-30 23:28:05",
+      "added_by": "1244046251012391053",
+      "reason": "running straight to ava (warned plenty of times by multiple ranks",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
