@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-31T19:36:19.480763",
-  "total_entries": 9224,
+  "exported_at": "2026-10-31T19:50:51.237740",
+  "total_entries": 9225,
   "entries": [
     {
       "id": 2,
@@ -5006,6 +5006,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11305,
+      "username": "40linedox",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-10-31",
+      "timestamp_added": "2026-10-31 19:45:48",
+      "added_by": "209956201377562624",
+      "reason": "Suspected bot - ran to wrong taxi, multiple ranks trying to get his attention as hes running - kept trying to attack own ava while keeping activity up over span of 4 mins",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/40linedox/40linedox_20261031_194548.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-31 19:45:48",
+          "filename": "40linedox_20261031_194548.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
