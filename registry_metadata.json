@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-31T18:52:47.581470",
-  "total_entries": 9223,
+  "exported_at": "2026-10-31T19:36:19.480763",
+  "total_entries": 9224,
   "entries": [
     {
       "id": 2,
@@ -16188,6 +16188,21 @@
       "timestamp_added": "2026-07-28 09:51:28",
       "added_by": "248898439474184192",
       "reason": "Fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11304,
+      "username": "Belt 2",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-10-31",
+      "timestamp_added": "2026-10-31 19:31:16",
+      "added_by": "209956201377562624",
+      "reason": "Fragging without calling twice after being told not to",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
