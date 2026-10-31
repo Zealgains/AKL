@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-30T23:33:08.739059",
-  "total_entries": 9222,
+  "exported_at": "2026-10-31T01:57:50.957058",
+  "total_entries": 9223,
   "entries": [
     {
       "id": 2,
@@ -13833,6 +13833,34 @@
           "uploaded_by": "209956201377562624",
           "uploaded_at": "2026-06-20 23:02:06",
           "filename": "l_jak_l_20260620_230205.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11303,
+      "username": "LastTrade",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-10-31",
+      "timestamp_added": "2026-10-31 01:52:48",
+      "added_by": "209956201377562624",
+      "reason": "Rude af - telling ranks they're fuck tards and toxic because he cannot handle being pk'd when fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/lasttrade/lasttrade_20261031_015247.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-31 01:52:48",
+          "filename": "lasttrade_20261031_015247.png"
+        },
+        {
+          "path": "evidence/lasttrade/lasttrade_20261031_015635.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-10-31 01:56:36",
+          "filename": "lasttrade_20261031_015635.png"
         }
       ],
       "removed_at": null,
