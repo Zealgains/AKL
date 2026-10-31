@@ -314,6 +314,7 @@ yendaly, (Added: 2026-02-21), <-- reason: Begging for GP / Bonds,
 
 --Category(Bot or Gold Farmer)start--,
 1kc abortion, (Added: 2026-02-23), <-- reason: Possible bot,
+40linedox, (Added: 2026-10-31), <-- reason: Suspected bot - ran to wrong taxi, multiple ranks trying to get his attention as hes running - kept trying to attack own ava while keeping activity up over span of 4 mins [Proof: evidence/40linedox/40linedox_20261031_194548.png],
 93l8m9sajzh, (Added: 2026-06-10), <-- reason: suspected bot,
 Ali fighterr, (Added: 2026-04-29), <-- reason: Gold farmer,
 ANAYA_HU_YAR, (Added: 2026-07-08), <-- reason: bot or gold farmer,
