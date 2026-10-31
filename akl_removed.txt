@@ -315,3 +315,4 @@ cbtmgee, (Added: 2026-10-21), <-- reason: immediately ran to mid, capped and wen
 Fe-Stream, (Added: 2026-10-24), <-- reason: crashing/hitting antis while crashers present, (Rm: 2026-10-24) <-- removal reason: Appealed in ticket with allie
 demon party, (Added: 2026-10-23), <-- reason: Attacking anti then having an attitude when corrected - then attacked ranks again after, (Rm: 2026-10-28) <-- removal reason: apologized even though it was a bit weird lol
 Demon Fiesta, (Added: 2026-10-23), <-- reason: Attacking anti - alt of Demon Party [Alt of: Demon Party], (Rm: 2026-10-28) <-- removal reason: appealed in pub
+stayrolling, (Added: 2026-10-27), <-- reason: BOT - Did not respond over 14 deaths and grave camp, (Rm: 2026-10-31) <-- removal reason: Appealed in ticket, however doesn't take accountability for his actions. Given FINAL warning, next offense is permanent ban
