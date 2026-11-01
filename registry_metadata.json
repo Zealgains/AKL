@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-31T19:50:51.237740",
-  "total_entries": 9225,
+  "exported_at": "2026-11-01T00:44:22.360522",
+  "total_entries": 9226,
   "entries": [
     {
       "id": 2,
@@ -6081,6 +6081,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "bot",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11306,
+      "username": "VI Pearl",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-11-01",
+      "timestamp_added": "2026-11-01 00:39:19",
+      "added_by": "209956201377562624",
+      "reason": "Bot or gold farmer - not responding yet keeping activity up - fragging w/o calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
