@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-01T00:44:22.360522",
-  "total_entries": 9226,
+  "exported_at": "2026-11-01T18:38:06.461948",
+  "total_entries": 9227,
   "entries": [
     {
       "id": 2,
@@ -6486,6 +6486,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11307,
+      "username": "CRIXUS MM",
+      "category": "Breaking General Rules",
+      "date_added": "2026-11-01",
+      "timestamp_added": "2026-11-01 18:33:03",
+      "added_by": "265288179052052480",
+      "reason": "fragging and dumping without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/crixus_mm/crixus_mm_20261101_183349.webp",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-11-01 18:33:51",
+          "filename": "crixus_mm_20261101_183349.webp"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
