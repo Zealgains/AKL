@@ -379,6 +379,7 @@ ThaGlizzee, (Added: 2026-08-08), <-- reason: running off to mid multiple times n
 Thekin 28, (Added: 2026-10-08), <-- reason: bot or gold farmer,
 ULQUIORRA 04, (Added: 2026-07-08), <-- reason: bot or gold farmer lurking in cc,
 v4be, (Added: 2026-03-26), <-- reason: bot,
+VI Pearl, (Added: 2026-11-01), <-- reason: Bot or gold farmer - not responding yet keeping activity up - fragging w/o calling,
 wook7s, (Added: 2026-04-11), <-- reason: goldfarmer,
 ZayanOS, (Added: 2026-08-07), <-- reason: Runs off, no response,
 ZERKESYON, (Added: 2026-01-18), <-- reason: Gold Farmer (venezuelan),
