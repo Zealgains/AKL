@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-02T01:26:09.105171",
+  "exported_at": "2026-11-02T20:47:34.981817",
   "total_entries": 9228,
   "entries": [
     {
@@ -6508,9 +6508,9 @@
           "filename": "crixus_mm_20261101_183349.webp"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-11-02 20:42:31",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 7171,
