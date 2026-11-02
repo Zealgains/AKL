@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-01T18:38:06.461948",
-  "total_entries": 9227,
+  "exported_at": "2026-11-02T01:26:09.105171",
+  "total_entries": 9228,
   "entries": [
     {
       "id": 2,
@@ -13530,6 +13530,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11308,
+      "username": "2l0ng",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-11-02",
+      "timestamp_added": "2026-11-02 01:21:06",
+      "added_by": "1244046251012391053",
+      "reason": "he's a dickhead",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/2l0ng/2l0ng_20261102_012134.png",
+          "uploaded_by": "1244046251012391053",
+          "uploaded_at": "2026-11-02 01:21:35",
+          "filename": "2l0ng_20261102_012134.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
