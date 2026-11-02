@@ -316,3 +316,4 @@ Fe-Stream, (Added: 2026-10-24), <-- reason: crashing/hitting antis while crasher
 demon party, (Added: 2026-10-23), <-- reason: Attacking anti then having an attitude when corrected - then attacked ranks again after, (Rm: 2026-10-28) <-- removal reason: apologized even though it was a bit weird lol
 Demon Fiesta, (Added: 2026-10-23), <-- reason: Attacking anti - alt of Demon Party [Alt of: Demon Party], (Rm: 2026-10-28) <-- removal reason: appealed in pub
 stayrolling, (Added: 2026-10-27), <-- reason: BOT - Did not respond over 14 deaths and grave camp, (Rm: 2026-10-31) <-- removal reason: Appealed in ticket, however doesn't take accountability for his actions. Given FINAL warning, next offense is permanent ban
+CRIXUS MM, (Added: 2026-11-01), <-- reason: fragging and dumping without calling [Proof: evidence/crixus_mm/crixus_mm_20261101_183349.webp], (Rm: 2026-11-02) <-- removal reason: Appealed in ticket 3178 - says he read rules and confirmed in ticket
