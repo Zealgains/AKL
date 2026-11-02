@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-02T20:47:34.981817",
-  "total_entries": 9228,
+  "exported_at": "2026-11-02T23:52:47.601165",
+  "total_entries": 9229,
   "entries": [
     {
       "id": 2,
@@ -5006,6 +5006,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11309,
+      "username": "4 Privet Drv",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-11-02",
+      "timestamp_added": "2026-11-02 23:47:44",
+      "added_by": "412117490424872971",
+      "reason": "Suspected bot - ran to wrong taxi, multiple ranks trying to get his attention as hes running - kept trying to attack own ava while keeping activity up over span of 4 mins",
+      "is_dupe": false,
+      "alt_of": "40LineDox",
+      "evidence": [
+        {
+          "path": "evidence/4_privet_drv/4_privet_drv_20261102_234744.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-11-02 23:47:44",
+          "filename": "4_privet_drv_20261102_234744.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
