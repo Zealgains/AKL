@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-03T20:10:55.429814",
-  "total_entries": 9230,
+  "exported_at": "2026-11-03T21:05:00.617261",
+  "total_entries": 9231,
   "entries": [
     {
       "id": 2,
@@ -13805,6 +13805,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "called me a moron then proceeded to rush enemy ava instead of asking for rules",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11311,
+      "username": "HC addicit",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-11-03",
+      "timestamp_added": "2026-11-03 20:59:57",
+      "added_by": "265288179052052480",
+      "reason": "disrespecting ranks",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
