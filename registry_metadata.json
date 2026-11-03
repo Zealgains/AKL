@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-03T21:14:36.556840",
+  "exported_at": "2026-11-03T23:16:53.625742",
   "total_entries": 9231,
   "entries": [
     {
@@ -13996,9 +13996,9 @@
           "filename": "lasttrade_20261031_015635.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-11-03 23:11:50",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 873,
