@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-04T15:42:44.072790",
-  "total_entries": 9295,
+  "exported_at": "2026-11-04T18:16:42.492637",
+  "total_entries": 9296,
   "entries": [
     {
       "id": 2,
@@ -4554,6 +4554,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11376,
+      "username": "vidrioso",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-04",
+      "timestamp_added": "2026-11-04 18:11:39",
+      "added_by": "412117490424872971",
+      "reason": "blatantly attacking antis",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
