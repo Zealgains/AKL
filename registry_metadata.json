@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-04T01:52:28.722491",
-  "total_entries": 9231,
+  "exported_at": "2026-11-04T12:45:31.962146",
+  "total_entries": 9232,
   "entries": [
     {
       "id": 2,
@@ -1461,6 +1461,21 @@
       "timestamp_added": "2026-10-15 19:50:42",
       "added_by": "1244046251012391053",
       "reason": "attk cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11312,
+      "username": "freesnowcone",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-04",
+      "timestamp_added": "2026-11-04 12:40:29",
+      "added_by": "1244046251012391053",
+      "reason": "Griefing from very first game joined, just wants to pvp",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
