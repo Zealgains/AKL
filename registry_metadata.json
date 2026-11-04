@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-03T23:16:53.625742",
+  "exported_at": "2026-11-04T01:52:28.722491",
   "total_entries": 9231,
   "entries": [
     {
@@ -13822,7 +13822,32 @@
       "reason": "disrespecting ranks",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/hc_addicit/hc_addicit_20261104_014723.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-04 01:47:25",
+          "filename": "hc_addicit_20261104_014723.png"
+        },
+        {
+          "path": "evidence/hc_addicit/hc_addicit_20261104_014754.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-04 01:47:56",
+          "filename": "hc_addicit_20261104_014754.png"
+        },
+        {
+          "path": "evidence/hc_addicit/hc_addicit_20261104_014812.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-04 01:48:15",
+          "filename": "hc_addicit_20261104_014812.png"
+        },
+        {
+          "path": "evidence/hc_addicit/hc_addicit_20261104_014838.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-04 01:48:40",
+          "filename": "hc_addicit_20261104_014838.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
