@@ -320,3 +320,4 @@ CRIXUS MM, (Added: 2026-11-01), <-- reason: fragging and dumping without calling
 u tttttttt u, (Added: 2026-07-11), <-- reason: leaking (join fc, left then hamsmackerr turned up), (Rm: 2026-11-03) <-- removal reason: Appealed in ticket, 1st warning
 HC addict, (Added: 2026-11-03), <-- reason: disrespecting ranks, (Rm: 2026-11-03) <-- removal reason: wrong rsn
 LastTrade, (Added: 2026-10-31), <-- reason: Rude af - telling ranks they're fuck tards and toxic because he cannot handle being pk'd when fragging without calling [Proof: evidence/lasttrade/lasttrade_20261031_015635.png], (Rm: 2026-11-03) <-- removal reason: Appealed ticket 3179 - Seems remorseful
+LijerMichel, (Added: 2026-10-30), <-- reason: running straight to ava (warned plenty of times by multiple ranks, (Rm: 2026-11-06) <-- removal reason: Appealed in ticket 3175 - LAST CHANCE for running off to ava early.
