@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-06T00:41:33.055758",
-  "total_entries": 9296,
+  "exported_at": "2026-11-07T10:52:08.500411",
+  "total_entries": 9297,
   "entries": [
     {
       "id": 2,
@@ -16970,6 +16970,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11377,
+      "username": "RickOshay",
+      "category": "Fragging Without Calling",
+      "date_added": "2026-11-07",
+      "timestamp_added": "2026-11-07 10:47:05",
+      "added_by": "265288179052052480",
+      "reason": "fragging w/o calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/rickoshay/rickoshay_20261107_104736.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-11-07 10:47:38",
+          "filename": "rickoshay_20261107_104736.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
