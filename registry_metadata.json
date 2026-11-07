@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-07T10:52:08.500411",
+  "exported_at": "2026-11-07T18:48:46.437427",
   "total_entries": 9297,
   "entries": [
     {
@@ -13878,9 +13878,9 @@
           "filename": "hc_addicit_20261104_014838.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-11-07 18:43:43",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 11310,
