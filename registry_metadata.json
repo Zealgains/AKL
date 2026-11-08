@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-07T18:48:46.437427",
-  "total_entries": 9297,
+  "exported_at": "2026-11-08T22:32:59.319710",
+  "total_entries": 9299,
   "entries": [
     {
       "id": 2,
@@ -22435,7 +22435,14 @@
       "reason": "alt of hd0 joined cc in f2p and left",
       "is_dupe": false,
       "alt_of": "hd0",
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/anotherr_one/anotherr_one_20261108_222754.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-08 22:27:56",
+          "filename": "anotherr_one_20261108_222754.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -103008,6 +103015,43 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11378,
+      "username": "--Bot Limiter---",
+      "category": "Trolling Ranks / Harrassment",
+      "date_added": "2024-01-01",
+      "timestamp_added": "2026-11-08 22:28:25",
+      "added_by": null,
+      "reason": "Category Placeholder",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11379,
+      "username": "Tok-Xil-Red",
+      "category": "Trolling Ranks / Harrassment",
+      "date_added": "2026-11-08",
+      "timestamp_added": "2026-11-08 22:28:57",
+      "added_by": "209956201377562624",
+      "reason": "Trolling skill cape in ge with HD0",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/tok-xil-red/tok-xil-red_20261108_222857.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-08 22:28:57",
+          "filename": "tok-xil-red_20261108_222857.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
