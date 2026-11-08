@@ -1696,7 +1696,7 @@ Angel Sai, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is C
 Aniwave, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 AnnSpices, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 anomites, (Added: 2026-05-16), <-- reason: hopping to world then back to 320,
-anotherr one, (Added: 2026-07-11), <-- reason: alt of hd0 joined cc in f2p and left [Alt of: hd0],
+anotherr one, (Added: 2026-07-11), <-- reason: alt of hd0 joined cc in f2p and left [Alt of: hd0] [Proof: evidence/anotherr_one/anotherr_one_20261108_222754.png],
 ANTICHAD, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 Antinatalist, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Aristo-Power, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
@@ -7114,6 +7114,11 @@ Yakkinton, (Added: 2026-05-12), <-- reason: Enters fc just do tell us we're puss
 ZealGainss, (Added: 2026-02-16), <-- reason: Troll - do not remove,
 zottegast99, (Added: 2026-03-24), <-- reason: Alt of "Dikketeef99" [Alt of: Dikketeef99],
 --Category(Trolling in FC)end--,
+
+--Category(Trolling Ranks / Harrassment)start--,
+--Bot Limiter---, (Added: 2024-01-01), <-- reason: Category Placeholder,
+Tok-Xil-Red, (Added: 2026-11-08), <-- reason: Trolling skill cape in ge with HD0 [Proof: evidence/tok-xil-red/tok-xil-red_20261108_222857.png],
+--Category(Trolling Ranks / Harrassment)end--,
 
 --Category(Virtuous Saints - The Way Out / The Way In's clan)start--,
 --Bot Limiter---, (Added: 2024-01-01), <-- reason: Category Placeholder,
