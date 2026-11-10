@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-08T22:32:59.319710",
-  "total_entries": 9299,
+  "exported_at": "2026-11-10T21:11:55.390416",
+  "total_entries": 9300,
   "entries": [
     {
       "id": 2,
@@ -3895,6 +3895,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11380,
+      "username": "Sashka Q",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-10",
+      "timestamp_added": "2026-11-10 21:06:52",
+      "added_by": "209956201377562624",
+      "reason": "Running to ava early, then runs to mid to attack pures for frags",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
