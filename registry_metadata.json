@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-11T22:20:31.781801",
-  "total_entries": 9302,
+  "exported_at": "2026-11-11T22:36:57.688330",
+  "total_entries": 9303,
   "entries": [
     {
       "id": 2,
@@ -41813,6 +41813,21 @@
       "removed_at": "2026-07-23 23:25:41",
       "removed_by": "209956201377562624",
       "status": "REMOVED"
+    },
+    {
+      "id": 11383,
+      "username": "zeal cape",
+      "category": "Other",
+      "date_added": "2026-11-11",
+      "timestamp_added": "2026-11-11 22:31:54",
+      "added_by": "209956201377562624",
+      "reason": "testing kicks",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 7860,
