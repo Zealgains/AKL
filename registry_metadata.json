@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-10T21:11:55.390416",
-  "total_entries": 9300,
+  "exported_at": "2026-11-11T18:01:22.928083",
+  "total_entries": 9301,
   "entries": [
     {
       "id": 2,
@@ -23602,6 +23602,21 @@
       "timestamp_added": "2026-07-29 09:22:10",
       "added_by": "1244046251012391053",
       "reason": "Joining on f2p world while Zealgainss is following",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11381,
+      "username": "Dan WAP",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-11",
+      "timestamp_added": "2026-11-11 17:56:19",
+      "added_by": "209956201377562624",
+      "reason": "leak/troll",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
