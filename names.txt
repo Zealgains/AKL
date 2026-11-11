@@ -1772,6 +1772,7 @@ cryptoholder, (Added: 2026-05-15), <-- reason: possible leak account was on free
 Cuck Star, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 D 12, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 Daichi D, (Added: 2026-07-29), <-- reason: Joining on f2p world while Zealgainss is following,
+Dan WAP, (Added: 2026-11-11), <-- reason: leak/troll,
 Dankcleric, (Added: 2026-06-29), <-- reason: in Zezima cc while Honestly Nvm is crashing,
 danny santa, (Added: 2026-06-29), <-- reason: in Mod Mark CC while Honestly Nvm is crashing,
 dark 2h kill, (Added: 2026-05-13), <-- reason: private chat on leaking worlds,
