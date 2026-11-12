@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-11T22:36:57.688330",
-  "total_entries": 9303,
+  "exported_at": "2026-11-12T18:11:38.882645",
+  "total_entries": 9305,
   "entries": [
     {
       "id": 2,
@@ -3274,6 +3274,28 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11385,
+      "username": "osrs def pot",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-12",
+      "timestamp_added": "2026-11-12 18:06:40",
+      "added_by": "1244046251012391053",
+      "reason": "Crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/osrs_def_pot/osrs_def_pot_20261112_180835.png",
+          "uploaded_by": "1244046251012391053",
+          "uploaded_at": "2026-11-12 18:08:37",
+          "filename": "osrs_def_pot_20261112_180835.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6508,
       "username": "OTF RAG BOT",
       "category": "Attacking cc Members",
@@ -4348,6 +4370,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11384,
+      "username": "TimoGoHardTV",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-12",
+      "timestamp_added": "2026-11-12 18:06:36",
+      "added_by": "1244046251012391053",
+      "reason": "Crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/timogohardtv/timogohardtv_20261112_180808.png",
+          "uploaded_by": "1244046251012391053",
+          "uploaded_at": "2026-11-12 18:08:10",
+          "filename": "timogohardtv_20261112_180808.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
