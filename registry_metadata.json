@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-12T21:29:40.065860",
-  "total_entries": 9367,
+  "exported_at": "2026-11-13T06:09:13.070806",
+  "total_entries": 9370,
   "entries": [
     {
       "id": 2,
@@ -1269,6 +1269,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11449,
+      "username": "DwarfPiper",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-13",
+      "timestamp_added": "2026-11-13 06:04:48",
+      "added_by": "209956201377562624",
+      "reason": "Crashing with i iBelieve i",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 58,
       "username": "en-lil",
       "category": "Attacking cc Members",
@@ -2008,6 +2023,21 @@
       "timestamp_added": "2026-07-05 15:18:49",
       "added_by": "412117490424872971",
       "reason": "crashing and alt of U St",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11450,
+      "username": "I ibelieve i",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-13",
+      "timestamp_added": "2026-11-13 06:05:46",
+      "added_by": "209956201377562624",
+      "reason": "Crashing and targeting taxi / dd stack - intentional and fully aware it was zealgains",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -40445,6 +40475,21 @@
       "timestamp_added": "2026-09-14 22:07:50",
       "added_by": "412117490424872971",
       "reason": "spamming",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11448,
+      "username": "c o n quest",
+      "category": "Other",
+      "date_added": "2026-11-13",
+      "timestamp_added": "2026-11-13 06:04:10",
+      "added_by": "209956201377562624",
+      "reason": "In lobby game when i iBelieve i showed up to crash and left right before",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
