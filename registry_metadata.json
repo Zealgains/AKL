@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-14T16:27:28.900756",
-  "total_entries": 9371,
+  "exported_at": "2026-11-15T00:10:01.720692",
+  "total_entries": 9372,
   "entries": [
     {
       "id": 2,
@@ -104133,6 +104133,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "alt of xfundedx).",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11452,
+      "username": "SlayersKable",
+      "category": "Trolling in FC",
+      "date_added": "2026-11-15",
+      "timestamp_added": "2026-11-15 00:04:58",
+      "added_by": "209956201377562624",
+      "reason": "Constantly leaving early as taxi even when ranks tell him to stop, ignoring everyone correcting him",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
