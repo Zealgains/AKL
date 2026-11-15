@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-15T00:10:01.720692",
-  "total_entries": 9372,
+  "exported_at": "2026-11-15T06:36:17.634521",
+  "total_entries": 9374,
   "entries": [
     {
       "id": 2,
@@ -1469,6 +1469,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11454,
+      "username": "Foot Fetishh",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-15",
+      "timestamp_added": "2026-11-15 06:31:37",
+      "added_by": "412117490424872971",
+      "reason": "Blatantly attacking and targeting cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 10999,
       "username": "Forev3r Rich",
       "category": "Attacking cc Members",
@@ -2585,6 +2600,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "griefing games and attacking cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11453,
+      "username": "Kill Da Haji",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-15",
+      "timestamp_added": "2026-11-15 06:31:10",
+      "added_by": "412117490424872971",
+      "reason": "blatantly Attacking and targeting cc",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
