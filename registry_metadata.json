@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-16T17:27:23.055186",
-  "total_entries": 9375,
+  "exported_at": "2026-11-16T18:54:46.427483",
+  "total_entries": 9376,
   "entries": [
     {
       "id": 2,
@@ -4481,6 +4481,21 @@
       "reason": "Attacking cc members",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11456,
+      "username": "Toxic Timo",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-16",
+      "timestamp_added": "2026-11-16 18:49:43",
+      "added_by": "412117490424872971",
+      "reason": "General griefer with The Crusader clan",
+      "is_dupe": false,
+      "alt_of": "TimoGoHardTV",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
