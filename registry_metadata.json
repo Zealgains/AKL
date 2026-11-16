@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-15T06:36:17.634521",
-  "total_entries": 9374,
+  "exported_at": "2026-11-16T17:27:23.055186",
+  "total_entries": 9375,
   "entries": [
     {
       "id": 2,
@@ -23856,6 +23856,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11455,
+      "username": "deeper 8",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-16",
+      "timestamp_added": "2026-11-16 17:22:20",
+      "added_by": "412117490424872971",
+      "reason": "leak for deep nr 1 (alt)",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
