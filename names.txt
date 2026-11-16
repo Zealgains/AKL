@@ -1788,6 +1788,7 @@ DaSlumpG0d, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is 
 Dc2Boi, (Added: 2026-06-29), <-- reason: leaking world to Honestly Nvm in Zezima chat-channel,
 Deanisasleep, (Added: 2026-06-29), <-- reason: in Zezima CC while Honestly Nvm is crashing,
 Deathweaver, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
+deeper 8, (Added: 2026-11-16), <-- reason: leak for deep nr 1 (alt),
 deetss, (Added: 2026-03-22), <-- reason: leaking world to Lts a main from 320 [Proof: evidence/deetss/deetss_20260322_164842.png],
 Demonic Skin, (Added: 2026-06-29), <-- reason: In Zezima CC while Honestly Nvm is crashing,
 DeoSitGloria, (Added: 2026-07-01), <-- reason: in Zezima CC while Honestly Nvm is crashing,
