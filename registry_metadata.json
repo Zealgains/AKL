@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-17T12:02:06.975898",
-  "total_entries": 9438,
+  "exported_at": "2026-11-17T12:51:09.222006",
+  "total_entries": 9439,
   "entries": [
     {
       "id": 2,
@@ -2629,6 +2629,21 @@
       "timestamp_added": "2026-10-04 16:08:18",
       "added_by": "412117490424872971",
       "reason": "killing fc members/griefing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11519,
+      "username": "KeiCha",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-17",
+      "timestamp_added": "2026-11-17 12:46:05",
+      "added_by": "1244046251012391053",
+      "reason": "Attacking cc members and fragging without calling",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
