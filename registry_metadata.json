@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-17T03:54:48.464869",
-  "total_entries": 9436,
+  "exported_at": "2026-11-17T12:02:06.975898",
+  "total_entries": 9438,
   "entries": [
     {
       "id": 2,
@@ -515,6 +515,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11518,
+      "username": "bala payara",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-17",
+      "timestamp_added": "2026-11-17 11:57:08",
+      "added_by": "265288179052052480",
+      "reason": "Attacking cc members and fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/bala_payara/bala_payara_20261117_115734.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-11-17 11:57:35",
+          "filename": "bala_payara_20261117_115734.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -1294,6 +1316,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11517,
+      "username": "Evilconypk",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-17",
+      "timestamp_added": "2026-11-17 11:57:03",
+      "added_by": "265288179052052480",
+      "reason": "attacking cc members and fragging without calling",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/evilconypk/evilconypk_20261117_115809.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-11-17 11:58:11",
+          "filename": "evilconypk_20261117_115809.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
