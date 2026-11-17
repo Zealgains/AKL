@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-17T03:45:23.848504",
+  "exported_at": "2026-11-17T03:54:48.464869",
   "total_entries": 9436,
   "entries": [
     {
@@ -7292,7 +7292,26 @@
       "reason": "disrespecting members and ranks",
       "is_dupe": false,
       "alt_of": null,
-      "evidence": [],
+      "evidence": [
+        {
+          "path": "evidence/lootkeymia/lootkeymia_20261117_034944.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-17 03:49:45",
+          "filename": "lootkeymia_20261117_034944.png"
+        },
+        {
+          "path": "evidence/lootkeymia/lootkeymia_20261117_035002.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-17 03:50:03",
+          "filename": "lootkeymia_20261117_035002.png"
+        },
+        {
+          "path": "evidence/lootkeymia/lootkeymia_20261117_035021.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-17 03:50:22",
+          "filename": "lootkeymia_20261117_035021.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
