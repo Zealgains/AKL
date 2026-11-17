@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-16T22:01:12.239865",
-  "total_entries": 9435,
+  "exported_at": "2026-11-17T03:45:23.848504",
+  "total_entries": 9436,
   "entries": [
     {
       "id": 2,
@@ -7275,6 +7275,21 @@
       "timestamp_added": "2026-09-14 16:46:59",
       "added_by": "209956201377562624",
       "reason": "Griefer, joined at same time as multiple white dots",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11516,
+      "username": "lootkeymia",
+      "category": "Breaking General Rules",
+      "date_added": "2026-11-17",
+      "timestamp_added": "2026-11-17 03:40:20",
+      "added_by": "209956201377562624",
+      "reason": "disrespecting members and ranks",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
