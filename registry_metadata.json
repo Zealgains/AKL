@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-18T02:59:43.316412",
+  "exported_at": "2026-11-18T03:45:07.503695",
   "total_entries": 9440,
   "entries": [
     {
@@ -5655,9 +5655,9 @@
           "filename": "i_dab_globs_20261118_025439.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-11-18 03:40:04",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 246,
