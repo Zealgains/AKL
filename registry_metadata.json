@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-17T12:51:09.222006",
-  "total_entries": 9439,
+  "exported_at": "2026-11-18T02:59:43.316412",
+  "total_entries": 9440,
   "entries": [
     {
       "id": 2,
@@ -5633,6 +5633,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11520,
+      "username": "I Dab Globs",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-11-18",
+      "timestamp_added": "2026-11-18 02:54:40",
+      "added_by": "412117490424872971",
+      "reason": "Ran straight to avatar and is not responding in chat, might be a bot",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/i_dab_globs/i_dab_globs_20261118_025439.png",
+          "uploaded_by": "412117490424872971",
+          "uploaded_at": "2026-11-18 02:54:40",
+          "filename": "i_dab_globs_20261118_025439.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
