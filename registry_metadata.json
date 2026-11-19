@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-19T14:56:34.413393",
-  "total_entries": 9504,
+  "exported_at": "2026-11-19T18:30:04.366493",
+  "total_entries": 9505,
   "entries": [
     {
       "id": 2,
@@ -30496,6 +30496,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11585,
+      "username": "T MD",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-19",
+      "timestamp_added": "2026-11-19 18:25:01",
+      "added_by": "209956201377562624",
+      "reason": "Recruiting crashers from castle wars",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
