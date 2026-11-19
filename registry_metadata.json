@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-19T18:30:04.366493",
+  "exported_at": "2026-11-19T20:14:19.365305",
   "total_entries": 9505,
   "entries": [
     {
@@ -7437,9 +7437,9 @@
           "filename": "lootkeymia_20261117_035021.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-11-19 20:09:16",
+      "removed_by": "412117490424872971",
+      "status": "REMOVED"
     },
     {
       "id": 6482,
