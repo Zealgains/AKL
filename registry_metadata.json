@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-19T06:10:30.232066",
-  "total_entries": 9503,
+  "exported_at": "2026-11-19T14:56:34.413393",
+  "total_entries": 9504,
   "entries": [
     {
       "id": 2,
@@ -193,6 +193,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11584,
+      "username": "3 for 100ner",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-19",
+      "timestamp_added": "2026-11-19 14:51:31",
+      "added_by": "265288179052052480",
+      "reason": "Attacking fc members and capping mid early no response",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/3_for_100ner/3_for_100ner_20261119_145226.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-11-19 14:52:29",
+          "filename": "3_for_100ner_20261119_145226.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
