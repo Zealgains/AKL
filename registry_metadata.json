@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-19T06:02:25.421418",
-  "total_entries": 9502,
+  "exported_at": "2026-11-19T06:10:30.232066",
+  "total_entries": 9503,
   "entries": [
     {
       "id": 2,
@@ -5658,6 +5658,28 @@
       "removed_at": "2026-11-18 03:40:04",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 11583,
+      "username": "IM-DaN0rth",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-11-19",
+      "timestamp_added": "2026-11-19 06:05:27",
+      "added_by": "209956201377562624",
+      "reason": "Gold Farmer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/im-dan0rth/im-dan0rth_20261119_060526.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-19 06:05:27",
+          "filename": "im-dan0rth_20261119_060526.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 246,
