@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-18T23:58:14.386390",
-  "total_entries": 9501,
+  "exported_at": "2026-11-19T06:02:25.421418",
+  "total_entries": 9502,
   "entries": [
     {
       "id": 2,
@@ -13913,6 +13913,34 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11582,
+      "username": "Alien PP",
+      "category": "Disrespecting Ranks",
+      "date_added": "2026-11-19",
+      "timestamp_added": "2026-11-19 05:57:22",
+      "added_by": "209956201377562624",
+      "reason": "Absolute disgusting human being - do not remove",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/alien_pp/alien_pp_20261119_055721.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-19 05:57:22",
+          "filename": "alien_pp_20261119_055721.png"
+        },
+        {
+          "path": "evidence/alien_pp/alien_pp_20261119_055856.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-19 05:58:59",
+          "filename": "alien_pp_20261119_055856.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
