@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-20T14:34:53.039757",
+  "exported_at": "2026-11-20T15:28:27.364939",
   "total_entries": 9505,
   "entries": [
     {
@@ -25128,6 +25128,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11587,
+      "username": "geyzel",
+      "category": "Leak Accounts",
+      "date_added": "2026-10-04",
+      "timestamp_added": "2026-11-20 15:23:24",
+      "added_by": "412117490424872971",
+      "reason": "in JohnnyBlazed cc with davilex and Femi Pk",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 7122,
       "username": "Ghost 7 3",
       "category": "Leak Accounts",
@@ -41014,21 +41029,6 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "tied to hello love00, who's a suspected bot/gold farmer. They said they're hello love00 in fc, in an attempt to get hello love00 unkicked. We let them back after which they straight away went back messing things up (not joining fc, going off world when in fc, running off in game, not repsonding to anything).",
-      "is_dupe": false,
-      "alt_of": null,
-      "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
-    },
-    {
-      "id": 10723,
-      "username": "geyzel",
-      "category": "Other",
-      "date_added": "2026-10-04",
-      "timestamp_added": "2026-10-04 16:12:27",
-      "added_by": "412117490424872971",
-      "reason": "in JohnnyBlazed cc with davilex and Femi Pk",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
