@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-20T15:28:27.364939",
-  "total_entries": 9505,
+  "exported_at": "2026-11-20T23:49:25.039601",
+  "total_entries": 9508,
   "entries": [
     {
       "id": 2,
@@ -96471,6 +96471,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11589,
+      "username": "98 Rainy 319",
+      "category": "The Crusader Clan - davilex and wolfondleit",
+      "date_added": "2026-11-20",
+      "timestamp_added": "2026-11-20 23:44:22",
+      "added_by": "412117490424872971",
+      "reason": "in davilex's clan The Crusader",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 7725,
       "username": "A N3w Tank",
       "category": "The Crusader Clan - davilex and wolfondleit",
@@ -96493,6 +96508,21 @@
       "timestamp_added": "2026-09-08 02:41:57",
       "added_by": "412117490424872971",
       "reason": "Crasher Clan - Do not remove",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11590,
+      "username": "AFKsince06",
+      "category": "The Crusader Clan - davilex and wolfondleit",
+      "date_added": "2026-11-20",
+      "timestamp_added": "2026-11-20 23:44:22",
+      "added_by": "412117490424872971",
+      "reason": "in davilex's clan The Crusader",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -97063,6 +97093,21 @@
       "timestamp_added": "2026-11-18 23:53:11",
       "added_by": "412117490424872971",
       "reason": "in The Crusader Clan with Davilex",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11588,
+      "username": "Deepster",
+      "category": "The Crusader Clan - davilex and wolfondleit",
+      "date_added": "2026-11-20",
+      "timestamp_added": "2026-11-20 23:44:22",
+      "added_by": "412117490424872971",
+      "reason": "in davilex's clan The Crusader",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
