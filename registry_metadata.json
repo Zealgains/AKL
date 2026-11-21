@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-20T23:49:25.039601",
-  "total_entries": 9508,
+  "exported_at": "2026-11-21T00:13:52.572489",
+  "total_entries": 9511,
   "entries": [
     {
       "id": 2,
@@ -23241,6 +23241,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11591,
+      "username": "Bebi Push",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-21",
+      "timestamp_added": "2026-11-21 00:08:49",
+      "added_by": "412117490424872971",
+      "reason": "leak account for Davilex, joined and lurked in cc",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 6794,
       "username": "BEEN_LIT",
       "category": "Leak Accounts",
@@ -23308,6 +23323,21 @@
       "timestamp_added": "2026-07-01 01:56:58",
       "added_by": "412117490424872971",
       "reason": "in Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11592,
+      "username": "big dumass",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-21",
+      "timestamp_added": "2026-11-21 00:11:01",
+      "added_by": "412117490424872971",
+      "reason": "possible leak for pickle kings or davilex. joined and left chat",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -27306,6 +27336,21 @@
       "timestamp_added": "2026-06-29 02:15:51",
       "added_by": "412117490424872971",
       "reason": "leaking world to Honestly Nvm in Zezima chat-channel",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11593,
+      "username": "lotusgloom",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-21",
+      "timestamp_added": "2026-11-21 00:11:46",
+      "added_by": "412117490424872971",
+      "reason": "possible leak account for davilex or pickle kings",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
