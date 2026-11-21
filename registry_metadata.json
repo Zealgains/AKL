@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-21T03:04:55.989435",
-  "total_entries": 9542,
+  "exported_at": "2026-11-21T16:30:15.810443",
+  "total_entries": 9543,
   "entries": [
     {
       "id": 2,
@@ -30601,6 +30601,21 @@
       "timestamp_added": "2026-06-29 16:41:20",
       "added_by": "412117490424872971",
       "reason": "In Zezima CC while Honestly Nvm is crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11625,
+      "username": "Ted0x",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-21",
+      "timestamp_added": "2026-11-21 16:25:12",
+      "added_by": "412117490424872971",
+      "reason": "leak account for zealgainss, hopping in and out of cc on f2p",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
