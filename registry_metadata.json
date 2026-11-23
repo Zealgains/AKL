@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-21T21:05:34.771908",
-  "total_entries": 9589,
+  "exported_at": "2026-11-23T01:06:55.254208",
+  "total_entries": 9590,
   "entries": [
     {
       "id": 2,
@@ -22285,6 +22285,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11672,
+      "username": "13uilt",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-23",
+      "timestamp_added": "2026-11-23 01:01:52",
+      "added_by": "209956201377562624",
+      "reason": "Literally says world in public chat right after all mod accounts hop",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/13uilt/13uilt_20261123_010152.png",
+          "uploaded_by": "209956201377562624",
+          "uploaded_at": "2026-11-23 01:01:52",
+          "filename": "13uilt_20261123_010152.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
