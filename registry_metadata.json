@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-23T03:06:23.328129",
-  "total_entries": 9590,
+  "exported_at": "2026-11-23T04:58:38.017941",
+  "total_entries": 9591,
   "entries": [
     {
       "id": 2,
@@ -6167,6 +6167,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "rwt gold famer",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11673,
+      "username": "pirate fino",
+      "category": "Bot or Gold Farmer",
+      "date_added": "2026-11-23",
+      "timestamp_added": "2026-11-23 04:53:35",
+      "added_by": "412117490424872971",
+      "reason": "not responding in game except with \"hi\" and \"Why are you attacking me\" possible bot",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
