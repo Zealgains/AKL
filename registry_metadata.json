@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-11-23T01:06:55.254208",
+  "exported_at": "2026-11-23T03:06:23.328129",
   "total_entries": 9590,
   "entries": [
     {
@@ -22307,9 +22307,9 @@
           "filename": "13uilt_20261123_010152.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-11-23 03:01:20",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 8928,
