@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-23T21:50:59.826159",
-  "total_entries": 9666,
+  "exported_at": "2026-11-24T16:46:05.836416",
+  "total_entries": 9667,
   "entries": [
     {
       "id": 2,
@@ -3986,6 +3986,28 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11749,
+      "username": "Roger Jr",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-24",
+      "timestamp_added": "2026-11-24 16:41:02",
+      "added_by": "265288179052052480",
+      "reason": "Attacking fc members/ crashing",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/roger_jr/roger_jr_20261124_164123.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-11-24 16:41:25",
+          "filename": "roger_jr_20261124_164123.png"
+        }
+      ],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
