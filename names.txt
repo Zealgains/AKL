@@ -244,6 +244,7 @@ Ripped RNG, (Added: Unknown Date), <-- reason: attacking cc while ranks aren't l
 RIZI_KING_OP, (Added: Unknown Date), <-- reason: <--Attacking CC Members.,
 rng monkey, (Added: 2026-04-03), <-- reason: Very intentional crash - attacking and targetting Taxi and low hpers,
 roake96, (Added: Unknown Date), <-- reason: <--attacking cc closed-1412.,
+Roger Jr, (Added: 2026-11-24), <-- reason: Attacking fc members/ crashing [Proof: evidence/roger_jr/roger_jr_20261124_164123.png],
 Roketssan, (Added: Unknown Date), <-- reason: attacking cc multiple times.,
 RpFromLV, (Added: Unknown Date), <-- reason: Attacking CC.,
 rsbuddy1993, (Added: Unknown Date), <-- reason: attacking cc ticket closed-1397.,
