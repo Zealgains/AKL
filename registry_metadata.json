@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-26T02:29:05.848805",
-  "total_entries": 9347,
+  "exported_at": "2026-11-26T07:12:47.204376",
+  "total_entries": 9348,
   "entries": [
     {
       "id": 2,
@@ -28243,6 +28243,21 @@
       "reason": "Leaked chat to zealgainss from f2p",
       "is_dupe": false,
       "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11753,
+      "username": "No Manners",
+      "category": "Leak Accounts",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 07:08:52",
+      "added_by": "412117490424872971",
+      "reason": "Crashing and attacking cc with w 320",
+      "is_dupe": false,
+      "alt_of": "arloria",
       "evidence": [],
       "removed_at": null,
       "removed_by": null,
@@ -79745,13 +79760,13 @@
       "status": "ACTIVE"
     },
     {
-      "id": 4406,
+      "id": 11752,
       "username": "Arloria",
       "category": "Rido Soul Wars CC",
-      "date_added": "Unknown Date",
-      "timestamp_added": "2026-06-17 03:49:40",
-      "added_by": null,
-      "reason": "No reason provided.",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 07:07:44",
+      "added_by": "412117490424872971",
+      "reason": "Attacking cc with W 320",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
