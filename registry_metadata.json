@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-26T16:06:11.211566",
-  "total_entries": 9349,
+  "exported_at": "2026-11-26T22:49:39.239051",
+  "total_entries": 9364,
   "entries": [
     {
       "id": 2,
@@ -968,12 +968,12 @@
       "status": "ACTIVE"
     },
     {
-      "id": 44,
+      "id": 11770,
       "username": "chaos_blitzz",
       "category": "Attacking cc Members",
       "date_added": "2026-04-14",
-      "timestamp_added": "2026-06-17 03:49:40",
-      "added_by": null,
+      "timestamp_added": "2026-11-26 22:47:49",
+      "added_by": "412117490424872971",
       "reason": "attacking cc",
       "is_dupe": false,
       "alt_of": null,
@@ -58370,6 +58370,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11765,
+      "username": "Angkor",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3060,
       "username": "anna iva",
       "category": "Removed from Banlist",
@@ -60095,6 +60110,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11769,
+      "username": "BreeFraser",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3167,
       "username": "breezula",
       "category": "Removed from Banlist",
@@ -60717,6 +60747,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "Removed from ban list",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11762,
+      "username": "Chaos_blittzz",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -61512,6 +61557,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11766,
+      "username": "Dark Travels",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -63012,6 +63072,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11760,
+      "username": "Fat Orange 8",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -64625,6 +64700,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11756,
+      "username": "H31S3NB3RG",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3452,
       "username": "h8 N words",
       "category": "Removed from Banlist",
@@ -65750,6 +65840,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11763,
+      "username": "iDriveTheBus",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3521,
       "username": "IFurionI",
       "category": "Removed from Banlist",
@@ -66155,6 +66260,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11768,
+      "username": "iPsyqoduck",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3546,
       "username": "iRelent",
       "category": "Removed from Banlist",
@@ -66380,6 +66500,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11759,
+      "username": "Its Allah",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3559,
       "username": "Its Anti",
       "category": "Removed from Banlist",
@@ -66483,6 +66618,21 @@
       "removed_at": "2026-06-17 23:19:59",
       "removed_by": "412117490424872971",
       "status": "REMOVED"
+    },
+    {
+      "id": 11758,
+      "username": "Its Weed",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
     },
     {
       "id": 3566,
@@ -68465,6 +68615,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11757,
+      "username": "lllMobile",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3689,
       "username": "Llorenlo Rat",
       "category": "Removed from Banlist",
@@ -69140,6 +69305,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11764,
+      "username": "MagaTurd",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 3733,
       "username": "Maglc Fang",
       "category": "Removed from Banlist",
@@ -69252,6 +69432,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11767,
+      "username": "Malie Donn",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
@@ -76437,6 +76632,21 @@
       "status": "ACTIVE"
     },
     {
+      "id": 11755,
+      "username": "Thee Named",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
       "id": 4194,
       "username": "thegeistd",
       "category": "Removed from Banlist",
@@ -79714,6 +79924,21 @@
       "timestamp_added": "2026-06-17 03:49:40",
       "added_by": null,
       "reason": "No reason provided.",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11761,
+      "username": "zututututu",
+      "category": "Removed from Banlist",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 22:44:36",
+      "added_by": "412117490424872971",
+      "reason": "Removed from Ban List",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
