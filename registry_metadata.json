@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-26T07:12:47.204376",
-  "total_entries": 9348,
+  "exported_at": "2026-11-26T09:41:05.629611",
+  "total_entries": 9349,
   "entries": [
     {
       "id": 2,
@@ -3378,6 +3378,28 @@
           "uploaded_by": "209956201377562624",
           "uploaded_at": "2026-10-19 19:35:13",
           "filename": "nosweatrng_20261019_193511.png"
+        }
+      ],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11754,
+      "username": "notpersia111",
+      "category": "Attacking cc Members",
+      "date_added": "2026-11-26",
+      "timestamp_added": "2026-11-26 09:36:02",
+      "added_by": "265288179052052480",
+      "reason": "Attacking antis",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [
+        {
+          "path": "evidence/notpersia111/notpersia111_20261126_093638.png",
+          "uploaded_by": "265288179052052480",
+          "uploaded_at": "2026-11-26 09:36:40",
+          "filename": "notpersia111_20261126_093638.png"
         }
       ],
       "removed_at": null,
