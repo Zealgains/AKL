@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-11-27T11:21:34.077629",
-  "total_entries": 9365,
+  "exported_at": "2026-11-28T02:09:49.262102",
+  "total_entries": 9366,
   "entries": [
     {
       "id": 2,
@@ -7444,6 +7444,21 @@
       "timestamp_added": "2026-11-14 16:22:25",
       "added_by": "209956201377562624",
       "reason": "Went back to rule breaking 1 day after unban",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 11772,
+      "username": "kangaroo AI",
+      "category": "Breaking General Rules",
+      "date_added": "2026-11-28",
+      "timestamp_added": "2026-11-28 02:04:46",
+      "added_by": "209956201377562624",
+      "reason": "Continued to yap about the same issue after multiple warnings by different ranks",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
